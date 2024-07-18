@@ -1,0 +1,3502 @@
+[
+	{
+		"tagId": "JQF71PJO2QH",
+		"dhms": "05/04/2024 23:54:30",
+		"voie": "NT24",
+		"amount": 1075,
+		"ffAmount": 1038
+	},
+	{
+		"tagId": "SCR26DHX8YP",
+		"dhms": "28/01/2024 01:30:05",
+		"voie": "ST22",
+		"amount": 1148,
+		"ffAmount": 955
+	},
+	{
+		"tagId": "WDI33VOC1MY",
+		"dhms": "01/02/2024 04:33:12",
+		"voie": "NT24",
+		"amount": 995,
+		"ffAmount": 1017
+	},
+	{
+		"tagId": "BDW47DFC9CV",
+		"dhms": "16/01/2024 23:20:22",
+		"voie": "NX03",
+		"amount": 958,
+		"ffAmount": 1028
+	},
+	{
+		"tagId": "SYV48CHF1RY",
+		"dhms": "26/03/2024 21:25:20",
+		"voie": "ST22",
+		"amount": 927,
+		"ffAmount": 1016
+	},
+	{
+		"tagId": "ZKI46MHS4IF",
+		"dhms": "27/03/2024 13:36:34",
+		"voie": "SX24",
+		"amount": 1023,
+		"ffAmount": 1000
+	},
+	{
+		"tagId": "YSW51XEU2KR",
+		"dhms": "05/02/2024 11:50:35",
+		"voie": "NT02",
+		"amount": 866,
+		"ffAmount": 1083
+	},
+	{
+		"tagId": "OUD62BIX7CH",
+		"dhms": "02/04/2024 02:31:10",
+		"voie": "NX04",
+		"amount": 1127,
+		"ffAmount": 1025
+	},
+	{
+		"tagId": "KNT88GJJ4RE",
+		"dhms": "05/04/2024 13:06:58",
+		"voie": "NT23",
+		"amount": 1156,
+		"ffAmount": 1028
+	},
+	{
+		"tagId": "BVR11OIX5DN",
+		"dhms": "31/01/2024 05:00:08",
+		"voie": "NX03",
+		"amount": 995,
+		"ffAmount": 1013
+	},
+	{
+		"tagId": "JEC72WRP2DJ",
+		"dhms": "31/03/2024 22:24:26",
+		"voie": "NT02",
+		"amount": 1039,
+		"ffAmount": 1011
+	},
+	{
+		"tagId": "CSC26XZB5XM",
+		"dhms": "10/02/2024 05:18:16",
+		"voie": "SX24",
+		"amount": 976,
+		"ffAmount": 983
+	},
+	{
+		"tagId": "AJP76BSO1ZO",
+		"dhms": "22/02/2024 10:08:43",
+		"voie": "SX23",
+		"amount": 920,
+		"ffAmount": 960
+	},
+	{
+		"tagId": "OIM21UIN7BE",
+		"dhms": "31/03/2024 18:43:07",
+		"voie": "NT02",
+		"amount": 1106,
+		"ffAmount": 971
+	},
+	{
+		"tagId": "NRI49RGQ7DI",
+		"dhms": "05/02/2024 14:06:37",
+		"voie": "NT24",
+		"amount": 1137,
+		"ffAmount": 1102
+	},
+	{
+		"tagId": "MIT47KTQ2TH",
+		"dhms": "09/02/2024 15:35:56",
+		"voie": "NT24",
+		"amount": 1391,
+		"ffAmount": 1036
+	},
+	{
+		"tagId": "BCO69IDS4EP",
+		"dhms": "20/03/2024 14:30:18",
+		"voie": "NX04",
+		"amount": 881,
+		"ffAmount": 988
+	},
+	{
+		"tagId": "ASN47XNQ7OS",
+		"dhms": "10/01/2024 09:49:10",
+		"voie": "SX22",
+		"amount": 1092,
+		"ffAmount": 942
+	},
+	{
+		"tagId": "KEI22ELJ2CZ",
+		"dhms": "27/01/2024 23:32:59",
+		"voie": "NT02",
+		"amount": 851,
+		"ffAmount": 1001
+	},
+	{
+		"tagId": "VNL85AVQ4VP",
+		"dhms": "19/04/2024 01:03:29",
+		"voie": "NX04",
+		"amount": 801,
+		"ffAmount": 1023
+	},
+	{
+		"tagId": "LIS70WDI8UQ",
+		"dhms": "23/03/2024 08:09:51",
+		"voie": "SX22",
+		"amount": 969,
+		"ffAmount": 939
+	},
+	{
+		"tagId": "HLL46STG4MG",
+		"dhms": "28/02/2024 13:23:08",
+		"voie": "SX22",
+		"amount": 1108,
+		"ffAmount": 944
+	},
+	{
+		"tagId": "KJO34PTQ3PZ",
+		"dhms": "04/03/2024 15:06:03",
+		"voie": "NT24",
+		"amount": 930,
+		"ffAmount": 1045
+	},
+	{
+		"tagId": "JMQ35BGL3IX",
+		"dhms": "28/01/2024 10:05:02",
+		"voie": "NX03",
+		"amount": 1214,
+		"ffAmount": 971
+	},
+	{
+		"tagId": "UHV97BUB7CD",
+		"dhms": "03/01/2024 16:06:23",
+		"voie": "ST22",
+		"amount": 1054,
+		"ffAmount": 1003
+	},
+	{
+		"tagId": "IQP22WOQ7OU",
+		"dhms": "23/01/2024 19:16:26",
+		"voie": "NT24",
+		"amount": 940,
+		"ffAmount": 1042
+	},
+	{
+		"tagId": "LAW18OCN3LP",
+		"dhms": "03/01/2024 19:19:08",
+		"voie": "SX22",
+		"amount": 1081,
+		"ffAmount": 978
+	},
+	{
+		"tagId": "KPK62NPM6QY",
+		"dhms": "22/03/2024 07:09:39",
+		"voie": "NT23",
+		"amount": 794,
+		"ffAmount": 986
+	},
+	{
+		"tagId": "RYX46OWQ2IC",
+		"dhms": "28/02/2024 17:30:51",
+		"voie": "NT23",
+		"amount": 906,
+		"ffAmount": 949
+	},
+	{
+		"tagId": "YBC82JBP5MK",
+		"dhms": "27/01/2024 11:58:54",
+		"voie": "SX22",
+		"amount": 1117,
+		"ffAmount": 1051
+	},
+	{
+		"tagId": "BUC33UUG4NQ",
+		"dhms": "01/04/2024 19:01:40",
+		"voie": "NX03",
+		"amount": 1018,
+		"ffAmount": 1084
+	},
+	{
+		"tagId": "STL57QTL2IC",
+		"dhms": "04/01/2024 18:15:56",
+		"voie": "NT02",
+		"amount": 947,
+		"ffAmount": 940
+	},
+	{
+		"tagId": "AMT54JSR4VI",
+		"dhms": "06/01/2024 23:05:28",
+		"voie": "NX03",
+		"amount": 787,
+		"ffAmount": 1021
+	},
+	{
+		"tagId": "OXV81IQT0GO",
+		"dhms": "16/01/2024 08:13:39",
+		"voie": "NT23",
+		"amount": 991,
+		"ffAmount": 1029
+	},
+	{
+		"tagId": "GLV88GOS5BE",
+		"dhms": "14/02/2024 22:38:20",
+		"voie": "ST22",
+		"amount": 1017,
+		"ffAmount": 1025
+	},
+	{
+		"tagId": "WTM14ELR4PS",
+		"dhms": "12/03/2024 22:45:49",
+		"voie": "NX04",
+		"amount": 970,
+		"ffAmount": 1071
+	},
+	{
+		"tagId": "ZKK94LAM8FA",
+		"dhms": "21/01/2024 09:28:10",
+		"voie": "NT24",
+		"amount": 999,
+		"ffAmount": 1013
+	},
+	{
+		"tagId": "BQP74ZEO1JU",
+		"dhms": "03/01/2024 02:40:32",
+		"voie": "SX23",
+		"amount": 975,
+		"ffAmount": 938
+	},
+	{
+		"tagId": "KYY37QWD5CL",
+		"dhms": "05/02/2024 23:40:57",
+		"voie": "NT02",
+		"amount": 1010,
+		"ffAmount": 971
+	},
+	{
+		"tagId": "NBX43KHO9GV",
+		"dhms": "22/04/2024 02:49:26",
+		"voie": "NT24",
+		"amount": 901,
+		"ffAmount": 987
+	},
+	{
+		"tagId": "QRI23WHR2SG",
+		"dhms": "29/01/2024 07:12:09",
+		"voie": "ST23",
+		"amount": 1135,
+		"ffAmount": 1038
+	},
+	{
+		"tagId": "VWK64ASR0SR",
+		"dhms": "29/03/2024 04:32:46",
+		"voie": "NT24",
+		"amount": 1003,
+		"ffAmount": 1025
+	},
+	{
+		"tagId": "FFH72FMS3FL",
+		"dhms": "12/03/2024 19:14:35",
+		"voie": "NX04",
+		"amount": 1029,
+		"ffAmount": 978
+	},
+	{
+		"tagId": "LKV90DPG4HP",
+		"dhms": "03/02/2024 08:46:06",
+		"voie": "ST22",
+		"amount": 1306,
+		"ffAmount": 1015
+	},
+	{
+		"tagId": "VEC80APS2RB",
+		"dhms": "10/01/2024 01:40:48",
+		"voie": "SX22",
+		"amount": 964,
+		"ffAmount": 979
+	},
+	{
+		"tagId": "NUU29PXR0KD",
+		"dhms": "18/04/2024 04:32:22",
+		"voie": "SX24",
+		"amount": 831,
+		"ffAmount": 1030
+	},
+	{
+		"tagId": "LZR11KTS9YY",
+		"dhms": "08/02/2024 21:12:42",
+		"voie": "SX22",
+		"amount": 948,
+		"ffAmount": 950
+	},
+	{
+		"tagId": "ZJU78GRV1JF",
+		"dhms": "08/01/2024 02:04:50",
+		"voie": "NX03",
+		"amount": 983,
+		"ffAmount": 1066
+	},
+	{
+		"tagId": "UZH63YYI6TH",
+		"dhms": "09/04/2024 06:58:53",
+		"voie": "SX22",
+		"amount": 804,
+		"ffAmount": 1016
+	},
+	{
+		"tagId": "PBV80LIS5FH",
+		"dhms": "22/01/2024 06:24:02",
+		"voie": "NX03",
+		"amount": 918,
+		"ffAmount": 1014
+	},
+	{
+		"tagId": "LXP97YCJ7IM",
+		"dhms": "15/04/2024 05:21:47",
+		"voie": "NX04",
+		"amount": 1128,
+		"ffAmount": 1021
+	},
+	{
+		"tagId": "GCC26ANJ0MA",
+		"dhms": "06/01/2024 20:56:56",
+		"voie": "SX23",
+		"amount": 1000,
+		"ffAmount": 915
+	},
+	{
+		"tagId": "WTN33MVV2WO",
+		"dhms": "23/02/2024 13:22:25",
+		"voie": "NT02",
+		"amount": 1079,
+		"ffAmount": 945
+	},
+	{
+		"tagId": "CGD02OVL8RC",
+		"dhms": "19/02/2024 18:32:34",
+		"voie": "NT02",
+		"amount": 1090,
+		"ffAmount": 952
+	},
+	{
+		"tagId": "LDT76YLN6HR",
+		"dhms": "12/04/2024 13:43:04",
+		"voie": "SX22",
+		"amount": 1024,
+		"ffAmount": 1022
+	},
+	{
+		"tagId": "DBW37SDL4KT",
+		"dhms": "07/01/2024 19:33:50",
+		"voie": "SX24",
+		"amount": 973,
+		"ffAmount": 1055
+	},
+	{
+		"tagId": "FHO11HJV4YA",
+		"dhms": "10/01/2024 21:27:58",
+		"voie": "SX23",
+		"amount": 1211,
+		"ffAmount": 981
+	},
+	{
+		"tagId": "DRC68JKY2GP",
+		"dhms": "08/04/2024 17:56:19",
+		"voie": "NT24",
+		"amount": 824,
+		"ffAmount": 1026
+	},
+	{
+		"tagId": "ONE53KBV4QV",
+		"dhms": "08/03/2024 11:29:54",
+		"voie": "NT23",
+		"amount": 694,
+		"ffAmount": 986
+	},
+	{
+		"tagId": "MBI29ZCG2AT",
+		"dhms": "08/02/2024 14:23:38",
+		"voie": "SX22",
+		"amount": 1176,
+		"ffAmount": 889
+	},
+	{
+		"tagId": "TFX85NUD5SX",
+		"dhms": "25/01/2024 18:50:58",
+		"voie": "ST23",
+		"amount": 805,
+		"ffAmount": 1049
+	},
+	{
+		"tagId": "OFF28IAU4KV",
+		"dhms": "13/01/2024 18:25:32",
+		"voie": "SX22",
+		"amount": 1045,
+		"ffAmount": 981
+	},
+	{
+		"tagId": "DBV33QYF6KG",
+		"dhms": "28/03/2024 15:43:07",
+		"voie": "NX04",
+		"amount": 1086,
+		"ffAmount": 1038
+	},
+	{
+		"tagId": "XCR47CFA9QO",
+		"dhms": "28/01/2024 05:19:37",
+		"voie": "NT24",
+		"amount": 1072,
+		"ffAmount": 970
+	},
+	{
+		"tagId": "OJT06NXQ5EG",
+		"dhms": "24/01/2024 17:59:05",
+		"voie": "NT02",
+		"amount": 977,
+		"ffAmount": 963
+	},
+	{
+		"tagId": "AFF45CWR3LQ",
+		"dhms": "29/01/2024 05:43:59",
+		"voie": "NX04",
+		"amount": 1001,
+		"ffAmount": 1037
+	},
+	{
+		"tagId": "IFK22WTO3MW",
+		"dhms": "13/04/2024 02:27:55",
+		"voie": "NT23",
+		"amount": 1014,
+		"ffAmount": 953
+	},
+	{
+		"tagId": "WIQ70SCK2VV",
+		"dhms": "25/02/2024 23:15:05",
+		"voie": "SX22",
+		"amount": 948,
+		"ffAmount": 990
+	},
+	{
+		"tagId": "RRY13CHV2EY",
+		"dhms": "01/02/2024 15:27:51",
+		"voie": "NT24",
+		"amount": 763,
+		"ffAmount": 1123
+	},
+	{
+		"tagId": "NCD79UMQ6PN",
+		"dhms": "21/03/2024 23:43:51",
+		"voie": "NT23",
+		"amount": 1134,
+		"ffAmount": 1011
+	},
+	{
+		"tagId": "ZFX63JGD1VS",
+		"dhms": "13/03/2024 02:49:39",
+		"voie": "ST23",
+		"amount": 1036,
+		"ffAmount": 1009
+	},
+	{
+		"tagId": "YMR72PKN1KS",
+		"dhms": "11/02/2024 18:35:18",
+		"voie": "NX04",
+		"amount": 992,
+		"ffAmount": 982
+	},
+	{
+		"tagId": "DHQ87GUP8PI",
+		"dhms": "10/03/2024 13:58:27",
+		"voie": "NT24",
+		"amount": 964,
+		"ffAmount": 1044
+	},
+	{
+		"tagId": "UKT33FMO3XX",
+		"dhms": "29/02/2024 02:32:33",
+		"voie": "SX23",
+		"amount": 1152,
+		"ffAmount": 972
+	},
+	{
+		"tagId": "PRD23LLD4RE",
+		"dhms": "01/02/2024 08:10:41",
+		"voie": "NT23",
+		"amount": 704,
+		"ffAmount": 1080
+	},
+	{
+		"tagId": "EAH30FYG5MC",
+		"dhms": "03/03/2024 15:35:08",
+		"voie": "NT24",
+		"amount": 1229,
+		"ffAmount": 993
+	},
+	{
+		"tagId": "COX55ITO1ST",
+		"dhms": "09/03/2024 22:33:40",
+		"voie": "NT23",
+		"amount": 933,
+		"ffAmount": 981
+	},
+	{
+		"tagId": "KCU07HDF0WR",
+		"dhms": "03/02/2024 02:04:49",
+		"voie": "NT02",
+		"amount": 839,
+		"ffAmount": 996
+	},
+	{
+		"tagId": "XEL98XOH5YK",
+		"dhms": "14/01/2024 17:19:25",
+		"voie": "NT24",
+		"amount": 962,
+		"ffAmount": 965
+	},
+	{
+		"tagId": "UYE18OGC6EB",
+		"dhms": "21/04/2024 21:12:39",
+		"voie": "ST23",
+		"amount": 1070,
+		"ffAmount": 1006
+	},
+	{
+		"tagId": "YCC26STM9PO",
+		"dhms": "26/02/2024 02:38:43",
+		"voie": "NT23",
+		"amount": 1219,
+		"ffAmount": 1023
+	},
+	{
+		"tagId": "EVP80QTS1WH",
+		"dhms": "27/01/2024 18:07:27",
+		"voie": "NX04",
+		"amount": 1014,
+		"ffAmount": 1001
+	},
+	{
+		"tagId": "LXP88FGR2LA",
+		"dhms": "28/01/2024 10:44:39",
+		"voie": "SX22",
+		"amount": 969,
+		"ffAmount": 1099
+	},
+	{
+		"tagId": "LEO86MQE2SA",
+		"dhms": "16/02/2024 16:46:43",
+		"voie": "ST23",
+		"amount": 1009,
+		"ffAmount": 1063
+	},
+	{
+		"tagId": "EHE34TVQ8QW",
+		"dhms": "29/03/2024 18:21:25",
+		"voie": "NX04",
+		"amount": 1201,
+		"ffAmount": 1022
+	},
+	{
+		"tagId": "OFG62IPT9PP",
+		"dhms": "02/04/2024 14:21:53",
+		"voie": "ST22",
+		"amount": 993,
+		"ffAmount": 1048
+	},
+	{
+		"tagId": "YUT80QWP7ZD",
+		"dhms": "09/02/2024 11:47:52",
+		"voie": "SX24",
+		"amount": 1100,
+		"ffAmount": 1058
+	},
+	{
+		"tagId": "GKW56HPV2VB",
+		"dhms": "01/02/2024 13:38:44",
+		"voie": "NT02",
+		"amount": 1045,
+		"ffAmount": 953
+	},
+	{
+		"tagId": "PSH11LHI7QP",
+		"dhms": "04/03/2024 19:08:54",
+		"voie": "SX23",
+		"amount": 1053,
+		"ffAmount": 1020
+	},
+	{
+		"tagId": "OUX26XMV7LY",
+		"dhms": "20/02/2024 05:58:01",
+		"voie": "SX23",
+		"amount": 1112,
+		"ffAmount": 969
+	},
+	{
+		"tagId": "MRJ32RWJ8TV",
+		"dhms": "13/03/2024 00:08:55",
+		"voie": "NT24",
+		"amount": 784,
+		"ffAmount": 977
+	},
+	{
+		"tagId": "ZXT02ZDV2CN",
+		"dhms": "05/03/2024 20:26:21",
+		"voie": "NT02",
+		"amount": 1016,
+		"ffAmount": 984
+	},
+	{
+		"tagId": "IJB21UUM5SS",
+		"dhms": "31/03/2024 07:18:12",
+		"voie": "SX24",
+		"amount": 930,
+		"ffAmount": 1038
+	},
+	{
+		"tagId": "KZZ63EIS5JD",
+		"dhms": "31/01/2024 10:03:04",
+		"voie": "ST23",
+		"amount": 1073,
+		"ffAmount": 1022
+	},
+	{
+		"tagId": "GKN24IVB9JQ",
+		"dhms": "23/03/2024 04:42:34",
+		"voie": "NX03",
+		"amount": 952,
+		"ffAmount": 935
+	},
+	{
+		"tagId": "KQW45GKH8JS",
+		"dhms": "19/04/2024 03:26:00",
+		"voie": "ST23",
+		"amount": 1048,
+		"ffAmount": 1035
+	},
+	{
+		"tagId": "NVL13JKJ1EB",
+		"dhms": "06/02/2024 18:07:26",
+		"voie": "SX23",
+		"amount": 980,
+		"ffAmount": 1084
+	},
+	{
+		"tagId": "YWP30ICO5OY",
+		"dhms": "18/03/2024 18:21:48",
+		"voie": "NX03",
+		"amount": 1112,
+		"ffAmount": 955
+	},
+	{
+		"tagId": "BJA66JND2MX",
+		"dhms": "23/03/2024 18:40:36",
+		"voie": "NT24",
+		"amount": 1167,
+		"ffAmount": 991
+	},
+	{
+		"tagId": "UCR25NJZ7RT",
+		"dhms": "18/04/2024 23:56:16",
+		"voie": "NT02",
+		"amount": 725,
+		"ffAmount": 1015
+	},
+	{
+		"tagId": "IQP81FRH2QN",
+		"dhms": "13/01/2024 04:42:07",
+		"voie": "ST23",
+		"amount": 1183,
+		"ffAmount": 995
+	},
+	{
+		"tagId": "RQP58YZD4DB",
+		"dhms": "04/02/2024 23:27:30",
+		"voie": "NX04",
+		"amount": 1199,
+		"ffAmount": 1001
+	},
+	{
+		"tagId": "UGD20TBV4PX",
+		"dhms": "21/02/2024 10:37:34",
+		"voie": "SX23",
+		"amount": 942,
+		"ffAmount": 982
+	},
+	{
+		"tagId": "ASI06UQN3OP",
+		"dhms": "30/03/2024 21:55:30",
+		"voie": "NX03",
+		"amount": 637,
+		"ffAmount": 968
+	},
+	{
+		"tagId": "JRR48TDX5YM",
+		"dhms": "05/04/2024 02:27:32",
+		"voie": "NT24",
+		"amount": 924,
+		"ffAmount": 1008
+	},
+	{
+		"tagId": "FLK14JQQ8DJ",
+		"dhms": "11/02/2024 11:03:34",
+		"voie": "NX03",
+		"amount": 1126,
+		"ffAmount": 950
+	},
+	{
+		"tagId": "YXI07IAH0MC",
+		"dhms": "30/03/2024 00:37:10",
+		"voie": "NT24",
+		"amount": 1081,
+		"ffAmount": 966
+	},
+	{
+		"tagId": "XSL09YKM2WW",
+		"dhms": "23/03/2024 08:42:53",
+		"voie": "NT02",
+		"amount": 1026,
+		"ffAmount": 957
+	},
+	{
+		"tagId": "QDG57WSO5XX",
+		"dhms": "23/01/2024 03:27:49",
+		"voie": "NX03",
+		"amount": 853,
+		"ffAmount": 988
+	},
+	{
+		"tagId": "TUM25GNN9SX",
+		"dhms": "31/03/2024 18:00:21",
+		"voie": "SX23",
+		"amount": 808,
+		"ffAmount": 998
+	},
+	{
+		"tagId": "EUF77JQE2UA",
+		"dhms": "14/02/2024 00:45:07",
+		"voie": "NT23",
+		"amount": 916,
+		"ffAmount": 992
+	},
+	{
+		"tagId": "YTH35GSP3RX",
+		"dhms": "15/04/2024 05:31:09",
+		"voie": "SX23",
+		"amount": 716,
+		"ffAmount": 974
+	},
+	{
+		"tagId": "YPC52QKX2RH",
+		"dhms": "07/01/2024 10:43:58",
+		"voie": "SX24",
+		"amount": 916,
+		"ffAmount": 983
+	},
+	{
+		"tagId": "UEX17FKB3UR",
+		"dhms": "15/03/2024 15:01:53",
+		"voie": "ST22",
+		"amount": 984,
+		"ffAmount": 961
+	},
+	{
+		"tagId": "WWG67DOO5WM",
+		"dhms": "28/01/2024 07:24:37",
+		"voie": "ST23",
+		"amount": 1107,
+		"ffAmount": 988
+	},
+	{
+		"tagId": "MZC35QFT5GP",
+		"dhms": "29/03/2024 15:18:11",
+		"voie": "SX22",
+		"amount": 1349,
+		"ffAmount": 916
+	},
+	{
+		"tagId": "AOP15IBC8CR",
+		"dhms": "29/03/2024 01:20:52",
+		"voie": "NX04",
+		"amount": 1048,
+		"ffAmount": 1067
+	},
+	{
+		"tagId": "DKQ34VNL8NS",
+		"dhms": "27/03/2024 03:55:19",
+		"voie": "NX04",
+		"amount": 999,
+		"ffAmount": 1013
+	},
+	{
+		"tagId": "TUI76JOC5PJ",
+		"dhms": "08/02/2024 04:12:34",
+		"voie": "NX04",
+		"amount": 1000,
+		"ffAmount": 937
+	},
+	{
+		"tagId": "UZH39UHX7OM",
+		"dhms": "01/01/2024 22:31:42",
+		"voie": "SX22",
+		"amount": 1063,
+		"ffAmount": 1029
+	},
+	{
+		"tagId": "FYI71FSC2LK",
+		"dhms": "04/01/2024 17:47:45",
+		"voie": "NT02",
+		"amount": 1073,
+		"ffAmount": 983
+	},
+	{
+		"tagId": "YWO28DDH4ZD",
+		"dhms": "10/04/2024 15:46:17",
+		"voie": "NT23",
+		"amount": 1053,
+		"ffAmount": 982
+	},
+	{
+		"tagId": "WIY24PWJ9WG",
+		"dhms": "29/03/2024 03:57:52",
+		"voie": "NT02",
+		"amount": 653,
+		"ffAmount": 958
+	},
+	{
+		"tagId": "WGK85FFS5NU",
+		"dhms": "04/03/2024 19:14:51",
+		"voie": "NT23",
+		"amount": 897,
+		"ffAmount": 944
+	},
+	{
+		"tagId": "TLW18NIE4BB",
+		"dhms": "13/02/2024 10:41:08",
+		"voie": "NT02",
+		"amount": 1125,
+		"ffAmount": 1000
+	},
+	{
+		"tagId": "JWZ12SXC4OC",
+		"dhms": "26/02/2024 10:54:57",
+		"voie": "SX22",
+		"amount": 957,
+		"ffAmount": 965
+	},
+	{
+		"tagId": "URO68SOX0VX",
+		"dhms": "25/02/2024 23:05:47",
+		"voie": "SX23",
+		"amount": 892,
+		"ffAmount": 1070
+	},
+	{
+		"tagId": "TJI74ZUZ6MV",
+		"dhms": "28/03/2024 01:57:03",
+		"voie": "NT23",
+		"amount": 834,
+		"ffAmount": 936
+	},
+	{
+		"tagId": "NHJ80TPC8HG",
+		"dhms": "04/01/2024 07:47:05",
+		"voie": "NX03",
+		"amount": 1043,
+		"ffAmount": 891
+	},
+	{
+		"tagId": "MEL12OZL7BI",
+		"dhms": "27/03/2024 21:09:18",
+		"voie": "ST23",
+		"amount": 1016,
+		"ffAmount": 1010
+	},
+	{
+		"tagId": "HMR82SQC8DP",
+		"dhms": "16/04/2024 21:09:13",
+		"voie": "ST22",
+		"amount": 842,
+		"ffAmount": 1003
+	},
+	{
+		"tagId": "QSS72NEQ5JQ",
+		"dhms": "03/04/2024 22:43:20",
+		"voie": "NT23",
+		"amount": 1033,
+		"ffAmount": 1000
+	},
+	{
+		"tagId": "RPJ67NWX9PX",
+		"dhms": "26/01/2024 08:36:27",
+		"voie": "ST23",
+		"amount": 778,
+		"ffAmount": 933
+	},
+	{
+		"tagId": "SBS27PMW7XW",
+		"dhms": "18/02/2024 09:17:53",
+		"voie": "ST22",
+		"amount": 1196,
+		"ffAmount": 926
+	},
+	{
+		"tagId": "OIQ57YVK3RH",
+		"dhms": "12/03/2024 04:28:18",
+		"voie": "NX04",
+		"amount": 818,
+		"ffAmount": 1006
+	},
+	{
+		"tagId": "MGU10GZL3UQ",
+		"dhms": "18/02/2024 05:39:33",
+		"voie": "NT23",
+		"amount": 1071,
+		"ffAmount": 899
+	},
+	{
+		"tagId": "KMZ37DFH1LF",
+		"dhms": "07/04/2024 16:22:52",
+		"voie": "SX23",
+		"amount": 943,
+		"ffAmount": 933
+	},
+	{
+		"tagId": "YQC35XOR4RH",
+		"dhms": "01/01/2024 17:37:52",
+		"voie": "ST23",
+		"amount": 1039,
+		"ffAmount": 1045
+	},
+	{
+		"tagId": "BUR94JHG7LO",
+		"dhms": "09/02/2024 00:15:57",
+		"voie": "SX22",
+		"amount": 952,
+		"ffAmount": 969
+	},
+	{
+		"tagId": "SHE49PVT2FI",
+		"dhms": "18/01/2024 20:00:58",
+		"voie": "ST23",
+		"amount": 886,
+		"ffAmount": 1018
+	},
+	{
+		"tagId": "ILB43JSB3GQ",
+		"dhms": "19/01/2024 22:48:52",
+		"voie": "ST23",
+		"amount": 840,
+		"ffAmount": 933
+	},
+	{
+		"tagId": "YUT55TTV4FG",
+		"dhms": "25/01/2024 20:26:50",
+		"voie": "SX23",
+		"amount": 914,
+		"ffAmount": 898
+	},
+	{
+		"tagId": "UTT50XIO1KG",
+		"dhms": "15/03/2024 14:27:10",
+		"voie": "ST22",
+		"amount": 1029,
+		"ffAmount": 1036
+	},
+	{
+		"tagId": "BXL87WRG6PM",
+		"dhms": "03/02/2024 15:27:28",
+		"voie": "SX22",
+		"amount": 831,
+		"ffAmount": 1001
+	},
+	{
+		"tagId": "IFN75VXP2UE",
+		"dhms": "11/02/2024 01:09:55",
+		"voie": "SX24",
+		"amount": 933,
+		"ffAmount": 1000
+	},
+	{
+		"tagId": "LGE72LFC3IH",
+		"dhms": "21/03/2024 09:33:05",
+		"voie": "NT24",
+		"amount": 890,
+		"ffAmount": 917
+	},
+	{
+		"tagId": "HEX75XIB7NS",
+		"dhms": "17/01/2024 14:57:59",
+		"voie": "ST22",
+		"amount": 885,
+		"ffAmount": 1018
+	},
+	{
+		"tagId": "FXS32BPG5VL",
+		"dhms": "21/03/2024 04:26:13",
+		"voie": "NT24",
+		"amount": 926,
+		"ffAmount": 927
+	},
+	{
+		"tagId": "FGM32MKM4OR",
+		"dhms": "25/01/2024 04:47:43",
+		"voie": "ST22",
+		"amount": 1092,
+		"ffAmount": 1012
+	},
+	{
+		"tagId": "CBP51LMS6YC",
+		"dhms": "13/02/2024 02:24:43",
+		"voie": "SX23",
+		"amount": 798,
+		"ffAmount": 1062
+	},
+	{
+		"tagId": "EYO32FMS1QP",
+		"dhms": "19/03/2024 16:47:06",
+		"voie": "SX22",
+		"amount": 969,
+		"ffAmount": 1033
+	},
+	{
+		"tagId": "BNV87DMH7CF",
+		"dhms": "11/03/2024 23:44:57",
+		"voie": "SX24",
+		"amount": 1028,
+		"ffAmount": 1066
+	},
+	{
+		"tagId": "EOX15RBE3GC",
+		"dhms": "27/02/2024 09:00:06",
+		"voie": "ST22",
+		"amount": 1149,
+		"ffAmount": 979
+	},
+	{
+		"tagId": "SDT32TII6LD",
+		"dhms": "07/03/2024 12:32:02",
+		"voie": "ST22",
+		"amount": 880,
+		"ffAmount": 1029
+	},
+	{
+		"tagId": "FGG40QHE0JF",
+		"dhms": "21/04/2024 11:33:47",
+		"voie": "NX04",
+		"amount": 997,
+		"ffAmount": 957
+	},
+	{
+		"tagId": "RYF85SZD4RM",
+		"dhms": "30/03/2024 13:40:16",
+		"voie": "SX23",
+		"amount": 932,
+		"ffAmount": 1028
+	},
+	{
+		"tagId": "UNS28TMK4VT",
+		"dhms": "12/01/2024 22:44:59",
+		"voie": "SX22",
+		"amount": 1059,
+		"ffAmount": 989
+	},
+	{
+		"tagId": "GWH04TMS3FR",
+		"dhms": "01/03/2024 11:40:44",
+		"voie": "SX24",
+		"amount": 1031,
+		"ffAmount": 1048
+	},
+	{
+		"tagId": "VMF81XMC1AV",
+		"dhms": "21/02/2024 12:29:56",
+		"voie": "ST22",
+		"amount": 877,
+		"ffAmount": 918
+	},
+	{
+		"tagId": "VOJ55TFF2MD",
+		"dhms": "14/02/2024 23:54:36",
+		"voie": "NT02",
+		"amount": 773,
+		"ffAmount": 918
+	},
+	{
+		"tagId": "BTP88NEB4UQ",
+		"dhms": "24/01/2024 02:48:13",
+		"voie": "SX23",
+		"amount": 982,
+		"ffAmount": 1018
+	},
+	{
+		"tagId": "GPE76TGQ8KF",
+		"dhms": "28/03/2024 00:29:37",
+		"voie": "NX04",
+		"amount": 997,
+		"ffAmount": 1036
+	},
+	{
+		"tagId": "COB31YBL2WU",
+		"dhms": "05/02/2024 00:25:42",
+		"voie": "ST22",
+		"amount": 1141,
+		"ffAmount": 996
+	},
+	{
+		"tagId": "XRY27IWS9ZV",
+		"dhms": "02/01/2024 00:21:08",
+		"voie": "NT24",
+		"amount": 921,
+		"ffAmount": 1017
+	},
+	{
+		"tagId": "GFV48THZ9XT",
+		"dhms": "28/02/2024 10:01:30",
+		"voie": "NX03",
+		"amount": 1069,
+		"ffAmount": 931
+	},
+	{
+		"tagId": "HVO17MKF2LH",
+		"dhms": "19/01/2024 03:35:17",
+		"voie": "NX04",
+		"amount": 864,
+		"ffAmount": 1002
+	},
+	{
+		"tagId": "HSR87GPC1FP",
+		"dhms": "10/04/2024 12:34:14",
+		"voie": "SX22",
+		"amount": 944,
+		"ffAmount": 1042
+	},
+	{
+		"tagId": "VGX07SHG4JZ",
+		"dhms": "23/01/2024 09:04:44",
+		"voie": "ST23",
+		"amount": 959,
+		"ffAmount": 1037
+	},
+	{
+		"tagId": "LKU47TYO5XH",
+		"dhms": "27/01/2024 18:35:59",
+		"voie": "NT24",
+		"amount": 979,
+		"ffAmount": 986
+	},
+	{
+		"tagId": "YAM18CXI1AU",
+		"dhms": "19/01/2024 10:33:18",
+		"voie": "SX23",
+		"amount": 1172,
+		"ffAmount": 971
+	},
+	{
+		"tagId": "AWY77NTM8BU",
+		"dhms": "18/01/2024 22:03:38",
+		"voie": "NT24",
+		"amount": 917,
+		"ffAmount": 1019
+	},
+	{
+		"tagId": "DJY66BTX9SM",
+		"dhms": "10/02/2024 05:23:26",
+		"voie": "NX03",
+		"amount": 1061,
+		"ffAmount": 1021
+	},
+	{
+		"tagId": "YJR72GWF8KT",
+		"dhms": "23/01/2024 14:26:10",
+		"voie": "NT24",
+		"amount": 1136,
+		"ffAmount": 1092
+	},
+	{
+		"tagId": "YKZ80PFS8TP",
+		"dhms": "15/03/2024 20:21:50",
+		"voie": "SX24",
+		"amount": 942,
+		"ffAmount": 947
+	},
+	{
+		"tagId": "SGV71ELI6DV",
+		"dhms": "19/01/2024 11:23:50",
+		"voie": "NX03",
+		"amount": 876,
+		"ffAmount": 996
+	},
+	{
+		"tagId": "FIF13IYW2TF",
+		"dhms": "24/03/2024 13:41:19",
+		"voie": "SX24",
+		"amount": 1085,
+		"ffAmount": 953
+	},
+	{
+		"tagId": "RTG98CZL3XS",
+		"dhms": "27/02/2024 23:48:25",
+		"voie": "SX24",
+		"amount": 1044,
+		"ffAmount": 970
+	},
+	{
+		"tagId": "MEG82OXC8ID",
+		"dhms": "16/03/2024 14:30:38",
+		"voie": "NT23",
+		"amount": 962,
+		"ffAmount": 1057
+	},
+	{
+		"tagId": "CRN36JXK7XT",
+		"dhms": "21/02/2024 09:53:57",
+		"voie": "ST23",
+		"amount": 1143,
+		"ffAmount": 1066
+	},
+	{
+		"tagId": "TKT71NPI4LP",
+		"dhms": "07/02/2024 01:23:29",
+		"voie": "NT23",
+		"amount": 1168,
+		"ffAmount": 931
+	},
+	{
+		"tagId": "NMV73IEZ7ES",
+		"dhms": "19/04/2024 06:21:26",
+		"voie": "NT02",
+		"amount": 1112,
+		"ffAmount": 974
+	},
+	{
+		"tagId": "VUN35PGK3AY",
+		"dhms": "27/01/2024 18:35:00",
+		"voie": "NT24",
+		"amount": 1023,
+		"ffAmount": 984
+	},
+	{
+		"tagId": "BUC80OEO4KT",
+		"dhms": "21/01/2024 02:34:32",
+		"voie": "NT24",
+		"amount": 952,
+		"ffAmount": 1141
+	},
+	{
+		"tagId": "YSM30NTD8EP",
+		"dhms": "25/02/2024 08:13:10",
+		"voie": "NX03",
+		"amount": 1017,
+		"ffAmount": 963
+	},
+	{
+		"tagId": "ZXV12LQP7WP",
+		"dhms": "20/03/2024 05:38:33",
+		"voie": "NT02",
+		"amount": 1051,
+		"ffAmount": 1055
+	},
+	{
+		"tagId": "ICT27SXQ4JG",
+		"dhms": "22/02/2024 20:12:20",
+		"voie": "NX03",
+		"amount": 1164,
+		"ffAmount": 971
+	},
+	{
+		"tagId": "DTM30NWR9MF",
+		"dhms": "22/03/2024 04:20:19",
+		"voie": "NT02",
+		"amount": 1007,
+		"ffAmount": 1002
+	},
+	{
+		"tagId": "YIR32IXT3GJ",
+		"dhms": "12/02/2024 04:37:20",
+		"voie": "NT23",
+		"amount": 1139,
+		"ffAmount": 1075
+	},
+	{
+		"tagId": "MWR73OBF8BV",
+		"dhms": "23/03/2024 20:13:13",
+		"voie": "NX04",
+		"amount": 737,
+		"ffAmount": 1002
+	},
+	{
+		"tagId": "LOT68ZET4XW",
+		"dhms": "07/01/2024 12:37:08",
+		"voie": "NX03",
+		"amount": 1077,
+		"ffAmount": 978
+	},
+	{
+		"tagId": "IBI53OPI5EU",
+		"dhms": "22/03/2024 22:15:46",
+		"voie": "NT02",
+		"amount": 1200,
+		"ffAmount": 963
+	},
+	{
+		"tagId": "DBU07XQC7CV",
+		"dhms": "03/03/2024 07:39:53",
+		"voie": "NT02",
+		"amount": 903,
+		"ffAmount": 944
+	},
+	{
+		"tagId": "CHL28YMI7GR",
+		"dhms": "06/01/2024 15:48:58",
+		"voie": "NT24",
+		"amount": 1168,
+		"ffAmount": 1006
+	},
+	{
+		"tagId": "RLF33WMC5IO",
+		"dhms": "07/03/2024 02:42:37",
+		"voie": "SX24",
+		"amount": 1209,
+		"ffAmount": 1102
+	},
+	{
+		"tagId": "NWG27QUI4NG",
+		"dhms": "08/03/2024 03:48:39",
+		"voie": "SX24",
+		"amount": 861,
+		"ffAmount": 1029
+	},
+	{
+		"tagId": "IJM47RYG4OO",
+		"dhms": "30/01/2024 04:01:56",
+		"voie": "SX23",
+		"amount": 995,
+		"ffAmount": 977
+	},
+	{
+		"tagId": "ICM80YTN3PS",
+		"dhms": "08/04/2024 22:52:33",
+		"voie": "NT02",
+		"amount": 969,
+		"ffAmount": 965
+	},
+	{
+		"tagId": "CRW76KYA9VA",
+		"dhms": "27/02/2024 05:27:56",
+		"voie": "ST23",
+		"amount": 1080,
+		"ffAmount": 1009
+	},
+	{
+		"tagId": "BSF44DEI1FN",
+		"dhms": "24/03/2024 14:39:56",
+		"voie": "SX23",
+		"amount": 948,
+		"ffAmount": 936
+	},
+	{
+		"tagId": "PUK46LEH5TQ",
+		"dhms": "26/02/2024 05:09:39",
+		"voie": "NT02",
+		"amount": 1184,
+		"ffAmount": 939
+	},
+	{
+		"tagId": "NVA74JUM9EQ",
+		"dhms": "23/01/2024 01:55:24",
+		"voie": "NT24",
+		"amount": 975,
+		"ffAmount": 948
+	},
+	{
+		"tagId": "BFW42NEW5NQ",
+		"dhms": "16/03/2024 06:09:04",
+		"voie": "ST23",
+		"amount": 1059,
+		"ffAmount": 988
+	},
+	{
+		"tagId": "LBR34WSA2HU",
+		"dhms": "17/02/2024 16:28:19",
+		"voie": "SX22",
+		"amount": 1202,
+		"ffAmount": 962
+	},
+	{
+		"tagId": "ITL80YBK7ED",
+		"dhms": "19/01/2024 01:48:18",
+		"voie": "ST23",
+		"amount": 942,
+		"ffAmount": 931
+	},
+	{
+		"tagId": "CYJ61NWP7PQ",
+		"dhms": "25/03/2024 09:47:42",
+		"voie": "NT24",
+		"amount": 995,
+		"ffAmount": 977
+	},
+	{
+		"tagId": "ITC28DDI4IL",
+		"dhms": "14/03/2024 19:24:53",
+		"voie": "SX22",
+		"amount": 931,
+		"ffAmount": 953
+	},
+	{
+		"tagId": "PCT86VSR4IX",
+		"dhms": "30/01/2024 21:26:17",
+		"voie": "SX23",
+		"amount": 870,
+		"ffAmount": 953
+	},
+	{
+		"tagId": "AQE92QGP8LY",
+		"dhms": "28/01/2024 22:18:22",
+		"voie": "NX04",
+		"amount": 1022,
+		"ffAmount": 1020
+	},
+	{
+		"tagId": "WLG17MPW7EB",
+		"dhms": "11/01/2024 20:43:03",
+		"voie": "SX24",
+		"amount": 1056,
+		"ffAmount": 1062
+	},
+	{
+		"tagId": "FYJ63NTO1XM",
+		"dhms": "16/04/2024 00:27:53",
+		"voie": "SX22",
+		"amount": 855,
+		"ffAmount": 971
+	},
+	{
+		"tagId": "NKR59RRD2KX",
+		"dhms": "03/04/2024 15:30:37",
+		"voie": "NT23",
+		"amount": 923,
+		"ffAmount": 1012
+	},
+	{
+		"tagId": "CQD91YAE9VD",
+		"dhms": "30/01/2024 13:27:08",
+		"voie": "ST22",
+		"amount": 855,
+		"ffAmount": 1044
+	},
+	{
+		"tagId": "DQB67JZN5BV",
+		"dhms": "01/04/2024 20:56:52",
+		"voie": "NT02",
+		"amount": 960,
+		"ffAmount": 942
+	},
+	{
+		"tagId": "MBS68ECE6IY",
+		"dhms": "28/02/2024 04:37:47",
+		"voie": "ST23",
+		"amount": 1011,
+		"ffAmount": 1013
+	},
+	{
+		"tagId": "QOV51PKW1BH",
+		"dhms": "02/04/2024 02:49:31",
+		"voie": "NX04",
+		"amount": 935,
+		"ffAmount": 972
+	},
+	{
+		"tagId": "DET49IHJ2MX",
+		"dhms": "20/04/2024 12:19:56",
+		"voie": "NT02",
+		"amount": 1008,
+		"ffAmount": 920
+	},
+	{
+		"tagId": "VNV87WQH8XT",
+		"dhms": "07/02/2024 02:55:05",
+		"voie": "SX24",
+		"amount": 877,
+		"ffAmount": 1034
+	},
+	{
+		"tagId": "LHK74QLR0JE",
+		"dhms": "18/01/2024 15:01:37",
+		"voie": "NT23",
+		"amount": 1061,
+		"ffAmount": 1028
+	},
+	{
+		"tagId": "VEX17IXY4NX",
+		"dhms": "25/02/2024 06:06:02",
+		"voie": "NX04",
+		"amount": 979,
+		"ffAmount": 1026
+	},
+	{
+		"tagId": "MNM23ICF4BM",
+		"dhms": "07/04/2024 10:33:33",
+		"voie": "NX04",
+		"amount": 1058,
+		"ffAmount": 995
+	},
+	{
+		"tagId": "VUI13OUM8ZL",
+		"dhms": "05/03/2024 02:19:21",
+		"voie": "SX24",
+		"amount": 1160,
+		"ffAmount": 1037
+	},
+	{
+		"tagId": "IFD41KBS3KS",
+		"dhms": "14/03/2024 05:53:03",
+		"voie": "NX04",
+		"amount": 915,
+		"ffAmount": 1053
+	},
+	{
+		"tagId": "ICU61EXM5TF",
+		"dhms": "21/01/2024 11:46:46",
+		"voie": "SX22",
+		"amount": 914,
+		"ffAmount": 944
+	},
+	{
+		"tagId": "WKT58MTP1YX",
+		"dhms": "06/03/2024 15:25:53",
+		"voie": "NT24",
+		"amount": 867,
+		"ffAmount": 1034
+	},
+	{
+		"tagId": "GYO43IGF0HA",
+		"dhms": "19/01/2024 07:00:04",
+		"voie": "NX04",
+		"amount": 997,
+		"ffAmount": 1122
+	},
+	{
+		"tagId": "OGD62HTE3PP",
+		"dhms": "13/02/2024 00:25:16",
+		"voie": "SX22",
+		"amount": 1195,
+		"ffAmount": 951
+	},
+	{
+		"tagId": "RER27XRO8RF",
+		"dhms": "09/02/2024 10:44:33",
+		"voie": "SX23",
+		"amount": 1128,
+		"ffAmount": 1005
+	},
+	{
+		"tagId": "KAP17RJK4CP",
+		"dhms": "04/02/2024 08:31:55",
+		"voie": "NT23",
+		"amount": 1062,
+		"ffAmount": 1004
+	},
+	{
+		"tagId": "RHC66PXG6UC",
+		"dhms": "20/04/2024 15:04:11",
+		"voie": "NX04",
+		"amount": 942,
+		"ffAmount": 1075
+	},
+	{
+		"tagId": "JNO15PTW5WH",
+		"dhms": "02/03/2024 11:23:32",
+		"voie": "SX24",
+		"amount": 1273,
+		"ffAmount": 947
+	},
+	{
+		"tagId": "QDR42DXJ8KG",
+		"dhms": "05/02/2024 09:56:53",
+		"voie": "SX24",
+		"amount": 1209,
+		"ffAmount": 1122
+	},
+	{
+		"tagId": "NWP35LPM3FE",
+		"dhms": "03/01/2024 22:03:13",
+		"voie": "ST22",
+		"amount": 1051,
+		"ffAmount": 978
+	},
+	{
+		"tagId": "HQB48TLN2KR",
+		"dhms": "12/04/2024 04:44:38",
+		"voie": "NX04",
+		"amount": 1209,
+		"ffAmount": 939
+	},
+	{
+		"tagId": "HHO37CJV8WR",
+		"dhms": "02/04/2024 05:05:50",
+		"voie": "NT23",
+		"amount": 1030,
+		"ffAmount": 977
+	},
+	{
+		"tagId": "AYP50INQ4MK",
+		"dhms": "14/01/2024 06:39:49",
+		"voie": "NT24",
+		"amount": 1180,
+		"ffAmount": 955
+	},
+	{
+		"tagId": "NMD50MJT6LC",
+		"dhms": "29/01/2024 06:13:23",
+		"voie": "SX22",
+		"amount": 1115,
+		"ffAmount": 952
+	},
+	{
+		"tagId": "CCK85ZVQ4WM",
+		"dhms": "18/01/2024 01:40:45",
+		"voie": "ST22",
+		"amount": 1100,
+		"ffAmount": 1032
+	},
+	{
+		"tagId": "MKM67GNI1VB",
+		"dhms": "02/04/2024 17:11:00",
+		"voie": "NX04",
+		"amount": 1116,
+		"ffAmount": 1023
+	},
+	{
+		"tagId": "YSR37FFP7TV",
+		"dhms": "30/01/2024 16:23:37",
+		"voie": "SX22",
+		"amount": 999,
+		"ffAmount": 997
+	},
+	{
+		"tagId": "CHG35TVH4WN",
+		"dhms": "28/03/2024 09:55:45",
+		"voie": "SX24",
+		"amount": 1146,
+		"ffAmount": 985
+	},
+	{
+		"tagId": "LQS34OGB0IJ",
+		"dhms": "11/01/2024 20:39:50",
+		"voie": "SX23",
+		"amount": 1117,
+		"ffAmount": 1007
+	},
+	{
+		"tagId": "ETC16VZU1IU",
+		"dhms": "15/04/2024 02:22:19",
+		"voie": "NX04",
+		"amount": 1091,
+		"ffAmount": 1001
+	},
+	{
+		"tagId": "SVB67LSV4TE",
+		"dhms": "21/02/2024 18:21:51",
+		"voie": "NX04",
+		"amount": 880,
+		"ffAmount": 1013
+	},
+	{
+		"tagId": "SBK15YVC4BF",
+		"dhms": "29/01/2024 05:43:22",
+		"voie": "ST22",
+		"amount": 1077,
+		"ffAmount": 1029
+	},
+	{
+		"tagId": "LNL74QIE3WL",
+		"dhms": "03/01/2024 23:17:59",
+		"voie": "NT23",
+		"amount": 943,
+		"ffAmount": 1036
+	},
+	{
+		"tagId": "BJY45BZF3RH",
+		"dhms": "18/01/2024 19:17:20",
+		"voie": "NX04",
+		"amount": 1169,
+		"ffAmount": 953
+	},
+	{
+		"tagId": "XBY95FPI2DN",
+		"dhms": "22/01/2024 20:26:19",
+		"voie": "ST23",
+		"amount": 909,
+		"ffAmount": 1163
+	},
+	{
+		"tagId": "TMQ35DNB1BV",
+		"dhms": "25/03/2024 15:09:20",
+		"voie": "NT24",
+		"amount": 642,
+		"ffAmount": 1049
+	},
+	{
+		"tagId": "LFU60EPK8TG",
+		"dhms": "10/04/2024 13:19:03",
+		"voie": "ST23",
+		"amount": 1120,
+		"ffAmount": 965
+	},
+	{
+		"tagId": "UZW57GTQ3CL",
+		"dhms": "08/02/2024 03:55:24",
+		"voie": "NT24",
+		"amount": 930,
+		"ffAmount": 944
+	},
+	{
+		"tagId": "BRR14LIW8ZE",
+		"dhms": "07/04/2024 23:28:10",
+		"voie": "NX04",
+		"amount": 776,
+		"ffAmount": 1068
+	},
+	{
+		"tagId": "JWH49WTG5SB",
+		"dhms": "25/02/2024 02:09:12",
+		"voie": "SX23",
+		"amount": 1241,
+		"ffAmount": 993
+	},
+	{
+		"tagId": "QVA21HVI4JT",
+		"dhms": "10/03/2024 11:34:20",
+		"voie": "SX23",
+		"amount": 1064,
+		"ffAmount": 989
+	},
+	{
+		"tagId": "WDH70DUI2RI",
+		"dhms": "04/02/2024 06:42:29",
+		"voie": "ST23",
+		"amount": 1142,
+		"ffAmount": 1038
+	},
+	{
+		"tagId": "MBX78OIF9VM",
+		"dhms": "04/01/2024 23:22:53",
+		"voie": "SX24",
+		"amount": 821,
+		"ffAmount": 934
+	},
+	{
+		"tagId": "NCZ88HSG4GZ",
+		"dhms": "15/01/2024 11:19:15",
+		"voie": "ST23",
+		"amount": 836,
+		"ffAmount": 950
+	},
+	{
+		"tagId": "MPP67LCK2XT",
+		"dhms": "13/03/2024 03:02:56",
+		"voie": "ST22",
+		"amount": 1045,
+		"ffAmount": 1062
+	},
+	{
+		"tagId": "JPA34KWX8SK",
+		"dhms": "11/01/2024 16:30:24",
+		"voie": "NT23",
+		"amount": 914,
+		"ffAmount": 1057
+	},
+	{
+		"tagId": "DCE81NXW0CF",
+		"dhms": "29/01/2024 12:09:27",
+		"voie": "ST22",
+		"amount": 745,
+		"ffAmount": 1059
+	},
+	{
+		"tagId": "NKN63EVM7JX",
+		"dhms": "24/01/2024 06:00:11",
+		"voie": "NX03",
+		"amount": 877,
+		"ffAmount": 1017
+	},
+	{
+		"tagId": "QLH24PLY5CZ",
+		"dhms": "20/04/2024 02:08:47",
+		"voie": "NX04",
+		"amount": 863,
+		"ffAmount": 973
+	},
+	{
+		"tagId": "PQG83FWA5VH",
+		"dhms": "23/02/2024 04:43:36",
+		"voie": "NX03",
+		"amount": 914,
+		"ffAmount": 978
+	},
+	{
+		"tagId": "KJI75UIV0ZA",
+		"dhms": "11/01/2024 07:15:03",
+		"voie": "NT23",
+		"amount": 918,
+		"ffAmount": 1004
+	},
+	{
+		"tagId": "UPJ17JOB7YU",
+		"dhms": "11/02/2024 12:04:09",
+		"voie": "SX24",
+		"amount": 999,
+		"ffAmount": 948
+	},
+	{
+		"tagId": "UPB39IPP1UQ",
+		"dhms": "06/02/2024 04:04:56",
+		"voie": "NT24",
+		"amount": 1163,
+		"ffAmount": 967
+	},
+	{
+		"tagId": "SJQ92BMO1GY",
+		"dhms": "02/03/2024 11:31:08",
+		"voie": "SX22",
+		"amount": 945,
+		"ffAmount": 1042
+	},
+	{
+		"tagId": "NOS17XTJ5IX",
+		"dhms": "31/03/2024 15:47:35",
+		"voie": "NT24",
+		"amount": 973,
+		"ffAmount": 1069
+	},
+	{
+		"tagId": "SPQ21LYR4XR",
+		"dhms": "16/03/2024 02:16:31",
+		"voie": "SX22",
+		"amount": 1103,
+		"ffAmount": 949
+	},
+	{
+		"tagId": "HUD57MNJ1XU",
+		"dhms": "11/03/2024 14:48:41",
+		"voie": "SX23",
+		"amount": 822,
+		"ffAmount": 1045
+	},
+	{
+		"tagId": "WIM88KIJ9NW",
+		"dhms": "29/02/2024 11:21:12",
+		"voie": "NT24",
+		"amount": 1018,
+		"ffAmount": 950
+	},
+	{
+		"tagId": "JXT51YNH8VN",
+		"dhms": "10/01/2024 20:38:48",
+		"voie": "NT24",
+		"amount": 862,
+		"ffAmount": 1087
+	},
+	{
+		"tagId": "OMD42UHJ2YF",
+		"dhms": "25/01/2024 19:46:29",
+		"voie": "ST22",
+		"amount": 948,
+		"ffAmount": 1027
+	},
+	{
+		"tagId": "VUN45FGT6YI",
+		"dhms": "13/04/2024 03:18:31",
+		"voie": "NT23",
+		"amount": 797,
+		"ffAmount": 984
+	},
+	{
+		"tagId": "EAN54RAS4KE",
+		"dhms": "03/03/2024 08:00:42",
+		"voie": "ST22",
+		"amount": 906,
+		"ffAmount": 986
+	},
+	{
+		"tagId": "QFC93SBQ7CH",
+		"dhms": "24/01/2024 22:21:30",
+		"voie": "NX03",
+		"amount": 906,
+		"ffAmount": 1047
+	},
+	{
+		"tagId": "GCT23TEO5JI",
+		"dhms": "19/02/2024 06:23:26",
+		"voie": "NT24",
+		"amount": 917,
+		"ffAmount": 1074
+	},
+	{
+		"tagId": "LHZ15XJF7SZ",
+		"dhms": "24/03/2024 19:30:56",
+		"voie": "NT24",
+		"amount": 892,
+		"ffAmount": 938
+	},
+	{
+		"tagId": "LYA45RKD4HJ",
+		"dhms": "06/03/2024 12:28:46",
+		"voie": "ST22",
+		"amount": 889,
+		"ffAmount": 1012
+	},
+	{
+		"tagId": "QSV48IPE8QK",
+		"dhms": "15/01/2024 09:38:54",
+		"voie": "NT24",
+		"amount": 738,
+		"ffAmount": 997
+	},
+	{
+		"tagId": "CIL26ZFY6JU",
+		"dhms": "18/03/2024 02:36:49",
+		"voie": "ST23",
+		"amount": 764,
+		"ffAmount": 955
+	},
+	{
+		"tagId": "TTS56KFY6HF",
+		"dhms": "03/02/2024 13:41:54",
+		"voie": "SX23",
+		"amount": 935,
+		"ffAmount": 1078
+	},
+	{
+		"tagId": "SQO23MSU6LO",
+		"dhms": "05/04/2024 19:10:55",
+		"voie": "NX04",
+		"amount": 1077,
+		"ffAmount": 1012
+	},
+	{
+		"tagId": "KYE62BHM7QD",
+		"dhms": "07/04/2024 09:17:16",
+		"voie": "SX23",
+		"amount": 1164,
+		"ffAmount": 1021
+	},
+	{
+		"tagId": "DSQ73TDE1HY",
+		"dhms": "04/01/2024 16:37:02",
+		"voie": "NT24",
+		"amount": 1058,
+		"ffAmount": 970
+	},
+	{
+		"tagId": "OMY32WVU7FR",
+		"dhms": "11/03/2024 08:00:16",
+		"voie": "NX04",
+		"amount": 900,
+		"ffAmount": 1034
+	},
+	{
+		"tagId": "QMT72JEF1YO",
+		"dhms": "04/03/2024 19:23:59",
+		"voie": "SX24",
+		"amount": 1082,
+		"ffAmount": 948
+	},
+	{
+		"tagId": "THR74UKY1QE",
+		"dhms": "14/02/2024 03:04:36",
+		"voie": "NT02",
+		"amount": 1057,
+		"ffAmount": 1089
+	},
+	{
+		"tagId": "XKU47CMJ4YS",
+		"dhms": "27/03/2024 13:47:46",
+		"voie": "SX23",
+		"amount": 808,
+		"ffAmount": 971
+	},
+	{
+		"tagId": "NWX63VHW8GK",
+		"dhms": "09/04/2024 20:54:07",
+		"voie": "NT23",
+		"amount": 853,
+		"ffAmount": 1011
+	},
+	{
+		"tagId": "DND51SML9IO",
+		"dhms": "16/02/2024 21:27:56",
+		"voie": "SX22",
+		"amount": 1029,
+		"ffAmount": 1021
+	},
+	{
+		"tagId": "WXU34NLI5UX",
+		"dhms": "17/04/2024 23:24:23",
+		"voie": "SX22",
+		"amount": 1029,
+		"ffAmount": 958
+	},
+	{
+		"tagId": "MEO87GWL3YU",
+		"dhms": "06/04/2024 18:50:19",
+		"voie": "ST23",
+		"amount": 941,
+		"ffAmount": 1013
+	},
+	{
+		"tagId": "AGV42VLO3SS",
+		"dhms": "13/04/2024 03:37:04",
+		"voie": "NT23",
+		"amount": 1071,
+		"ffAmount": 1046
+	},
+	{
+		"tagId": "NJP83GZA7GB",
+		"dhms": "24/01/2024 22:05:45",
+		"voie": "NT02",
+		"amount": 955,
+		"ffAmount": 1111
+	},
+	{
+		"tagId": "KYN45DHD3GC",
+		"dhms": "21/02/2024 12:51:00",
+		"voie": "NX04",
+		"amount": 1070,
+		"ffAmount": 936
+	},
+	{
+		"tagId": "HLY28IMS4CJ",
+		"dhms": "10/02/2024 18:54:28",
+		"voie": "NT24",
+		"amount": 800,
+		"ffAmount": 943
+	},
+	{
+		"tagId": "MXI73QHK1YF",
+		"dhms": "12/04/2024 20:03:09",
+		"voie": "NT02",
+		"amount": 1084,
+		"ffAmount": 962
+	},
+	{
+		"tagId": "DRX15MBK5EZ",
+		"dhms": "23/01/2024 09:49:15",
+		"voie": "SX22",
+		"amount": 1041,
+		"ffAmount": 1045
+	},
+	{
+		"tagId": "PPA26RHM0CY",
+		"dhms": "08/01/2024 04:58:10",
+		"voie": "NT23",
+		"amount": 1005,
+		"ffAmount": 933
+	},
+	{
+		"tagId": "BYI50DKL7IK",
+		"dhms": "05/02/2024 19:27:29",
+		"voie": "ST23",
+		"amount": 958,
+		"ffAmount": 1049
+	},
+	{
+		"tagId": "VQH76GGH6UB",
+		"dhms": "13/03/2024 16:31:01",
+		"voie": "NT02",
+		"amount": 818,
+		"ffAmount": 1014
+	},
+	{
+		"tagId": "OPU01MQS1TA",
+		"dhms": "02/04/2024 02:56:02",
+		"voie": "NT02",
+		"amount": 1029,
+		"ffAmount": 1056
+	},
+	{
+		"tagId": "NWW80XVJ9MJ",
+		"dhms": "10/03/2024 23:35:13",
+		"voie": "NX03",
+		"amount": 1121,
+		"ffAmount": 1011
+	},
+	{
+		"tagId": "NYW42VEO8CP",
+		"dhms": "17/03/2024 18:45:49",
+		"voie": "ST23",
+		"amount": 1174,
+		"ffAmount": 1013
+	},
+	{
+		"tagId": "CSD70HCC0GP",
+		"dhms": "21/03/2024 13:47:39",
+		"voie": "NT02",
+		"amount": 901,
+		"ffAmount": 1098
+	},
+	{
+		"tagId": "COE41TUQ7TE",
+		"dhms": "27/02/2024 08:58:16",
+		"voie": "SX23",
+		"amount": 1251,
+		"ffAmount": 1006
+	},
+	{
+		"tagId": "WEA03WDL4IJ",
+		"dhms": "21/03/2024 21:20:10",
+		"voie": "NX03",
+		"amount": 1004,
+		"ffAmount": 1010
+	},
+	{
+		"tagId": "LNK67XVK5WK",
+		"dhms": "21/03/2024 16:02:28",
+		"voie": "SX24",
+		"amount": 974,
+		"ffAmount": 1014
+	},
+	{
+		"tagId": "MVU40QUM2SP",
+		"dhms": "18/02/2024 04:34:47",
+		"voie": "NX03",
+		"amount": 804,
+		"ffAmount": 938
+	},
+	{
+		"tagId": "LLU38DWB6PC",
+		"dhms": "03/01/2024 01:27:25",
+		"voie": "NX03",
+		"amount": 931,
+		"ffAmount": 1038
+	},
+	{
+		"tagId": "TGT88PBU4MI",
+		"dhms": "02/03/2024 22:25:36",
+		"voie": "NT23",
+		"amount": 926,
+		"ffAmount": 1033
+	},
+	{
+		"tagId": "COD18FLU4AQ",
+		"dhms": "13/03/2024 23:14:15",
+		"voie": "NT24",
+		"amount": 1159,
+		"ffAmount": 1055
+	},
+	{
+		"tagId": "TPY23XIY1ST",
+		"dhms": "30/03/2024 18:25:33",
+		"voie": "ST23",
+		"amount": 1033,
+		"ffAmount": 928
+	},
+	{
+		"tagId": "PFD55CFM2SZ",
+		"dhms": "01/04/2024 07:03:00",
+		"voie": "SX24",
+		"amount": 1088,
+		"ffAmount": 1005
+	},
+	{
+		"tagId": "GHK24HKN5ET",
+		"dhms": "01/01/2024 15:04:05",
+		"voie": "NX03",
+		"amount": 900,
+		"ffAmount": 983
+	},
+	{
+		"tagId": "SMK59GUN4KG",
+		"dhms": "13/03/2024 23:49:58",
+		"voie": "NX04",
+		"amount": 892,
+		"ffAmount": 1036
+	},
+	{
+		"tagId": "IDX32QGB8CN",
+		"dhms": "09/01/2024 16:51:40",
+		"voie": "SX23",
+		"amount": 1251,
+		"ffAmount": 927
+	},
+	{
+		"tagId": "DHZ28VNW0SY",
+		"dhms": "15/01/2024 05:09:28",
+		"voie": "NX03",
+		"amount": 1072,
+		"ffAmount": 964
+	},
+	{
+		"tagId": "ZMX23LFY2RB",
+		"dhms": "13/04/2024 22:58:26",
+		"voie": "SX23",
+		"amount": 1046,
+		"ffAmount": 1017
+	},
+	{
+		"tagId": "KMS36COW7GJ",
+		"dhms": "24/01/2024 11:47:45",
+		"voie": "NT23",
+		"amount": 1078,
+		"ffAmount": 985
+	},
+	{
+		"tagId": "CIH04PXG6YG",
+		"dhms": "19/04/2024 21:12:05",
+		"voie": "NX04",
+		"amount": 1198,
+		"ffAmount": 1039
+	},
+	{
+		"tagId": "GJV52HPT3HR",
+		"dhms": "16/03/2024 16:51:31",
+		"voie": "NT24",
+		"amount": 879,
+		"ffAmount": 969
+	},
+	{
+		"tagId": "HVF16UTL6UJ",
+		"dhms": "03/03/2024 18:07:52",
+		"voie": "SX22",
+		"amount": 828,
+		"ffAmount": 1019
+	},
+	{
+		"tagId": "LKL25YSE3ZR",
+		"dhms": "23/01/2024 03:55:20",
+		"voie": "NX04",
+		"amount": 1038,
+		"ffAmount": 979
+	},
+	{
+		"tagId": "IYL65KHH1LB",
+		"dhms": "06/02/2024 18:57:05",
+		"voie": "NT23",
+		"amount": 978,
+		"ffAmount": 1104
+	},
+	{
+		"tagId": "BBE67JLI6DE",
+		"dhms": "22/02/2024 02:43:29",
+		"voie": "SX23",
+		"amount": 1077,
+		"ffAmount": 934
+	},
+	{
+		"tagId": "PQQ94MAP6QT",
+		"dhms": "30/01/2024 13:57:43",
+		"voie": "ST23",
+		"amount": 841,
+		"ffAmount": 991
+	},
+	{
+		"tagId": "RGS57LRF4FL",
+		"dhms": "27/02/2024 22:28:58",
+		"voie": "NT02",
+		"amount": 815,
+		"ffAmount": 1068
+	},
+	{
+		"tagId": "FPP78SSQ7JS",
+		"dhms": "03/02/2024 17:25:02",
+		"voie": "SX22",
+		"amount": 804,
+		"ffAmount": 1023
+	},
+	{
+		"tagId": "CWD12KZT7UM",
+		"dhms": "01/01/2024 15:12:20",
+		"voie": "NX04",
+		"amount": 846,
+		"ffAmount": 924
+	},
+	{
+		"tagId": "GXV32CMH7PY",
+		"dhms": "11/02/2024 04:40:45",
+		"voie": "NT23",
+		"amount": 829,
+		"ffAmount": 1092
+	},
+	{
+		"tagId": "UDL52WSU6DB",
+		"dhms": "15/03/2024 22:36:25",
+		"voie": "NT24",
+		"amount": 817,
+		"ffAmount": 948
+	},
+	{
+		"tagId": "ZFM79CPB6IK",
+		"dhms": "28/01/2024 08:50:34",
+		"voie": "NT24",
+		"amount": 1066,
+		"ffAmount": 942
+	},
+	{
+		"tagId": "FKX81HZY1VT",
+		"dhms": "19/02/2024 14:22:14",
+		"voie": "NT23",
+		"amount": 1080,
+		"ffAmount": 986
+	},
+	{
+		"tagId": "GVD15VJS2YD",
+		"dhms": "18/02/2024 21:12:44",
+		"voie": "NT02",
+		"amount": 1209,
+		"ffAmount": 1025
+	},
+	{
+		"tagId": "WJH79MEP0FX",
+		"dhms": "23/02/2024 13:28:35",
+		"voie": "NT24",
+		"amount": 1078,
+		"ffAmount": 940
+	},
+	{
+		"tagId": "CXC25JOK5VY",
+		"dhms": "11/04/2024 02:55:11",
+		"voie": "SX24",
+		"amount": 937,
+		"ffAmount": 1052
+	},
+	{
+		"tagId": "ZSY65BSQ3FY",
+		"dhms": "14/01/2024 04:41:46",
+		"voie": "NT23",
+		"amount": 1270,
+		"ffAmount": 891
+	},
+	{
+		"tagId": "MEE82YTF3RY",
+		"dhms": "27/03/2024 16:07:03",
+		"voie": "NX03",
+		"amount": 733,
+		"ffAmount": 996
+	},
+	{
+		"tagId": "EUT38UEO1CR",
+		"dhms": "14/01/2024 09:00:43",
+		"voie": "NT23",
+		"amount": 1186,
+		"ffAmount": 1029
+	},
+	{
+		"tagId": "IUB91OCS2YV",
+		"dhms": "08/02/2024 21:14:26",
+		"voie": "ST23",
+		"amount": 928,
+		"ffAmount": 963
+	},
+	{
+		"tagId": "CIL51TZN6FA",
+		"dhms": "21/04/2024 04:35:35",
+		"voie": "NX04",
+		"amount": 1098,
+		"ffAmount": 977
+	},
+	{
+		"tagId": "XGO62WUX1QQ",
+		"dhms": "17/04/2024 06:42:43",
+		"voie": "SX22",
+		"amount": 1055,
+		"ffAmount": 990
+	},
+	{
+		"tagId": "BZS11GIJ3FD",
+		"dhms": "10/01/2024 00:55:29",
+		"voie": "NT24",
+		"amount": 1061,
+		"ffAmount": 1031
+	},
+	{
+		"tagId": "MVY76ZIJ3PV",
+		"dhms": "27/01/2024 14:44:16",
+		"voie": "SX22",
+		"amount": 1054,
+		"ffAmount": 1032
+	},
+	{
+		"tagId": "RMD41OJD7TM",
+		"dhms": "18/04/2024 01:09:53",
+		"voie": "ST23",
+		"amount": 1166,
+		"ffAmount": 963
+	},
+	{
+		"tagId": "QUJ27GTK8VN",
+		"dhms": "13/01/2024 05:20:57",
+		"voie": "SX23",
+		"amount": 1092,
+		"ffAmount": 941
+	},
+	{
+		"tagId": "ULY18XWC2UM",
+		"dhms": "22/02/2024 20:28:58",
+		"voie": "NT24",
+		"amount": 1050,
+		"ffAmount": 1038
+	},
+	{
+		"tagId": "KSM24KSS7CP",
+		"dhms": "26/02/2024 15:48:19",
+		"voie": "NT24",
+		"amount": 805,
+		"ffAmount": 980
+	},
+	{
+		"tagId": "PXX96IRI7IP",
+		"dhms": "11/02/2024 15:33:36",
+		"voie": "NT02",
+		"amount": 969,
+		"ffAmount": 982
+	},
+	{
+		"tagId": "LFB50NWU1VV",
+		"dhms": "25/02/2024 18:12:19",
+		"voie": "NT02",
+		"amount": 1036,
+		"ffAmount": 1056
+	},
+	{
+		"tagId": "FOV98PTU2OS",
+		"dhms": "19/04/2024 07:45:12",
+		"voie": "NT23",
+		"amount": 1003,
+		"ffAmount": 1122
+	},
+	{
+		"tagId": "SQM08KMT6LR",
+		"dhms": "25/03/2024 07:47:56",
+		"voie": "SX24",
+		"amount": 968,
+		"ffAmount": 962
+	},
+	{
+		"tagId": "FRF77UQS6VT",
+		"dhms": "29/02/2024 06:23:32",
+		"voie": "NT24",
+		"amount": 962,
+		"ffAmount": 927
+	},
+	{
+		"tagId": "JOR73CKQ1PE",
+		"dhms": "10/04/2024 09:48:25",
+		"voie": "NX04",
+		"amount": 1081,
+		"ffAmount": 992
+	},
+	{
+		"tagId": "JET12TXV8ML",
+		"dhms": "23/02/2024 07:11:30",
+		"voie": "SX23",
+		"amount": 979,
+		"ffAmount": 1024
+	},
+	{
+		"tagId": "YBJ42ABP8DE",
+		"dhms": "29/03/2024 08:34:08",
+		"voie": "NX04",
+		"amount": 1141,
+		"ffAmount": 991
+	},
+	{
+		"tagId": "QZA74BKL5NH",
+		"dhms": "02/01/2024 22:15:08",
+		"voie": "NX03",
+		"amount": 1196,
+		"ffAmount": 931
+	},
+	{
+		"tagId": "YNP26YHG0CU",
+		"dhms": "09/02/2024 14:28:33",
+		"voie": "SX22",
+		"amount": 1065,
+		"ffAmount": 981
+	},
+	{
+		"tagId": "FER61GXD3ON",
+		"dhms": "14/01/2024 06:57:54",
+		"voie": "NT02",
+		"amount": 1070,
+		"ffAmount": 1040
+	},
+	{
+		"tagId": "DEL06JDI5XN",
+		"dhms": "07/04/2024 08:46:31",
+		"voie": "ST22",
+		"amount": 595,
+		"ffAmount": 987
+	},
+	{
+		"tagId": "AFB84AYG2XV",
+		"dhms": "12/01/2024 18:38:22",
+		"voie": "NT02",
+		"amount": 865,
+		"ffAmount": 981
+	},
+	{
+		"tagId": "EPF38ZQN1EU",
+		"dhms": "19/01/2024 22:56:05",
+		"voie": "ST22",
+		"amount": 918,
+		"ffAmount": 989
+	},
+	{
+		"tagId": "NDJ88JLB8KY",
+		"dhms": "08/04/2024 04:30:58",
+		"voie": "ST23",
+		"amount": 987,
+		"ffAmount": 1023
+	},
+	{
+		"tagId": "USF40GJT5HN",
+		"dhms": "09/01/2024 18:51:55",
+		"voie": "NT02",
+		"amount": 865,
+		"ffAmount": 1067
+	},
+	{
+		"tagId": "HSD75NQS4NY",
+		"dhms": "09/02/2024 19:23:04",
+		"voie": "NT24",
+		"amount": 1010,
+		"ffAmount": 949
+	},
+	{
+		"tagId": "JFP77CYU6UU",
+		"dhms": "16/03/2024 01:55:30",
+		"voie": "ST23",
+		"amount": 949,
+		"ffAmount": 961
+	},
+	{
+		"tagId": "YGM38HOH8GL",
+		"dhms": "20/02/2024 13:12:58",
+		"voie": "NX03",
+		"amount": 1140,
+		"ffAmount": 1022
+	},
+	{
+		"tagId": "VUO66MCX4DV",
+		"dhms": "01/02/2024 15:10:57",
+		"voie": "SX23",
+		"amount": 841,
+		"ffAmount": 1005
+	},
+	{
+		"tagId": "COE47FGZ3FQ",
+		"dhms": "06/01/2024 11:23:03",
+		"voie": "NT23",
+		"amount": 906,
+		"ffAmount": 973
+	},
+	{
+		"tagId": "MZO10NTI4HF",
+		"dhms": "03/04/2024 08:35:23",
+		"voie": "NX03",
+		"amount": 1146,
+		"ffAmount": 982
+	},
+	{
+		"tagId": "DQP70QEF1YY",
+		"dhms": "28/01/2024 11:05:00",
+		"voie": "SX23",
+		"amount": 958,
+		"ffAmount": 1042
+	},
+	{
+		"tagId": "CFW44SAF1CI",
+		"dhms": "14/01/2024 12:01:28",
+		"voie": "NT02",
+		"amount": 1143,
+		"ffAmount": 1045
+	},
+	{
+		"tagId": "YOF57VFE6IC",
+		"dhms": "26/03/2024 02:17:34",
+		"voie": "ST22",
+		"amount": 1174,
+		"ffAmount": 1040
+	},
+	{
+		"tagId": "BNK75TBY4OJ",
+		"dhms": "03/03/2024 12:15:23",
+		"voie": "NT02",
+		"amount": 1081,
+		"ffAmount": 1107
+	},
+	{
+		"tagId": "MLH49TWE7NA",
+		"dhms": "25/02/2024 01:29:16",
+		"voie": "NT24",
+		"amount": 1085,
+		"ffAmount": 967
+	},
+	{
+		"tagId": "DCE33FXJ5XY",
+		"dhms": "01/03/2024 07:54:26",
+		"voie": "NT24",
+		"amount": 842,
+		"ffAmount": 915
+	},
+	{
+		"tagId": "FEV33VNH2ZS",
+		"dhms": "12/03/2024 18:29:30",
+		"voie": "NT23",
+		"amount": 1117,
+		"ffAmount": 976
+	},
+	{
+		"tagId": "RUY94DBQ7ZY",
+		"dhms": "11/03/2024 18:34:23",
+		"voie": "SX22",
+		"amount": 1030,
+		"ffAmount": 954
+	},
+	{
+		"tagId": "MFN63RUP4ZG",
+		"dhms": "09/02/2024 08:58:05",
+		"voie": "SX24",
+		"amount": 1003,
+		"ffAmount": 1084
+	},
+	{
+		"tagId": "PEM77WPS3DT",
+		"dhms": "16/01/2024 11:20:24",
+		"voie": "NX04",
+		"amount": 869,
+		"ffAmount": 1029
+	},
+	{
+		"tagId": "OKM82FHO6SW",
+		"dhms": "09/03/2024 12:08:32",
+		"voie": "ST22",
+		"amount": 1001,
+		"ffAmount": 1001
+	},
+	{
+		"tagId": "TLV32SWD1MU",
+		"dhms": "02/04/2024 21:59:00",
+		"voie": "SX24",
+		"amount": 1182,
+		"ffAmount": 1049
+	},
+	{
+		"tagId": "INY94CJP3TW",
+		"dhms": "11/01/2024 22:12:27",
+		"voie": "SX24",
+		"amount": 1029,
+		"ffAmount": 999
+	},
+	{
+		"tagId": "KGU20JLO3MP",
+		"dhms": "23/03/2024 16:25:51",
+		"voie": "NX03",
+		"amount": 911,
+		"ffAmount": 1037
+	},
+	{
+		"tagId": "GOW14VGG7RF",
+		"dhms": "28/01/2024 12:09:36",
+		"voie": "NT02",
+		"amount": 907,
+		"ffAmount": 954
+	},
+	{
+		"tagId": "CEX94LHM5XD",
+		"dhms": "19/01/2024 04:33:30",
+		"voie": "NT02",
+		"amount": 1218,
+		"ffAmount": 970
+	},
+	{
+		"tagId": "KNK63JGV7RH",
+		"dhms": "09/04/2024 23:56:50",
+		"voie": "SX24",
+		"amount": 979,
+		"ffAmount": 1020
+	},
+	{
+		"tagId": "IMR43VSD0ZU",
+		"dhms": "01/02/2024 12:10:00",
+		"voie": "NT23",
+		"amount": 1052,
+		"ffAmount": 911
+	},
+	{
+		"tagId": "OKM71FFH3RZ",
+		"dhms": "11/04/2024 20:21:15",
+		"voie": "NX04",
+		"amount": 1108,
+		"ffAmount": 999
+	},
+	{
+		"tagId": "BUU86ZZW3ED",
+		"dhms": "23/01/2024 11:39:32",
+		"voie": "NT02",
+		"amount": 842,
+		"ffAmount": 1020
+	},
+	{
+		"tagId": "JTF38VKC7TU",
+		"dhms": "10/01/2024 02:56:45",
+		"voie": "NT02",
+		"amount": 938,
+		"ffAmount": 951
+	},
+	{
+		"tagId": "RRP52FFJ4LU",
+		"dhms": "15/03/2024 16:41:59",
+		"voie": "NT02",
+		"amount": 936,
+		"ffAmount": 912
+	},
+	{
+		"tagId": "FZG01XBQ9WZ",
+		"dhms": "22/04/2024 05:49:01",
+		"voie": "NT02",
+		"amount": 897,
+		"ffAmount": 978
+	},
+	{
+		"tagId": "SND41DWG4QD",
+		"dhms": "20/03/2024 15:50:54",
+		"voie": "NX04",
+		"amount": 957,
+		"ffAmount": 928
+	},
+	{
+		"tagId": "QRK61JDU6HT",
+		"dhms": "21/04/2024 07:00:32",
+		"voie": "SX24",
+		"amount": 1196,
+		"ffAmount": 1030
+	},
+	{
+		"tagId": "PDS24QLO7XK",
+		"dhms": "23/02/2024 15:50:05",
+		"voie": "SX23",
+		"amount": 1005,
+		"ffAmount": 977
+	},
+	{
+		"tagId": "MUM07IRC2NR",
+		"dhms": "21/01/2024 20:18:54",
+		"voie": "NT02",
+		"amount": 1067,
+		"ffAmount": 1056
+	},
+	{
+		"tagId": "MQL72CJH3JK",
+		"dhms": "02/03/2024 03:05:06",
+		"voie": "NT24",
+		"amount": 1043,
+		"ffAmount": 1016
+	},
+	{
+		"tagId": "TKT86ZOF7DM",
+		"dhms": "10/02/2024 06:19:58",
+		"voie": "NT24",
+		"amount": 1058,
+		"ffAmount": 983
+	},
+	{
+		"tagId": "KDT73VPW1JN",
+		"dhms": "10/03/2024 11:23:31",
+		"voie": "NX04",
+		"amount": 1026,
+		"ffAmount": 1034
+	},
+	{
+		"tagId": "QEL15EMT4FX",
+		"dhms": "18/01/2024 12:05:37",
+		"voie": "SX22",
+		"amount": 1183,
+		"ffAmount": 1041
+	},
+	{
+		"tagId": "CIQ25TCY3UL",
+		"dhms": "29/02/2024 14:55:53",
+		"voie": "SX24",
+		"amount": 866,
+		"ffAmount": 944
+	},
+	{
+		"tagId": "ZYC26NJA2FC",
+		"dhms": "16/01/2024 13:56:50",
+		"voie": "NT23",
+		"amount": 945,
+		"ffAmount": 1061
+	},
+	{
+		"tagId": "VWN63TNM4KF",
+		"dhms": "11/03/2024 05:49:22",
+		"voie": "NX04",
+		"amount": 1067,
+		"ffAmount": 958
+	},
+	{
+		"tagId": "PDF83ICX0NY",
+		"dhms": "18/04/2024 23:23:23",
+		"voie": "SX24",
+		"amount": 953,
+		"ffAmount": 1144
+	},
+	{
+		"tagId": "QQH71YWA2UL",
+		"dhms": "11/02/2024 00:47:32",
+		"voie": "ST22",
+		"amount": 923,
+		"ffAmount": 1020
+	},
+	{
+		"tagId": "XTM26ZLH0HR",
+		"dhms": "31/03/2024 09:45:09",
+		"voie": "NT23",
+		"amount": 959,
+		"ffAmount": 942
+	},
+	{
+		"tagId": "SRB57BMQ4UJ",
+		"dhms": "05/02/2024 08:44:01",
+		"voie": "NT24",
+		"amount": 1042,
+		"ffAmount": 1073
+	},
+	{
+		"tagId": "WSO85HYC3JJ",
+		"dhms": "24/02/2024 03:20:29",
+		"voie": "NX03",
+		"amount": 1151,
+		"ffAmount": 1020
+	},
+	{
+		"tagId": "DFS99JSJ8HO",
+		"dhms": "29/03/2024 22:43:18",
+		"voie": "SX24",
+		"amount": 1035,
+		"ffAmount": 891
+	},
+	{
+		"tagId": "SVQ37BQW6FD",
+		"dhms": "02/03/2024 09:15:15",
+		"voie": "NT24",
+		"amount": 987,
+		"ffAmount": 924
+	},
+	{
+		"tagId": "KJJ87UQY1IV",
+		"dhms": "06/04/2024 10:39:09",
+		"voie": "NX04",
+		"amount": 827,
+		"ffAmount": 922
+	},
+	{
+		"tagId": "JXL33OCL3OM",
+		"dhms": "06/03/2024 13:19:07",
+		"voie": "NX03",
+		"amount": 1157,
+		"ffAmount": 973
+	},
+	{
+		"tagId": "WSL66UDQ9MI",
+		"dhms": "07/02/2024 03:43:40",
+		"voie": "SX23",
+		"amount": 1109,
+		"ffAmount": 849
+	},
+	{
+		"tagId": "WEH93XHJ8HY",
+		"dhms": "28/02/2024 13:51:23",
+		"voie": "ST23",
+		"amount": 735,
+		"ffAmount": 955
+	},
+	{
+		"tagId": "QIB46IBC6JX",
+		"dhms": "29/02/2024 14:11:19",
+		"voie": "SX23",
+		"amount": 1192,
+		"ffAmount": 895
+	},
+	{
+		"tagId": "LLM42EJK4ZM",
+		"dhms": "11/04/2024 10:01:54",
+		"voie": "SX22",
+		"amount": 1076,
+		"ffAmount": 964
+	},
+	{
+		"tagId": "HKH53BIB4IY",
+		"dhms": "17/02/2024 11:17:05",
+		"voie": "SX24",
+		"amount": 864,
+		"ffAmount": 1055
+	},
+	{
+		"tagId": "NYS36RIA2QS",
+		"dhms": "19/01/2024 15:57:12",
+		"voie": "NT24",
+		"amount": 1123,
+		"ffAmount": 1073
+	},
+	{
+		"tagId": "YNM81EEA6JF",
+		"dhms": "29/02/2024 00:20:20",
+		"voie": "SX24",
+		"amount": 995,
+		"ffAmount": 953
+	},
+	{
+		"tagId": "YJY75PJJ1WW",
+		"dhms": "12/03/2024 22:02:38",
+		"voie": "NT02",
+		"amount": 965,
+		"ffAmount": 914
+	},
+	{
+		"tagId": "CID20DBJ9XT",
+		"dhms": "15/02/2024 04:21:25",
+		"voie": "SX24",
+		"amount": 1218,
+		"ffAmount": 1140
+	},
+	{
+		"tagId": "MMB46XOR1FS",
+		"dhms": "23/01/2024 17:54:26",
+		"voie": "NX03",
+		"amount": 1027,
+		"ffAmount": 998
+	},
+	{
+		"tagId": "PDU38KNT9JT",
+		"dhms": "15/02/2024 02:33:31",
+		"voie": "NT23",
+		"amount": 1021,
+		"ffAmount": 1135
+	},
+	{
+		"tagId": "QBS26SOJ1FW",
+		"dhms": "14/02/2024 00:36:08",
+		"voie": "ST22",
+		"amount": 1089,
+		"ffAmount": 1051
+	},
+	{
+		"tagId": "PSX03JCT6PK",
+		"dhms": "16/04/2024 17:03:59",
+		"voie": "SX23",
+		"amount": 913,
+		"ffAmount": 978
+	},
+	{
+		"tagId": "WVV97IUO1RR",
+		"dhms": "28/02/2024 12:00:09",
+		"voie": "NX04",
+		"amount": 897,
+		"ffAmount": 888
+	},
+	{
+		"tagId": "OJF78VCG8GP",
+		"dhms": "25/01/2024 00:01:11",
+		"voie": "NT23",
+		"amount": 1072,
+		"ffAmount": 1082
+	},
+	{
+		"tagId": "IDH65BUL8HI",
+		"dhms": "12/04/2024 22:05:29",
+		"voie": "NX03",
+		"amount": 680,
+		"ffAmount": 948
+	},
+	{
+		"tagId": "VBK22XRB2MZ",
+		"dhms": "16/04/2024 05:26:10",
+		"voie": "SX22",
+		"amount": 902,
+		"ffAmount": 1016
+	},
+	{
+		"tagId": "MMY27VEX2TY",
+		"dhms": "18/01/2024 08:26:31",
+		"voie": "NX03",
+		"amount": 1081,
+		"ffAmount": 923
+	},
+	{
+		"tagId": "PNU13BKU6CJ",
+		"dhms": "15/04/2024 21:33:24",
+		"voie": "SX23",
+		"amount": 1104,
+		"ffAmount": 1012
+	},
+	{
+		"tagId": "TGR77QUR3FQ",
+		"dhms": "19/02/2024 05:11:09",
+		"voie": "ST22",
+		"amount": 1254,
+		"ffAmount": 1007
+	},
+	{
+		"tagId": "WDQ24LYX1CP",
+		"dhms": "24/02/2024 03:42:39",
+		"voie": "NT24",
+		"amount": 1124,
+		"ffAmount": 930
+	},
+	{
+		"tagId": "AJI84WZR2KL",
+		"dhms": "24/03/2024 11:18:26",
+		"voie": "NT02",
+		"amount": 881,
+		"ffAmount": 943
+	},
+	{
+		"tagId": "HOS10WMT8GV",
+		"dhms": "10/01/2024 23:52:12",
+		"voie": "NT24",
+		"amount": 858,
+		"ffAmount": 1099
+	},
+	{
+		"tagId": "RFL87VBI6FO",
+		"dhms": "08/01/2024 10:41:36",
+		"voie": "NT02",
+		"amount": 772,
+		"ffAmount": 935
+	},
+	{
+		"tagId": "GVP80LOG9UH",
+		"dhms": "13/04/2024 17:11:07",
+		"voie": "NT02",
+		"amount": 1049,
+		"ffAmount": 938
+	},
+	{
+		"tagId": "TSB47IFU3HC",
+		"dhms": "18/03/2024 21:21:10",
+		"voie": "ST22",
+		"amount": 976,
+		"ffAmount": 977
+	},
+	{
+		"tagId": "LBL31ELJ4GU",
+		"dhms": "08/03/2024 22:35:22",
+		"voie": "SX22",
+		"amount": 883,
+		"ffAmount": 999
+	},
+	{
+		"tagId": "GWO17YJJ6QQ",
+		"dhms": "22/03/2024 03:08:15",
+		"voie": "NX03",
+		"amount": 957,
+		"ffAmount": 1081
+	},
+	{
+		"tagId": "UIH50LXO6MQ",
+		"dhms": "25/01/2024 21:19:24",
+		"voie": "SX22",
+		"amount": 957,
+		"ffAmount": 969
+	},
+	{
+		"tagId": "XSC42SNE6SG",
+		"dhms": "25/01/2024 14:50:49",
+		"voie": "SX22",
+		"amount": 1104,
+		"ffAmount": 947
+	},
+	{
+		"tagId": "CKX64ONJ7AC",
+		"dhms": "10/02/2024 20:49:08",
+		"voie": "NX04",
+		"amount": 1130,
+		"ffAmount": 1005
+	},
+	{
+		"tagId": "FMS72WUH3RK",
+		"dhms": "08/04/2024 13:27:04",
+		"voie": "SX24",
+		"amount": 959,
+		"ffAmount": 1017
+	},
+	{
+		"tagId": "CLV35NMM2BV",
+		"dhms": "15/02/2024 01:12:54",
+		"voie": "NX04",
+		"amount": 1137,
+		"ffAmount": 981
+	},
+	{
+		"tagId": "RNB22ZOW3WP",
+		"dhms": "14/04/2024 04:00:42",
+		"voie": "NT24",
+		"amount": 883,
+		"ffAmount": 1006
+	},
+	{
+		"tagId": "JRP46EWC4MJ",
+		"dhms": "10/03/2024 09:07:46",
+		"voie": "NT02",
+		"amount": 1151,
+		"ffAmount": 952
+	},
+	{
+		"tagId": "PCS77CBY6VO",
+		"dhms": "16/03/2024 07:32:36",
+		"voie": "NX04",
+		"amount": 879,
+		"ffAmount": 1000
+	},
+	{
+		"tagId": "ZFP65DOK3SV",
+		"dhms": "12/01/2024 18:08:37",
+		"voie": "SX22",
+		"amount": 935,
+		"ffAmount": 970
+	},
+	{
+		"tagId": "IGF68DTU1YW",
+		"dhms": "01/01/2024 22:44:28",
+		"voie": "NX03",
+		"amount": 1065,
+		"ffAmount": 1068
+	},
+	{
+		"tagId": "PMX64HTS7HD",
+		"dhms": "15/04/2024 14:35:20",
+		"voie": "ST23",
+		"amount": 932,
+		"ffAmount": 1053
+	},
+	{
+		"tagId": "FUY41PVJ2HS",
+		"dhms": "15/04/2024 01:34:33",
+		"voie": "ST22",
+		"amount": 992,
+		"ffAmount": 940
+	},
+	{
+		"tagId": "ZOP19CTG2UP",
+		"dhms": "31/01/2024 15:24:23",
+		"voie": "SX24",
+		"amount": 1105,
+		"ffAmount": 979
+	},
+	{
+		"tagId": "SYP04SMX5UF",
+		"dhms": "26/02/2024 19:50:06",
+		"voie": "SX23",
+		"amount": 1202,
+		"ffAmount": 992
+	},
+	{
+		"tagId": "LLS84PWK1NU",
+		"dhms": "24/03/2024 17:12:03",
+		"voie": "ST23",
+		"amount": 769,
+		"ffAmount": 1026
+	},
+	{
+		"tagId": "XVC42RAV2NJ",
+		"dhms": "17/04/2024 10:47:44",
+		"voie": "ST23",
+		"amount": 1187,
+		"ffAmount": 978
+	},
+	{
+		"tagId": "RBU86RZX7OW",
+		"dhms": "04/01/2024 09:45:42",
+		"voie": "NT24",
+		"amount": 937,
+		"ffAmount": 1079
+	},
+	{
+		"tagId": "KEW11QWG5FE",
+		"dhms": "28/03/2024 06:33:40",
+		"voie": "SX24",
+		"amount": 903,
+		"ffAmount": 976
+	},
+	{
+		"tagId": "NEO54RNR5JL",
+		"dhms": "11/02/2024 19:18:30",
+		"voie": "NT23",
+		"amount": 897,
+		"ffAmount": 919
+	},
+	{
+		"tagId": "PBL55BWM5GI",
+		"dhms": "05/02/2024 11:19:28",
+		"voie": "SX22",
+		"amount": 986,
+		"ffAmount": 1041
+	},
+	{
+		"tagId": "JDX92KMB2YN",
+		"dhms": "08/02/2024 10:10:25",
+		"voie": "NT02",
+		"amount": 1030,
+		"ffAmount": 974
+	},
+	{
+		"tagId": "CVL62TMF4QY",
+		"dhms": "03/01/2024 00:24:40",
+		"voie": "NX04",
+		"amount": 966,
+		"ffAmount": 1002
+	},
+	{
+		"tagId": "UUL18KEB5SW",
+		"dhms": "27/01/2024 01:58:44",
+		"voie": "SX24",
+		"amount": 951,
+		"ffAmount": 977
+	},
+	{
+		"tagId": "CMF25WWG7XU",
+		"dhms": "30/01/2024 08:15:09",
+		"voie": "ST23",
+		"amount": 1046,
+		"ffAmount": 988
+	},
+	{
+		"tagId": "DTI23WUH2RV",
+		"dhms": "20/04/2024 12:53:02",
+		"voie": "NX03",
+		"amount": 1057,
+		"ffAmount": 1001
+	},
+	{
+		"tagId": "EMS77BHT1QT",
+		"dhms": "15/04/2024 00:03:10",
+		"voie": "SX22",
+		"amount": 1019,
+		"ffAmount": 934
+	},
+	{
+		"tagId": "MFA87MNA3WR",
+		"dhms": "20/03/2024 10:06:54",
+		"voie": "NT24",
+		"amount": 873,
+		"ffAmount": 1049
+	},
+	{
+		"tagId": "RRE58PEZ8CE",
+		"dhms": "22/04/2024 05:21:16",
+		"voie": "SX22",
+		"amount": 831,
+		"ffAmount": 1047
+	},
+	{
+		"tagId": "VTC24UTW1BO",
+		"dhms": "07/03/2024 20:21:59",
+		"voie": "ST22",
+		"amount": 913,
+		"ffAmount": 1028
+	},
+	{
+		"tagId": "CHK62FSY2HR",
+		"dhms": "05/04/2024 22:08:43",
+		"voie": "SX22",
+		"amount": 601,
+		"ffAmount": 1026
+	},
+	{
+		"tagId": "FHH51WEM8QN",
+		"dhms": "18/01/2024 05:07:06",
+		"voie": "SX22",
+		"amount": 815,
+		"ffAmount": 1004
+	},
+	{
+		"tagId": "IEG04DRH5UX",
+		"dhms": "15/01/2024 18:43:34",
+		"voie": "ST22",
+		"amount": 969,
+		"ffAmount": 981
+	},
+	{
+		"tagId": "IGY78UDF1YF",
+		"dhms": "05/02/2024 00:13:42",
+		"voie": "ST23",
+		"amount": 800,
+		"ffAmount": 1026
+	},
+	{
+		"tagId": "PRO33CDX4KR",
+		"dhms": "15/02/2024 14:37:35",
+		"voie": "SX22",
+		"amount": 990,
+		"ffAmount": 1054
+	},
+	{
+		"tagId": "CTR44LIT6ZX",
+		"dhms": "11/01/2024 12:17:15",
+		"voie": "SX24",
+		"amount": 853,
+		"ffAmount": 985
+	},
+	{
+		"tagId": "RJL15YST0YY",
+		"dhms": "30/01/2024 05:49:20",
+		"voie": "NT24",
+		"amount": 1157,
+		"ffAmount": 906
+	},
+	{
+		"tagId": "VFC76UPF3JF",
+		"dhms": "02/02/2024 22:25:06",
+		"voie": "NT24",
+		"amount": 914,
+		"ffAmount": 954
+	},
+	{
+		"tagId": "HEL39UMO7HS",
+		"dhms": "26/01/2024 17:50:37",
+		"voie": "NT23",
+		"amount": 984,
+		"ffAmount": 989
+	},
+	{
+		"tagId": "PLB99VYI6RJ",
+		"dhms": "11/03/2024 21:19:56",
+		"voie": "SX22",
+		"amount": 980,
+		"ffAmount": 1059
+	},
+	{
+		"tagId": "WFE40LFO7NQ",
+		"dhms": "20/02/2024 05:33:58",
+		"voie": "NT02",
+		"amount": 803,
+		"ffAmount": 915
+	},
+	{
+		"tagId": "MHJ86UGR2NN",
+		"dhms": "22/01/2024 10:48:44",
+		"voie": "SX23",
+		"amount": 937,
+		"ffAmount": 988
+	},
+	{
+		"tagId": "THG50UXG8PD",
+		"dhms": "31/03/2024 00:37:16",
+		"voie": "NX04",
+		"amount": 1010,
+		"ffAmount": 1039
+	},
+	{
+		"tagId": "RMP00ZLJ2IQ",
+		"dhms": "14/02/2024 02:51:46",
+		"voie": "NT24",
+		"amount": 969,
+		"ffAmount": 1023
+	},
+	{
+		"tagId": "AZP40BOT7LJ",
+		"dhms": "21/01/2024 20:14:02",
+		"voie": "SX23",
+		"amount": 1011,
+		"ffAmount": 1013
+	},
+	{
+		"tagId": "YNG80TRP3IP",
+		"dhms": "31/01/2024 09:50:01",
+		"voie": "NT24",
+		"amount": 1133,
+		"ffAmount": 1017
+	},
+	{
+		"tagId": "QDR11QHQ7OY",
+		"dhms": "24/03/2024 08:52:59",
+		"voie": "NT02",
+		"amount": 877,
+		"ffAmount": 1077
+	},
+	{
+		"tagId": "SKX64OVC4HA",
+		"dhms": "06/03/2024 08:17:16",
+		"voie": "NT23",
+		"amount": 893,
+		"ffAmount": 975
+	},
+	{
+		"tagId": "LPK47ZPY2JC",
+		"dhms": "09/01/2024 07:05:03",
+		"voie": "SX23",
+		"amount": 901,
+		"ffAmount": 951
+	},
+	{
+		"tagId": "QPD77VRT9LZ",
+		"dhms": "16/01/2024 03:50:25",
+		"voie": "NT24",
+		"amount": 1044,
+		"ffAmount": 1000
+	},
+	{
+		"tagId": "JKL11UYL7VC",
+		"dhms": "28/02/2024 22:44:21",
+		"voie": "SX22",
+		"amount": 822,
+		"ffAmount": 966
+	},
+	{
+		"tagId": "PMK87KHT4CO",
+		"dhms": "13/02/2024 02:49:03",
+		"voie": "SX23",
+		"amount": 686,
+		"ffAmount": 1034
+	},
+	{
+		"tagId": "KWK92BRG2IG",
+		"dhms": "07/02/2024 11:01:32",
+		"voie": "ST22",
+		"amount": 981,
+		"ffAmount": 1020
+	},
+	{
+		"tagId": "EVC25RUK9IQ",
+		"dhms": "16/03/2024 13:48:41",
+		"voie": "NT24",
+		"amount": 1137,
+		"ffAmount": 1058
+	},
+	{
+		"tagId": "IHW00XMH4AN",
+		"dhms": "21/01/2024 12:53:17",
+		"voie": "ST22",
+		"amount": 744,
+		"ffAmount": 1031
+	},
+	{
+		"tagId": "RYJ68PFY2VY",
+		"dhms": "26/02/2024 00:36:52",
+		"voie": "NX04",
+		"amount": 947,
+		"ffAmount": 1020
+	},
+	{
+		"tagId": "BYT29MGU8XK",
+		"dhms": "03/01/2024 14:59:53",
+		"voie": "ST22",
+		"amount": 801,
+		"ffAmount": 1042
+	},
+	{
+		"tagId": "EFY29XNO7QP",
+		"dhms": "16/03/2024 04:55:18",
+		"voie": "NT02",
+		"amount": 1139,
+		"ffAmount": 1022
+	},
+	{
+		"tagId": "TQY76XJZ6HQ",
+		"dhms": "22/03/2024 00:40:33",
+		"voie": "SX23",
+		"amount": 1018,
+		"ffAmount": 1074
+	}
+]

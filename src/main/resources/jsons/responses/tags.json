@@ -1,0 +1,5680 @@
+[
+  {
+    "date": "01/01/2024",
+    "data": [
+      {
+        "date": "01/01/2024",
+        "tagId": "JEI02CYB8OL",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "01/01/2024 14:49:15",
+        "etat": "CREE"
+      }
+    ],
+    "nombre": 1
+  },
+  {
+    "date": "02/01/2024",
+    "data": [
+      {
+        "date": "02/01/2024",
+        "tagId": "KWP76QDK1IP",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "02/01/2024 16:24:02",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "02/01/2024",
+        "tagId": "JSJ54RJS1KS",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "02/01/2024 18:25:16",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "02/01/2024",
+        "tagId": "OUS18YMR4IM",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "02/01/2024 00:20:13",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "02/01/2024",
+        "tagId": "DSO57ELJ8ES",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "02/01/2024 20:34:56",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "02/01/2024",
+        "tagId": "BES47SVB8EK",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "02/01/2024 06:24:25",
+        "etat": "CREE"
+      },
+      {
+        "date": "02/01/2024",
+        "tagId": "PRJ53EOS3TJ",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "02/01/2024 00:48:35",
+        "etat": "CREE"
+      },
+      {
+        "date": "02/01/2024",
+        "tagId": "MJQ24GRM5PP",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "02/01/2024 19:55:57",
+        "etat": "CREE"
+      },
+      {
+        "date": "02/01/2024",
+        "tagId": "BIN88HFE8II",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "02/01/2024 01:36:45",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "02/01/2024",
+        "tagId": "WUX03ZWS1GV",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "02/01/2024 22:11:16",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "02/01/2024",
+        "tagId": "DOC56NUM0FT",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "02/01/2024 07:57:32",
+        "etat": "CREE"
+      },
+      {
+        "date": "02/01/2024",
+        "tagId": "WSA87RHF6BL",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "02/01/2024 11:41:13",
+        "etat": "BLACKLISTE"
+      }
+    ],
+    "nombre": 11
+  },
+  {
+    "date": "03/01/2024",
+    "data": [
+      {
+        "date": "03/01/2024",
+        "tagId": "HDQ21LCG6UU",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "03/01/2024 20:37:07",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "03/01/2024",
+        "tagId": "FVJ72BVW2NP",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "03/01/2024 01:50:45",
+        "etat": "CREE"
+      },
+      {
+        "date": "03/01/2024",
+        "tagId": "OEG47XOC5FX",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "03/01/2024 07:24:46",
+        "etat": "CREE"
+      }
+    ],
+    "nombre": 3
+  },
+  {
+    "date": "04/01/2024",
+    "data": [
+      {
+        "date": "04/01/2024",
+        "tagId": "RYA07RQD8GN",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "04/01/2024 23:18:42",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "04/01/2024",
+        "tagId": "TNG09YLP2ET",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "04/01/2024 19:46:41",
+        "etat": "CREE"
+      },
+      {
+        "date": "04/01/2024",
+        "tagId": "PQM11BFR4PU",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "04/01/2024 05:42:26",
+        "etat": "CREE"
+      },
+      {
+        "date": "04/01/2024",
+        "tagId": "JYG41QXY8UO",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "04/01/2024 13:27:14",
+        "etat": "BLACKLISTE"
+      }
+    ],
+    "nombre": 4
+  },
+  {
+    "date": "05/01/2024",
+    "data": [
+      {
+        "date": "05/01/2024",
+        "tagId": "XTK54NOL4ER",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "05/01/2024 10:43:55",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "05/01/2024",
+        "tagId": "JNE27KFX6IQ",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "05/01/2024 10:01:53",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "05/01/2024",
+        "tagId": "MGN82GNI5NL",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "05/01/2024 06:56:54",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "05/01/2024",
+        "tagId": "FJB75DMX9XQ",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "05/01/2024 18:25:39",
+        "etat": "CREE"
+      },
+      {
+        "date": "05/01/2024",
+        "tagId": "VSG77SKI2NI",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "05/01/2024 16:06:44",
+        "etat": "CREE"
+      },
+      {
+        "date": "05/01/2024",
+        "tagId": "QNN05ZGV2RR",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "05/01/2024 17:32:26",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "05/01/2024",
+        "tagId": "ZQF62LDZ6UB",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "05/01/2024 17:45:50",
+        "etat": "CREE"
+      },
+      {
+        "date": "05/01/2024",
+        "tagId": "FUJ38NJG6GV",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "05/01/2024 06:34:33",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "05/01/2024",
+        "tagId": "IOE82FQE9CJ",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "05/01/2024 00:39:17",
+        "etat": "BLACKLISTE"
+      }
+    ],
+    "nombre": 9
+  },
+  {
+    "date": "06/01/2024",
+    "data": [
+      {
+        "date": "06/01/2024",
+        "tagId": "PJF53WQN4RV",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "06/01/2024 12:03:47",
+        "etat": "BLACKLISTE"
+      }
+    ],
+    "nombre": 1
+  },
+  {
+    "date": "07/01/2024",
+    "data": [
+      {
+        "date": "07/01/2024",
+        "tagId": "LNV82YZN2RE",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "07/01/2024 04:54:07",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "07/01/2024",
+        "tagId": "AEH86IUX6VS",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "07/01/2024 07:23:54",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "07/01/2024",
+        "tagId": "PJL72GPU8QJ",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "07/01/2024 02:08:37",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "07/01/2024",
+        "tagId": "TPV45KYS1DS",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "07/01/2024 06:59:13",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "07/01/2024",
+        "tagId": "BPL14DDK1DS",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "07/01/2024 05:13:40",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "07/01/2024",
+        "tagId": "SEL75QDV7ES",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "07/01/2024 04:33:31",
+        "etat": "CREE"
+      },
+      {
+        "date": "07/01/2024",
+        "tagId": "KQY35XCQ3QY",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "07/01/2024 11:22:21",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "07/01/2024",
+        "tagId": "VSV67HTM3FP",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "07/01/2024 03:58:23",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "07/01/2024",
+        "tagId": "HFB18DRX7GM",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "07/01/2024 10:45:02",
+        "etat": "BLACKLISTE"
+      }
+    ],
+    "nombre": 9
+  },
+  {
+    "date": "08/01/2024",
+    "data": [
+      {
+        "date": "08/01/2024",
+        "tagId": "NKY25EQT4PN",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "08/01/2024 05:01:45",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "08/01/2024",
+        "tagId": "OZY98FGO8CV",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "08/01/2024 06:14:09",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "08/01/2024",
+        "tagId": "WAJ25RUD8LR",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "08/01/2024 17:18:26",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "08/01/2024",
+        "tagId": "GHU88YBD3HU",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "08/01/2024 15:10:01",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "08/01/2024",
+        "tagId": "ERX66CHR2ZD",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "08/01/2024 00:00:39",
+        "etat": "ACTIF"
+      }
+    ],
+    "nombre": 5
+  },
+  {
+    "date": "09/01/2024",
+    "data": [
+      {
+        "date": "09/01/2024",
+        "tagId": "CCK71EXP1NE",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "09/01/2024 20:53:08",
+        "etat": "CREE"
+      },
+      {
+        "date": "09/01/2024",
+        "tagId": "OVS36AGW8GG",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "09/01/2024 17:46:45",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "09/01/2024",
+        "tagId": "CWX94SZF1KX",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "09/01/2024 05:19:52",
+        "etat": "BLACKLISTE"
+      }
+    ],
+    "nombre": 3
+  },
+  {
+    "date": "10/01/2024",
+    "data": [
+      {
+        "date": "10/01/2024",
+        "tagId": "JNY45IFR0RR",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "10/01/2024 00:54:24",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "10/01/2024",
+        "tagId": "ZLV56VDK6SD",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "10/01/2024 13:40:37",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "10/01/2024",
+        "tagId": "ESJ77OVP1WP",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "10/01/2024 05:39:29",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "10/01/2024",
+        "tagId": "KRD83XOJ2AY",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "10/01/2024 05:31:24",
+        "etat": "BLACKLISTE"
+      }
+    ],
+    "nombre": 4
+  },
+  {
+    "date": "11/01/2024",
+    "data": [
+      {
+        "date": "11/01/2024",
+        "tagId": "PII06ETK6LK",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "11/01/2024 22:02:08",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "11/01/2024",
+        "tagId": "MSB73MQR9XT",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "11/01/2024 22:39:47",
+        "etat": "CREE"
+      },
+      {
+        "date": "11/01/2024",
+        "tagId": "SPM68BRA1QY",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "11/01/2024 14:41:41",
+        "etat": "SUSPENDU"
+      }
+    ],
+    "nombre": 3
+  },
+  {
+    "date": "12/01/2024",
+    "data": [
+      {
+        "date": "12/01/2024",
+        "tagId": "OTV33FBN6GA",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "12/01/2024 03:44:23",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "12/01/2024",
+        "tagId": "AYO48DSM4UW",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "12/01/2024 19:23:44",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "12/01/2024",
+        "tagId": "XSX78XFM4KF",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "12/01/2024 20:53:19",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "12/01/2024",
+        "tagId": "UFW65KDA9RE",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "12/01/2024 13:07:17",
+        "etat": "CREE"
+      }
+    ],
+    "nombre": 4
+  },
+  {
+    "date": "13/01/2024",
+    "data": [
+      {
+        "date": "13/01/2024",
+        "tagId": "GLR92UKM5NO",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "13/01/2024 21:38:48",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "13/01/2024",
+        "tagId": "AVP29JXK7ZT",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "13/01/2024 18:07:18",
+        "etat": "CREE"
+      },
+      {
+        "date": "13/01/2024",
+        "tagId": "UHU50WIX8LQ",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "13/01/2024 21:30:43",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "13/01/2024",
+        "tagId": "ZVN74NMI6IK",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "13/01/2024 13:26:56",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "13/01/2024",
+        "tagId": "KDW64GSO9IT",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "13/01/2024 16:10:24",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "13/01/2024",
+        "tagId": "LOV72MVC5TV",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "13/01/2024 03:50:13",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "13/01/2024",
+        "tagId": "KDE42BTN2GU",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "13/01/2024 06:19:04",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "13/01/2024",
+        "tagId": "AHV07GVK5OK",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "13/01/2024 11:15:15",
+        "etat": "CREE"
+      },
+      {
+        "date": "13/01/2024",
+        "tagId": "FAW15CCC5JO",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "13/01/2024 07:41:08",
+        "etat": "ACTIF"
+      }
+    ],
+    "nombre": 9
+  },
+  {
+    "date": "14/01/2024",
+    "data": [
+      {
+        "date": "14/01/2024",
+        "tagId": "VQS88YPS3UG",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "14/01/2024 09:52:41",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "14/01/2024",
+        "tagId": "NMD98ELC1BE",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "14/01/2024 21:09:11",
+        "etat": "CREE"
+      },
+      {
+        "date": "14/01/2024",
+        "tagId": "KFN63NXJ8QP",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "14/01/2024 14:16:25",
+        "etat": "CREE"
+      }
+    ],
+    "nombre": 3
+  },
+  {
+    "date": "15/01/2024",
+    "data": [
+      {
+        "date": "15/01/2024",
+        "tagId": "BCO45YFR4KI",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "15/01/2024 04:44:13",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "15/01/2024",
+        "tagId": "NMW16HDM5JB",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "15/01/2024 05:38:43",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "15/01/2024",
+        "tagId": "MKN24EHC4TF",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "15/01/2024 12:42:09",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "15/01/2024",
+        "tagId": "SVS73UCL8JK",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "15/01/2024 19:08:49",
+        "etat": "CREE"
+      }
+    ],
+    "nombre": 4
+  },
+  {
+    "date": "16/01/2024",
+    "data": [
+      {
+        "date": "16/01/2024",
+        "tagId": "KER39DQQ2IK",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "16/01/2024 13:54:09",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "16/01/2024",
+        "tagId": "YLX63GSC4HX",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "16/01/2024 00:39:02",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "16/01/2024",
+        "tagId": "MXL68RGQ7EO",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "16/01/2024 00:12:36",
+        "etat": "CREE"
+      },
+      {
+        "date": "16/01/2024",
+        "tagId": "XVM23SFW2EQ",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "16/01/2024 18:08:54",
+        "etat": "CREE"
+      }
+    ],
+    "nombre": 4
+  },
+  {
+    "date": "17/01/2024",
+    "data": [
+      {
+        "date": "17/01/2024",
+        "tagId": "WXD31NRM3RS",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "17/01/2024 14:56:54",
+        "etat": "CREE"
+      },
+      {
+        "date": "17/01/2024",
+        "tagId": "QWE77ZWG3PR",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "17/01/2024 22:55:45",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "17/01/2024",
+        "tagId": "QCA51IYI4JJ",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "17/01/2024 08:07:14",
+        "etat": "CREE"
+      },
+      {
+        "date": "17/01/2024",
+        "tagId": "BPP37CIB4BC",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "17/01/2024 14:10:05",
+        "etat": "BLACKLISTE"
+      }
+    ],
+    "nombre": 4
+  },
+  {
+    "date": "18/01/2024",
+    "data": [
+      {
+        "date": "18/01/2024",
+        "tagId": "GIJ10HOB4UK",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "18/01/2024 18:23:24",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "18/01/2024",
+        "tagId": "KRT81RFY2JY",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "18/01/2024 16:29:03",
+        "etat": "CREE"
+      },
+      {
+        "date": "18/01/2024",
+        "tagId": "IYB85FSI8LR",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "18/01/2024 04:32:10",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "18/01/2024",
+        "tagId": "BNO17JOI3GC",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "18/01/2024 15:16:37",
+        "etat": "CREE"
+      },
+      {
+        "date": "18/01/2024",
+        "tagId": "LLD61HXH8BG",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "18/01/2024 01:35:54",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "18/01/2024",
+        "tagId": "JCS22RCY5XC",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "18/01/2024 05:24:41",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "18/01/2024",
+        "tagId": "RVT15DBO7TG",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "18/01/2024 12:42:32",
+        "etat": "SUSPENDU"
+      }
+    ],
+    "nombre": 7
+  },
+  {
+    "date": "19/01/2024",
+    "data": [
+      {
+        "date": "19/01/2024",
+        "tagId": "LET85LBP9RF",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "19/01/2024 01:44:24",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "19/01/2024",
+        "tagId": "FSF61QPD7NU",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "19/01/2024 14:15:24",
+        "etat": "ACTIF"
+      }
+    ],
+    "nombre": 2
+  },
+  {
+    "date": "20/01/2024",
+    "data": [
+      {
+        "date": "20/01/2024",
+        "tagId": "IVR72GFR0OC",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "20/01/2024 22:15:11",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "20/01/2024",
+        "tagId": "NKQ82JSI1CX",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "20/01/2024 10:42:08",
+        "etat": "BLACKLISTE"
+      }
+    ],
+    "nombre": 2
+  },
+  {
+    "date": "21/01/2024",
+    "data": [
+      {
+        "date": "21/01/2024",
+        "tagId": "HOJ82CGS2UC",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "21/01/2024 08:56:35",
+        "etat": "SUSPENDU"
+      }
+    ],
+    "nombre": 1
+  },
+  {
+    "date": "22/01/2024",
+    "data": [
+      {
+        "date": "22/01/2024",
+        "tagId": "NVF03CCG1GZ",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "22/01/2024 03:38:00",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "22/01/2024",
+        "tagId": "YFH45DWS5NY",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "22/01/2024 17:13:13",
+        "etat": "CREE"
+      },
+      {
+        "date": "22/01/2024",
+        "tagId": "PWJ48TPJ7PW",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "22/01/2024 16:00:36",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "22/01/2024",
+        "tagId": "WTX55QUJ7PW",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "22/01/2024 01:45:53",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "22/01/2024",
+        "tagId": "KDA97HYI8TK",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "22/01/2024 00:16:31",
+        "etat": "ACTIF"
+      }
+    ],
+    "nombre": 5
+  },
+  {
+    "date": "23/01/2024",
+    "data": [
+      {
+        "date": "23/01/2024",
+        "tagId": "XSX64KQC0KX",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "23/01/2024 16:12:47",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "23/01/2024",
+        "tagId": "GQQ84PHP7FY",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "23/01/2024 12:00:47",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "23/01/2024",
+        "tagId": "BFL29NCR1OV",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "23/01/2024 20:48:48",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "23/01/2024",
+        "tagId": "ZOJ29HEI1ZH",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "23/01/2024 04:16:39",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "23/01/2024",
+        "tagId": "GDK31FRQ7ID",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "23/01/2024 20:42:33",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "23/01/2024",
+        "tagId": "VEG57UKR8CG",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "23/01/2024 02:58:28",
+        "etat": "CREE"
+      }
+    ],
+    "nombre": 6
+  },
+  {
+    "date": "24/01/2024",
+    "data": [
+      {
+        "date": "24/01/2024",
+        "tagId": "BJU33IRW8KX",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "24/01/2024 21:53:48",
+        "etat": "ACTIF"
+      }
+    ],
+    "nombre": 1
+  },
+  {
+    "date": "25/01/2024",
+    "data": [
+      {
+        "date": "25/01/2024",
+        "tagId": "LDH55NLO6HN",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "25/01/2024 04:55:49",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "25/01/2024",
+        "tagId": "SSC84HLJ2BG",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "25/01/2024 12:06:42",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "25/01/2024",
+        "tagId": "HFH84FHO0II",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "25/01/2024 05:29:06",
+        "etat": "SUSPENDU"
+      }
+    ],
+    "nombre": 3
+  },
+  {
+    "date": "26/01/2024",
+    "data": [
+      {
+        "date": "26/01/2024",
+        "tagId": "UXJ64DEF1XO",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "26/01/2024 15:17:48",
+        "etat": "CREE"
+      },
+      {
+        "date": "26/01/2024",
+        "tagId": "NVX83GUG4JW",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "26/01/2024 15:42:58",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "26/01/2024",
+        "tagId": "LWU44KSY2GM",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "26/01/2024 17:05:02",
+        "etat": "CREE"
+      },
+      {
+        "date": "26/01/2024",
+        "tagId": "GXJ73CLL1TN",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "26/01/2024 10:19:01",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "26/01/2024",
+        "tagId": "QWL12JHM1PG",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "26/01/2024 03:12:29",
+        "etat": "SUSPENDU"
+      }
+    ],
+    "nombre": 5
+  },
+  {
+    "date": "27/01/2024",
+    "data": [
+      {
+        "date": "27/01/2024",
+        "tagId": "KLM89CCB8PL",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "27/01/2024 09:31:47",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "27/01/2024",
+        "tagId": "JPU73FTU1RE",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "27/01/2024 00:26:17",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "27/01/2024",
+        "tagId": "III22FVI5AW",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "27/01/2024 10:02:51",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "27/01/2024",
+        "tagId": "SYU36BRR3XX",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "27/01/2024 12:40:23",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "27/01/2024",
+        "tagId": "GGI33RQN6OH",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "27/01/2024 13:22:00",
+        "etat": "SUSPENDU"
+      }
+    ],
+    "nombre": 5
+  },
+  {
+    "date": "28/01/2024",
+    "data": [
+      {
+        "date": "28/01/2024",
+        "tagId": "RTI06HJD4UU",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "28/01/2024 07:13:27",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "28/01/2024",
+        "tagId": "QEP87YKV3GY",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "28/01/2024 11:46:14",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "28/01/2024",
+        "tagId": "EWH37LQN2IH",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "28/01/2024 19:04:24",
+        "etat": "CREE"
+      }
+    ],
+    "nombre": 3
+  },
+  {
+    "date": "29/01/2024",
+    "data": [
+      {
+        "date": "29/01/2024",
+        "tagId": "WPG57TZY4BP",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "29/01/2024 08:39:14",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "29/01/2024",
+        "tagId": "DDW63LTW4BE",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "29/01/2024 15:12:48",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "29/01/2024",
+        "tagId": "JRJ57LES6JQ",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "29/01/2024 00:25:40",
+        "etat": "SUSPENDU"
+      }
+    ],
+    "nombre": 3
+  },
+  {
+    "date": "30/01/2024",
+    "data": [
+      {
+        "date": "30/01/2024",
+        "tagId": "WKU72VKI6ES",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "30/01/2024 18:32:16",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "30/01/2024",
+        "tagId": "KHQ73HIQ1KK",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "30/01/2024 13:27:42",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "30/01/2024",
+        "tagId": "RGU82KSK8AB",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "30/01/2024 12:18:19",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "30/01/2024",
+        "tagId": "UXR58MOG4JV",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "30/01/2024 08:05:17",
+        "etat": "SUSPENDU"
+      }
+    ],
+    "nombre": 4
+  },
+  {
+    "date": "31/01/2024",
+    "data": [
+      {
+        "date": "31/01/2024",
+        "tagId": "WNF67EQR0OQ",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "31/01/2024 04:12:02",
+        "etat": "CREE"
+      },
+      {
+        "date": "31/01/2024",
+        "tagId": "YQI57ZPQ3NM",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "31/01/2024 04:46:22",
+        "etat": "CREE"
+      },
+      {
+        "date": "31/01/2024",
+        "tagId": "TKR92CNF1FX",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "31/01/2024 16:23:38",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "31/01/2024",
+        "tagId": "ORY22WKR2HW",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "31/01/2024 00:41:26",
+        "etat": "CREE"
+      },
+      {
+        "date": "31/01/2024",
+        "tagId": "BVW35ZOL9KZ",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "31/01/2024 11:31:40",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "31/01/2024",
+        "tagId": "QLO79BVT5YO",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "31/01/2024 09:35:53",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "31/01/2024",
+        "tagId": "DDK67UGD8ZR",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "31/01/2024 16:18:25",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "31/01/2024",
+        "tagId": "UTN68CBD1RQ",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "31/01/2024 05:01:26",
+        "etat": "CREE"
+      },
+      {
+        "date": "31/01/2024",
+        "tagId": "POS87PTK1YG",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "31/01/2024 21:52:13",
+        "etat": "CREE"
+      },
+      {
+        "date": "31/01/2024",
+        "tagId": "LJR75MSM5BY",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "31/01/2024 14:39:10",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "31/01/2024",
+        "tagId": "EQQ85IFC3MD",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "31/01/2024 03:57:40",
+        "etat": "BLACKLISTE"
+      }
+    ],
+    "nombre": 11
+  },
+  {
+    "date": "01/02/2024",
+    "data": [
+      {
+        "date": "01/02/2024",
+        "tagId": "WGI28FCF6HZ",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "01/02/2024 21:41:01",
+        "etat": "CREE"
+      },
+      {
+        "date": "01/02/2024",
+        "tagId": "BMI06QJD7CK",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "01/02/2024 20:41:14",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "01/02/2024",
+        "tagId": "LAP32SCQ2OF",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "01/02/2024 03:09:36",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "01/02/2024",
+        "tagId": "OEN98URJ5GX",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "01/02/2024 19:32:45",
+        "etat": "SUSPENDU"
+      }
+    ],
+    "nombre": 4
+  },
+  {
+    "date": "02/02/2024",
+    "data": [
+      {
+        "date": "02/02/2024",
+        "tagId": "CME17YCD3EO",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "02/02/2024 09:04:13",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "02/02/2024",
+        "tagId": "TGM96PKN5RF",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "02/02/2024 22:15:58",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "02/02/2024",
+        "tagId": "NWI64GYY2FH",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "02/02/2024 05:37:48",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "02/02/2024",
+        "tagId": "PVN11ERC5KL",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "02/02/2024 10:54:24",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "02/02/2024",
+        "tagId": "GUV72OPE4EJ",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "02/02/2024 11:54:20",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "02/02/2024",
+        "tagId": "TCD77NOH4YQ",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "02/02/2024 09:29:39",
+        "etat": "SUSPENDU"
+      }
+    ],
+    "nombre": 6
+  },
+  {
+    "date": "03/02/2024",
+    "data": [
+      {
+        "date": "03/02/2024",
+        "tagId": "QKH78SEH0ID",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "03/02/2024 16:16:25",
+        "etat": "CREE"
+      },
+      {
+        "date": "03/02/2024",
+        "tagId": "QKG57UIF5VB",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "03/02/2024 21:53:56",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "03/02/2024",
+        "tagId": "VEX41CLG7KO",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "03/02/2024 04:40:40",
+        "etat": "BLACKLISTE"
+      }
+    ],
+    "nombre": 3
+  },
+  {
+    "date": "04/02/2024",
+    "data": [
+      {
+        "date": "04/02/2024",
+        "tagId": "POX24SJF8BM",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "04/02/2024 14:17:14",
+        "etat": "CREE"
+      },
+      {
+        "date": "04/02/2024",
+        "tagId": "DCP15HIO8VU",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "04/02/2024 12:13:39",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "04/02/2024",
+        "tagId": "WXJ68JXL9IJ",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "04/02/2024 06:09:57",
+        "etat": "ACTIF"
+      }
+    ],
+    "nombre": 3
+  },
+  {
+    "date": "05/02/2024",
+    "data": [
+      {
+        "date": "05/02/2024",
+        "tagId": "OMZ32NMY5SA",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "05/02/2024 01:56:04",
+        "etat": "ACTIF"
+      }
+    ],
+    "nombre": 1
+  },
+  {
+    "date": "06/02/2024",
+    "data": [
+      {
+        "date": "06/02/2024",
+        "tagId": "BFH00NRF6DQ",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "06/02/2024 23:05:52",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "06/02/2024",
+        "tagId": "KQD06VND7VR",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "06/02/2024 09:51:09",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "06/02/2024",
+        "tagId": "FUE49AWX8JC",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "06/02/2024 11:00:55",
+        "etat": "CREE"
+      },
+      {
+        "date": "06/02/2024",
+        "tagId": "OPQ85KPG8BY",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "06/02/2024 23:36:12",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "06/02/2024",
+        "tagId": "OTQ14COI3WD",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "06/02/2024 05:24:41",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "06/02/2024",
+        "tagId": "QTP85DZJ7BV",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "06/02/2024 20:49:35",
+        "etat": "ACTIF"
+      }
+    ],
+    "nombre": 6
+  },
+  {
+    "date": "07/02/2024",
+    "data": [
+      {
+        "date": "07/02/2024",
+        "tagId": "SFK10BQU1HE",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "07/02/2024 15:17:11",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "07/02/2024",
+        "tagId": "BTE68SXN7KI",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "07/02/2024 00:55:49",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "07/02/2024",
+        "tagId": "SBX64UDI4CQ",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "07/02/2024 18:14:38",
+        "etat": "CREE"
+      },
+      {
+        "date": "07/02/2024",
+        "tagId": "YYL15NRM2WF",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "07/02/2024 13:25:19",
+        "etat": "CREE"
+      }
+    ],
+    "nombre": 4
+  },
+  {
+    "date": "08/02/2024",
+    "data": [
+      {
+        "date": "08/02/2024",
+        "tagId": "EFX76RWK3YN",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "08/02/2024 10:48:43",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "08/02/2024",
+        "tagId": "YPH28HKF2FR",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "08/02/2024 10:46:24",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "08/02/2024",
+        "tagId": "WVD91EJC7IY",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "08/02/2024 08:00:33",
+        "etat": "ACTIF"
+      }
+    ],
+    "nombre": 3
+  },
+  {
+    "date": "09/02/2024",
+    "data": [
+      {
+        "date": "09/02/2024",
+        "tagId": "QZX30PNI1UP",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "09/02/2024 22:19:57",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "09/02/2024",
+        "tagId": "YXY26TWS6OM",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "09/02/2024 23:41:05",
+        "etat": "SUSPENDU"
+      }
+    ],
+    "nombre": 2
+  },
+  {
+    "date": "10/02/2024",
+    "data": [
+      {
+        "date": "10/02/2024",
+        "tagId": "LCO48RAI5BV",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "10/02/2024 16:26:45",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "10/02/2024",
+        "tagId": "GXJ56ADM7IO",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "10/02/2024 18:17:01",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "10/02/2024",
+        "tagId": "FKT25VCJ1BK",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "10/02/2024 03:47:09",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "10/02/2024",
+        "tagId": "AXJ54KQR4MD",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "10/02/2024 11:02:26",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "10/02/2024",
+        "tagId": "WUG26DMC2HE",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "10/02/2024 08:18:35",
+        "etat": "SUSPENDU"
+      }
+    ],
+    "nombre": 5
+  },
+  {
+    "date": "11/02/2024",
+    "data": [
+      {
+        "date": "11/02/2024",
+        "tagId": "TAH34XWC2XK",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "11/02/2024 12:11:17",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "11/02/2024",
+        "tagId": "FPG08XLF4GE",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "11/02/2024 15:37:16",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "11/02/2024",
+        "tagId": "CHT14GEW1FW",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "11/02/2024 18:39:58",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "11/02/2024",
+        "tagId": "LMW95CBN3RU",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "11/02/2024 21:40:18",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "11/02/2024",
+        "tagId": "NHY96QNT2WW",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "11/02/2024 15:21:08",
+        "etat": "ACTIF"
+      }
+    ],
+    "nombre": 5
+  },
+  {
+    "date": "12/02/2024",
+    "data": [
+      {
+        "date": "12/02/2024",
+        "tagId": "LGU12ZHN2WK",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "12/02/2024 15:36:30",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "12/02/2024",
+        "tagId": "ZOO84TBI2ZK",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "12/02/2024 18:05:44",
+        "etat": "CREE"
+      }
+    ],
+    "nombre": 2
+  },
+  {
+    "date": "13/02/2024",
+    "data": [
+      {
+        "date": "13/02/2024",
+        "tagId": "AQC13CEF6FQ",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "13/02/2024 20:57:00",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "13/02/2024",
+        "tagId": "ERF51IYM3JY",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "13/02/2024 12:44:42",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "13/02/2024",
+        "tagId": "DJJ66KOR7WN",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "13/02/2024 18:10:16",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "13/02/2024",
+        "tagId": "SJN56NVF5GJ",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "13/02/2024 00:56:38",
+        "etat": "BLACKLISTE"
+      }
+    ],
+    "nombre": 4
+  },
+  {
+    "date": "14/02/2024",
+    "data": [
+      {
+        "date": "14/02/2024",
+        "tagId": "SRS17GHF4KN",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "14/02/2024 06:43:44",
+        "etat": "CREE"
+      }
+    ],
+    "nombre": 1
+  },
+  {
+    "date": "15/02/2024",
+    "data": [
+      {
+        "date": "15/02/2024",
+        "tagId": "PMN56BOR2NH",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "15/02/2024 11:16:34",
+        "etat": "CREE"
+      },
+      {
+        "date": "15/02/2024",
+        "tagId": "PDD59FMQ1ML",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "15/02/2024 04:18:21",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "15/02/2024",
+        "tagId": "DWI90MQU4YX",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "15/02/2024 15:27:03",
+        "etat": "SUSPENDU"
+      }
+    ],
+    "nombre": 3
+  },
+  {
+    "date": "16/02/2024",
+    "data": [
+      {
+        "date": "16/02/2024",
+        "tagId": "VEM06YXD9KJ",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "16/02/2024 14:02:25",
+        "etat": "SUSPENDU"
+      }
+    ],
+    "nombre": 1
+  },
+  {
+    "date": "17/02/2024",
+    "data": [
+      {
+        "date": "17/02/2024",
+        "tagId": "UNR24DQW2XY",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "17/02/2024 17:07:51",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "17/02/2024",
+        "tagId": "KEF45TTB3XH",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "17/02/2024 10:21:46",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "17/02/2024",
+        "tagId": "FKF99CUX8IP",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "17/02/2024 04:04:56",
+        "etat": "ACTIF"
+      }
+    ],
+    "nombre": 3
+  },
+  {
+    "date": "18/02/2024",
+    "data": [
+      {
+        "date": "18/02/2024",
+        "tagId": "VFE55JFZ4JV",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "18/02/2024 20:00:11",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "18/02/2024",
+        "tagId": "IDL93WUO8IO",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "18/02/2024 12:56:20",
+        "etat": "ACTIF"
+      }
+    ],
+    "nombre": 2
+  },
+  {
+    "date": "19/02/2024",
+    "data": [
+      {
+        "date": "19/02/2024",
+        "tagId": "PQL73DQN7LQ",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "19/02/2024 00:16:28",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "19/02/2024",
+        "tagId": "KPG23TDF1TG",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "19/02/2024 08:12:57",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "19/02/2024",
+        "tagId": "QHF17GHV4XF",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "19/02/2024 22:03:42",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "19/02/2024",
+        "tagId": "RIO48FTJ5PU",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "19/02/2024 14:45:52",
+        "etat": "CREE"
+      },
+      {
+        "date": "19/02/2024",
+        "tagId": "IDA85DQM9FE",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "19/02/2024 21:18:05",
+        "etat": "CREE"
+      }
+    ],
+    "nombre": 5
+  },
+  {
+    "date": "20/02/2024",
+    "data": [
+      {
+        "date": "20/02/2024",
+        "tagId": "ZCW13TOX0QD",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "20/02/2024 14:54:57",
+        "etat": "SUSPENDU"
+      }
+    ],
+    "nombre": 1
+  },
+  {
+    "date": "21/02/2024",
+    "data": [
+      {
+        "date": "21/02/2024",
+        "tagId": "KQL07BFB6TL",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "21/02/2024 17:36:39",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "21/02/2024",
+        "tagId": "IKZ84KLU9XD",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "21/02/2024 00:40:04",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "21/02/2024",
+        "tagId": "CGY42RYR1JE",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "21/02/2024 21:08:30",
+        "etat": "SUSPENDU"
+      }
+    ],
+    "nombre": 3
+  },
+  {
+    "date": "22/02/2024",
+    "data": [
+      {
+        "date": "22/02/2024",
+        "tagId": "TYG28JWJ6DG",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "22/02/2024 17:55:53",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "22/02/2024",
+        "tagId": "YWM18EDG1SF",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "22/02/2024 22:41:06",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "22/02/2024",
+        "tagId": "WAV31MDR6QM",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "22/02/2024 11:49:14",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "22/02/2024",
+        "tagId": "SQR31PNZ5JW",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "22/02/2024 16:07:51",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "22/02/2024",
+        "tagId": "AOR34ATV1RE",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "22/02/2024 03:59:45",
+        "etat": "CREE"
+      }
+    ],
+    "nombre": 5
+  },
+  {
+    "date": "23/02/2024",
+    "data": [
+      {
+        "date": "23/02/2024",
+        "tagId": "NAR74RVS1TT",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "23/02/2024 20:56:14",
+        "etat": "CREE"
+      },
+      {
+        "date": "23/02/2024",
+        "tagId": "HXC97CGR7GH",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "23/02/2024 21:43:53",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "23/02/2024",
+        "tagId": "ESJ85ODO7QM",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "23/02/2024 12:50:12",
+        "etat": "ACTIF"
+      }
+    ],
+    "nombre": 3
+  },
+  {
+    "date": "24/02/2024",
+    "data": [
+      {
+        "date": "24/02/2024",
+        "tagId": "PQA26TKA8UF",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "24/02/2024 13:58:40",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "24/02/2024",
+        "tagId": "HGC75ELP7NL",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "24/02/2024 20:17:39",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "24/02/2024",
+        "tagId": "QSB62HTU7UR",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "24/02/2024 17:25:38",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "24/02/2024",
+        "tagId": "QMM14ACN5YR",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "24/02/2024 04:03:03",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "24/02/2024",
+        "tagId": "OZP64NMZ8NK",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "24/02/2024 07:28:38",
+        "etat": "CREE"
+      },
+      {
+        "date": "24/02/2024",
+        "tagId": "FHL16YQU3FR",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "24/02/2024 15:07:26",
+        "etat": "BLACKLISTE"
+      }
+    ],
+    "nombre": 6
+  },
+  {
+    "date": "25/02/2024",
+    "data": [
+      {
+        "date": "25/02/2024",
+        "tagId": "UDD24REA1KB",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "25/02/2024 19:28:21",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "25/02/2024",
+        "tagId": "IGK97OEB1LT",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "25/02/2024 13:11:00",
+        "etat": "BLACKLISTE"
+      }
+    ],
+    "nombre": 2
+  },
+  {
+    "date": "26/02/2024",
+    "data": [
+      {
+        "date": "26/02/2024",
+        "tagId": "JIF46IDM7JH",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "26/02/2024 13:59:39",
+        "etat": "CREE"
+      },
+      {
+        "date": "26/02/2024",
+        "tagId": "VXW68GLF5DF",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "26/02/2024 15:40:53",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "26/02/2024",
+        "tagId": "CRB31RDX3XP",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "26/02/2024 02:24:02",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "26/02/2024",
+        "tagId": "NTE67CFU7EV",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "26/02/2024 23:42:28",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "26/02/2024",
+        "tagId": "CTD43QZC3PR",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "26/02/2024 23:30:22",
+        "etat": "CREE"
+      },
+      {
+        "date": "26/02/2024",
+        "tagId": "YYL65EDU1UL",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "26/02/2024 19:19:04",
+        "etat": "ACTIF"
+      }
+    ],
+    "nombre": 6
+  },
+  {
+    "date": "27/02/2024",
+    "data": [
+      {
+        "date": "27/02/2024",
+        "tagId": "XKD56RFF3JA",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "27/02/2024 09:14:35",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "27/02/2024",
+        "tagId": "TTL86PVP0GX",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "27/02/2024 23:10:15",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "27/02/2024",
+        "tagId": "WDW39POG8CF",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "27/02/2024 08:19:55",
+        "etat": "CREE"
+      },
+      {
+        "date": "27/02/2024",
+        "tagId": "RWH17IVO1KW",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "27/02/2024 01:32:45",
+        "etat": "SUSPENDU"
+      }
+    ],
+    "nombre": 4
+  },
+  {
+    "date": "28/02/2024",
+    "data": [
+      {
+        "date": "28/02/2024",
+        "tagId": "RCS57GHU7RC",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "28/02/2024 05:50:03",
+        "etat": "CREE"
+      },
+      {
+        "date": "28/02/2024",
+        "tagId": "HLD97XEY1UK",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "28/02/2024 12:08:42",
+        "etat": "CREE"
+      },
+      {
+        "date": "28/02/2024",
+        "tagId": "EZH78MRC5CW",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "28/02/2024 11:56:12",
+        "etat": "CREE"
+      },
+      {
+        "date": "28/02/2024",
+        "tagId": "XRT13TVH1BZ",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "28/02/2024 12:25:02",
+        "etat": "CREE"
+      },
+      {
+        "date": "28/02/2024",
+        "tagId": "NXL76ZCJ9AB",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "28/02/2024 07:19:01",
+        "etat": "BLACKLISTE"
+      }
+    ],
+    "nombre": 5
+  },
+  {
+    "date": "29/02/2024",
+    "data": [
+      {
+        "date": "29/02/2024",
+        "tagId": "DEN42XKR4DW",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "29/02/2024 07:59:43",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "29/02/2024",
+        "tagId": "PFX22GQT6EI",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "29/02/2024 04:37:26",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "29/02/2024",
+        "tagId": "MLF96EYL1TH",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "29/02/2024 20:51:26",
+        "etat": "CREE"
+      },
+      {
+        "date": "29/02/2024",
+        "tagId": "XRV26HIS5QM",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "29/02/2024 00:32:28",
+        "etat": "CREE"
+      }
+    ],
+    "nombre": 4
+  },
+  {
+    "date": "01/03/2024",
+    "data": [
+      {
+        "date": "01/03/2024",
+        "tagId": "DKO46WMW2XO",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "01/03/2024 04:20:30",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "01/03/2024",
+        "tagId": "YUR50QWT7FB",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "01/03/2024 12:50:21",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "01/03/2024",
+        "tagId": "JSM11POQ2CH",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "01/03/2024 04:46:09",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "01/03/2024",
+        "tagId": "JXQ10BHI2WK",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "01/03/2024 15:14:56",
+        "etat": "CREE"
+      },
+      {
+        "date": "01/03/2024",
+        "tagId": "RBK61WYM1NI",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "01/03/2024 00:58:56",
+        "etat": "BLACKLISTE"
+      }
+    ],
+    "nombre": 5
+  },
+  {
+    "date": "02/03/2024",
+    "data": [
+      {
+        "date": "02/03/2024",
+        "tagId": "DEY77VLC1BX",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "02/03/2024 03:17:20",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "02/03/2024",
+        "tagId": "RMY77TVB8TR",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "02/03/2024 06:11:40",
+        "etat": "CREE"
+      },
+      {
+        "date": "02/03/2024",
+        "tagId": "TTK04OIK9OS",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "02/03/2024 16:03:52",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "02/03/2024",
+        "tagId": "SVJ57RSR6FC",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "02/03/2024 09:12:23",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "02/03/2024",
+        "tagId": "EDX00ERU4GA",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "02/03/2024 17:10:49",
+        "etat": "CREE"
+      }
+    ],
+    "nombre": 5
+  },
+  {
+    "date": "03/03/2024",
+    "data": [
+      {
+        "date": "03/03/2024",
+        "tagId": "EXI04SGT8OY",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "03/03/2024 23:23:42",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "03/03/2024",
+        "tagId": "GEB86DFK1CX",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "03/03/2024 20:41:03",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "03/03/2024",
+        "tagId": "WSK34ULV3PP",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "03/03/2024 03:54:57",
+        "etat": "CREE"
+      },
+      {
+        "date": "03/03/2024",
+        "tagId": "GNN28JVD3AI",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "03/03/2024 15:49:22",
+        "etat": "CREE"
+      },
+      {
+        "date": "03/03/2024",
+        "tagId": "MLS50GGH4LE",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "03/03/2024 05:42:34",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "03/03/2024",
+        "tagId": "DDV21DMP8YR",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "03/03/2024 22:40:12",
+        "etat": "ACTIF"
+      }
+    ],
+    "nombre": 6
+  },
+  {
+    "date": "04/03/2024",
+    "data": [
+      {
+        "date": "04/03/2024",
+        "tagId": "UUD32INM3MB",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "04/03/2024 06:09:09",
+        "etat": "SUSPENDU"
+      }
+    ],
+    "nombre": 1
+  },
+  {
+    "date": "05/03/2024",
+    "data": [
+      {
+        "date": "05/03/2024",
+        "tagId": "XAD57JUX7UM",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "05/03/2024 00:36:22",
+        "etat": "CREE"
+      },
+      {
+        "date": "05/03/2024",
+        "tagId": "HHD57PPO3FS",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "05/03/2024 04:58:47",
+        "etat": "CREE"
+      },
+      {
+        "date": "05/03/2024",
+        "tagId": "UDC76GZH9WY",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "05/03/2024 02:02:15",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "05/03/2024",
+        "tagId": "PRH47GVQ2XL",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "05/03/2024 16:52:32",
+        "etat": "CREE"
+      },
+      {
+        "date": "05/03/2024",
+        "tagId": "ZHA59DTF2AR",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "05/03/2024 17:10:55",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "05/03/2024",
+        "tagId": "ISD63PYH7HN",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "05/03/2024 23:04:28",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "05/03/2024",
+        "tagId": "XMV95CTC5RB",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "05/03/2024 01:22:48",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "05/03/2024",
+        "tagId": "OVE35MET3VY",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "05/03/2024 10:52:42",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "05/03/2024",
+        "tagId": "PIF67ITZ1UR",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "05/03/2024 00:30:43",
+        "etat": "SUSPENDU"
+      }
+    ],
+    "nombre": 9
+  },
+  {
+    "date": "06/03/2024",
+    "data": [
+      {
+        "date": "06/03/2024",
+        "tagId": "UYI48EHU7PW",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "06/03/2024 14:14:20",
+        "etat": "CREE"
+      },
+      {
+        "date": "06/03/2024",
+        "tagId": "BQM71CYV4HO",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "06/03/2024 09:13:32",
+        "etat": "CREE"
+      }
+    ],
+    "nombre": 2
+  },
+  {
+    "date": "07/03/2024",
+    "data": [
+      {
+        "date": "07/03/2024",
+        "tagId": "LTH11IJX7HY",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "07/03/2024 19:40:26",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "07/03/2024",
+        "tagId": "AIH22DLJ9QH",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "07/03/2024 06:05:57",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "07/03/2024",
+        "tagId": "MWE48HWB7HG",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "07/03/2024 19:27:57",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "07/03/2024",
+        "tagId": "TRV88CDL3VS",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "07/03/2024 10:31:49",
+        "etat": "ACTIF"
+      }
+    ],
+    "nombre": 4
+  },
+  {
+    "date": "08/03/2024",
+    "data": [
+      {
+        "date": "08/03/2024",
+        "tagId": "BPV60XDH5US",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "08/03/2024 01:21:38",
+        "etat": "CREE"
+      },
+      {
+        "date": "08/03/2024",
+        "tagId": "ZZF47MCU2HB",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "08/03/2024 17:34:30",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "08/03/2024",
+        "tagId": "TYU84POZ3QK",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "08/03/2024 21:33:53",
+        "etat": "CREE"
+      },
+      {
+        "date": "08/03/2024",
+        "tagId": "SVS97KHB2FQ",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "08/03/2024 00:02:16",
+        "etat": "CREE"
+      },
+      {
+        "date": "08/03/2024",
+        "tagId": "RCZ55VQA5FK",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "08/03/2024 03:19:07",
+        "etat": "ACTIF"
+      }
+    ],
+    "nombre": 5
+  },
+  {
+    "date": "09/03/2024",
+    "data": [
+      {
+        "date": "09/03/2024",
+        "tagId": "QKN05JLJ5RT",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "09/03/2024 11:19:09",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "09/03/2024",
+        "tagId": "SNW78MTH3GF",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "09/03/2024 08:11:24",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "09/03/2024",
+        "tagId": "JQT73ULD2ID",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "09/03/2024 17:17:05",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "09/03/2024",
+        "tagId": "QYQ58URT7HI",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "09/03/2024 10:29:56",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "09/03/2024",
+        "tagId": "LDI98VXZ3WY",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "09/03/2024 08:45:34",
+        "etat": "CREE"
+      }
+    ],
+    "nombre": 5
+  },
+  {
+    "date": "10/03/2024",
+    "data": [
+      {
+        "date": "10/03/2024",
+        "tagId": "FQJ02DGQ4ME",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "10/03/2024 03:09:25",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "10/03/2024",
+        "tagId": "KJL75KXT2KD",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "10/03/2024 19:18:01",
+        "etat": "CREE"
+      },
+      {
+        "date": "10/03/2024",
+        "tagId": "XDL86UWZ4YN",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "10/03/2024 17:40:32",
+        "etat": "CREE"
+      },
+      {
+        "date": "10/03/2024",
+        "tagId": "MYT08RUT6AS",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "10/03/2024 07:19:02",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "10/03/2024",
+        "tagId": "EIS40MXE5SB",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "10/03/2024 15:30:31",
+        "etat": "CREE"
+      }
+    ],
+    "nombre": 5
+  },
+  {
+    "date": "11/03/2024",
+    "data": [
+      {
+        "date": "11/03/2024",
+        "tagId": "LJP51FTL5YK",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "11/03/2024 15:39:28",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "11/03/2024",
+        "tagId": "EWU37RJT6TP",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "11/03/2024 00:15:57",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "11/03/2024",
+        "tagId": "MHZ73GQQ4TJ",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "11/03/2024 07:45:56",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "11/03/2024",
+        "tagId": "XIH62VWG3UR",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "11/03/2024 07:21:25",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "11/03/2024",
+        "tagId": "ENL57LTT9PU",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "11/03/2024 08:16:17",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "11/03/2024",
+        "tagId": "XEU32WGN1DQ",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "11/03/2024 06:53:52",
+        "etat": "SUSPENDU"
+      }
+    ],
+    "nombre": 6
+  },
+  {
+    "date": "12/03/2024",
+    "data": [
+      {
+        "date": "12/03/2024",
+        "tagId": "URE33DRJ6NB",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "12/03/2024 07:07:19",
+        "etat": "CREE"
+      },
+      {
+        "date": "12/03/2024",
+        "tagId": "NQV22FXW9MZ",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "12/03/2024 18:30:45",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "12/03/2024",
+        "tagId": "TJQ51VUW5MQ",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "12/03/2024 15:20:13",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "12/03/2024",
+        "tagId": "TXM57GWF6NW",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "12/03/2024 11:10:21",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "12/03/2024",
+        "tagId": "INI66BXK1GC",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "12/03/2024 03:01:15",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "12/03/2024",
+        "tagId": "XIF75PVE5MK",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "12/03/2024 21:38:34",
+        "etat": "SUSPENDU"
+      }
+    ],
+    "nombre": 6
+  },
+  {
+    "date": "13/03/2024",
+    "data": [
+      {
+        "date": "13/03/2024",
+        "tagId": "VVX07BJO8UI",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "13/03/2024 20:02:04",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "13/03/2024",
+        "tagId": "YXE67CXV5TK",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "13/03/2024 06:43:51",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "13/03/2024",
+        "tagId": "NDU61HWO8BE",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "13/03/2024 03:14:13",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "13/03/2024",
+        "tagId": "ANN13SDK0TE",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "13/03/2024 02:17:29",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "13/03/2024",
+        "tagId": "GPW67LGG1MG",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "13/03/2024 01:12:08",
+        "etat": "BLACKLISTE"
+      }
+    ],
+    "nombre": 5
+  },
+  {
+    "date": "14/03/2024",
+    "data": [
+      {
+        "date": "14/03/2024",
+        "tagId": "QMW53UUK6HG",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "14/03/2024 14:46:53",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "14/03/2024",
+        "tagId": "EOS73KBA2QY",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "14/03/2024 15:40:57",
+        "etat": "CREE"
+      },
+      {
+        "date": "14/03/2024",
+        "tagId": "UPK85JKY7VW",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "14/03/2024 17:32:28",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "14/03/2024",
+        "tagId": "CBM40RJH2VP",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "14/03/2024 17:56:06",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "14/03/2024",
+        "tagId": "ELI37XLS1YM",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "14/03/2024 01:14:33",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "14/03/2024",
+        "tagId": "CLD46IEJ1QS",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "14/03/2024 03:00:16",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "14/03/2024",
+        "tagId": "CHX44YAX0IN",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "14/03/2024 04:49:47",
+        "etat": "CREE"
+      },
+      {
+        "date": "14/03/2024",
+        "tagId": "WDV44WOB5AX",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "14/03/2024 02:29:28",
+        "etat": "ACTIF"
+      }
+    ],
+    "nombre": 8
+  },
+  {
+    "date": "15/03/2024",
+    "data": [
+      {
+        "date": "15/03/2024",
+        "tagId": "CUR79NSG1KG",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "15/03/2024 20:52:57",
+        "etat": "CREE"
+      },
+      {
+        "date": "15/03/2024",
+        "tagId": "FAS68FOH4FR",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "15/03/2024 00:18:46",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "15/03/2024",
+        "tagId": "UST70WBL0GN",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "15/03/2024 17:51:31",
+        "etat": "CREE"
+      }
+    ],
+    "nombre": 3
+  },
+  {
+    "date": "16/03/2024",
+    "data": [
+      {
+        "date": "16/03/2024",
+        "tagId": "YXX86WUS7LC",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "16/03/2024 12:30:40",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "16/03/2024",
+        "tagId": "DWQ86BVO6OP",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "16/03/2024 03:30:37",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "16/03/2024",
+        "tagId": "VTT31NIY6TD",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "16/03/2024 21:14:32",
+        "etat": "BLACKLISTE"
+      }
+    ],
+    "nombre": 3
+  },
+  {
+    "date": "17/03/2024",
+    "data": [
+      {
+        "date": "17/03/2024",
+        "tagId": "WFP95UPL3SE",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "17/03/2024 13:38:10",
+        "etat": "CREE"
+      },
+      {
+        "date": "17/03/2024",
+        "tagId": "WJY33RFU3UV",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "17/03/2024 09:26:22",
+        "etat": "CREE"
+      },
+      {
+        "date": "17/03/2024",
+        "tagId": "RGM92FLL7EI",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "17/03/2024 23:32:42",
+        "etat": "CREE"
+      },
+      {
+        "date": "17/03/2024",
+        "tagId": "QSY40ULX1RI",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "17/03/2024 07:13:14",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "17/03/2024",
+        "tagId": "MOI41EPH8BS",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "17/03/2024 07:28:19",
+        "etat": "ACTIF"
+      }
+    ],
+    "nombre": 5
+  },
+  {
+    "date": "18/03/2024",
+    "data": [
+      {
+        "date": "18/03/2024",
+        "tagId": "HIR47QRJ4KE",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "18/03/2024 01:56:34",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "18/03/2024",
+        "tagId": "KDJ86RIF6GA",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "18/03/2024 00:22:50",
+        "etat": "ACTIF"
+      }
+    ],
+    "nombre": 2
+  },
+  {
+    "date": "19/03/2024",
+    "data": [
+      {
+        "date": "19/03/2024",
+        "tagId": "IMJ38GLU6MG",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "19/03/2024 23:04:18",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "19/03/2024",
+        "tagId": "VOD19VBQ4QR",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "19/03/2024 06:05:53",
+        "etat": "CREE"
+      },
+      {
+        "date": "19/03/2024",
+        "tagId": "ERS94XTC9KY",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "19/03/2024 15:31:36",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "19/03/2024",
+        "tagId": "XIY14VSG6CM",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "19/03/2024 03:29:25",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "19/03/2024",
+        "tagId": "AKA41MUR7EB",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "19/03/2024 12:51:05",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "19/03/2024",
+        "tagId": "JJT68LBQ9PL",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "19/03/2024 15:14:44",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "19/03/2024",
+        "tagId": "LKR67ZEX6CA",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "19/03/2024 10:04:41",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "19/03/2024",
+        "tagId": "AGH16UOC3EE",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "19/03/2024 21:29:15",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "19/03/2024",
+        "tagId": "LDK74KSD1TC",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "19/03/2024 05:05:30",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "19/03/2024",
+        "tagId": "VRJ43ZUT2YD",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "19/03/2024 01:34:14",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "19/03/2024",
+        "tagId": "BNI82GGP9II",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "19/03/2024 09:25:00",
+        "etat": "CREE"
+      }
+    ],
+    "nombre": 11
+  },
+  {
+    "date": "20/03/2024",
+    "data": [
+      {
+        "date": "20/03/2024",
+        "tagId": "JYG52TCI8XC",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "20/03/2024 22:26:02",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "20/03/2024",
+        "tagId": "LUA50EBA8GM",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "20/03/2024 20:10:04",
+        "etat": "CREE"
+      },
+      {
+        "date": "20/03/2024",
+        "tagId": "EPT43HKX0WZ",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "20/03/2024 17:30:37",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "20/03/2024",
+        "tagId": "NNF55HQJ3ER",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "20/03/2024 01:06:34",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "20/03/2024",
+        "tagId": "QUO06QON5QH",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "20/03/2024 12:02:25",
+        "etat": "CREE"
+      },
+      {
+        "date": "20/03/2024",
+        "tagId": "WTG74DDC7QB",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "20/03/2024 00:11:07",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "20/03/2024",
+        "tagId": "MRM38WFQ4BU",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "20/03/2024 00:38:44",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "20/03/2024",
+        "tagId": "OLR30BBG6FV",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "20/03/2024 10:06:01",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "20/03/2024",
+        "tagId": "VLF75ZBP6PT",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "20/03/2024 20:17:33",
+        "etat": "CREE"
+      }
+    ],
+    "nombre": 9
+  },
+  {
+    "date": "21/03/2024",
+    "data": [
+      {
+        "date": "21/03/2024",
+        "tagId": "WBM62PTL5UG",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "21/03/2024 08:15:54",
+        "etat": "CREE"
+      },
+      {
+        "date": "21/03/2024",
+        "tagId": "RJZ23CSF3GH",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "21/03/2024 02:42:52",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "21/03/2024",
+        "tagId": "FQS89SEG9FO",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "21/03/2024 11:50:20",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "21/03/2024",
+        "tagId": "FLT74JIR1LV",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "21/03/2024 21:12:31",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "21/03/2024",
+        "tagId": "ITC68SGD7RO",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "21/03/2024 02:03:21",
+        "etat": "BLACKLISTE"
+      }
+    ],
+    "nombre": 5
+  },
+  {
+    "date": "22/03/2024",
+    "data": [
+      {
+        "date": "22/03/2024",
+        "tagId": "WLV72CYR5DR",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "22/03/2024 14:46:30",
+        "etat": "CREE"
+      },
+      {
+        "date": "22/03/2024",
+        "tagId": "QCE65YYJ2OR",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "22/03/2024 20:47:28",
+        "etat": "BLACKLISTE"
+      }
+    ],
+    "nombre": 2
+  },
+  {
+    "date": "23/03/2024",
+    "data": [
+      {
+        "date": "23/03/2024",
+        "tagId": "QKS28QVV2JE",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "23/03/2024 17:45:03",
+        "etat": "CREE"
+      },
+      {
+        "date": "23/03/2024",
+        "tagId": "CXX26MIO6BN",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "23/03/2024 09:00:58",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "23/03/2024",
+        "tagId": "PBQ33SWC2LP",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "23/03/2024 10:10:48",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "23/03/2024",
+        "tagId": "TLR07LNJ4YD",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "23/03/2024 12:01:21",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "23/03/2024",
+        "tagId": "QQG18FTC9JK",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "23/03/2024 01:32:27",
+        "etat": "CREE"
+      },
+      {
+        "date": "23/03/2024",
+        "tagId": "GNF78WKN1JX",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "23/03/2024 12:54:34",
+        "etat": "CREE"
+      }
+    ],
+    "nombre": 6
+  },
+  {
+    "date": "24/03/2024",
+    "data": [
+      {
+        "date": "24/03/2024",
+        "tagId": "JJH21NEK7RO",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "24/03/2024 07:55:30",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "24/03/2024",
+        "tagId": "QWF94LAE5FR",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "24/03/2024 05:32:46",
+        "etat": "CREE"
+      },
+      {
+        "date": "24/03/2024",
+        "tagId": "GDE31GVK5JQ",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "24/03/2024 19:35:01",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "24/03/2024",
+        "tagId": "XPJ32ZML1FF",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "24/03/2024 07:38:14",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "24/03/2024",
+        "tagId": "FLP19SMO9HS",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "24/03/2024 04:31:08",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "24/03/2024",
+        "tagId": "GIX32GPW1PJ",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "24/03/2024 13:23:42",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "24/03/2024",
+        "tagId": "VMH44URY8FW",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "24/03/2024 18:10:12",
+        "etat": "BLACKLISTE"
+      }
+    ],
+    "nombre": 7
+  },
+  {
+    "date": "25/03/2024",
+    "data": [
+      {
+        "date": "25/03/2024",
+        "tagId": "HXU38KAP2KK",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "25/03/2024 02:40:57",
+        "etat": "CREE"
+      },
+      {
+        "date": "25/03/2024",
+        "tagId": "NOT12CHJ3KM",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "25/03/2024 23:34:38",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "25/03/2024",
+        "tagId": "URU50UDG8QZ",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "25/03/2024 05:46:42",
+        "etat": "CREE"
+      },
+      {
+        "date": "25/03/2024",
+        "tagId": "YLN69JKY1TQ",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "25/03/2024 00:24:05",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "25/03/2024",
+        "tagId": "DBO77KBM9KY",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "25/03/2024 03:15:15",
+        "etat": "CREE"
+      },
+      {
+        "date": "25/03/2024",
+        "tagId": "HAX94PSE7IU",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "25/03/2024 11:33:05",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "25/03/2024",
+        "tagId": "KED17LJV2WH",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "25/03/2024 01:32:48",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "25/03/2024",
+        "tagId": "KMV17RGL5YI",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "25/03/2024 10:31:19",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "25/03/2024",
+        "tagId": "FNH28JHV7UB",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "25/03/2024 01:14:59",
+        "etat": "CREE"
+      }
+    ],
+    "nombre": 9
+  },
+  {
+    "date": "26/03/2024",
+    "data": [
+      {
+        "date": "26/03/2024",
+        "tagId": "EQF67YQQ2FT",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "26/03/2024 07:54:01",
+        "etat": "CREE"
+      },
+      {
+        "date": "26/03/2024",
+        "tagId": "MFM11JED2RZ",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "26/03/2024 21:38:10",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "26/03/2024",
+        "tagId": "TRC67URU7BE",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "26/03/2024 01:00:13",
+        "etat": "CREE"
+      },
+      {
+        "date": "26/03/2024",
+        "tagId": "SYJ00TCB2PS",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "26/03/2024 00:06:12",
+        "etat": "CREE"
+      }
+    ],
+    "nombre": 4
+  },
+  {
+    "date": "27/03/2024",
+    "data": [
+      {
+        "date": "27/03/2024",
+        "tagId": "MIO48UOA3QD",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "27/03/2024 11:41:36",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "27/03/2024",
+        "tagId": "YXX54BAL1PP",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "27/03/2024 12:06:58",
+        "etat": "CREE"
+      },
+      {
+        "date": "27/03/2024",
+        "tagId": "BPK52QPZ2FT",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "27/03/2024 01:54:08",
+        "etat": "BLACKLISTE"
+      }
+    ],
+    "nombre": 3
+  },
+  {
+    "date": "28/03/2024",
+    "data": [
+      {
+        "date": "28/03/2024",
+        "tagId": "HVF41CXC7MN",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "28/03/2024 01:17:42",
+        "etat": "BLACKLISTE"
+      }
+    ],
+    "nombre": 1
+  },
+  {
+    "date": "29/03/2024",
+    "data": [
+      {
+        "date": "29/03/2024",
+        "tagId": "TMG65UOF6RK",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "29/03/2024 11:21:39",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "29/03/2024",
+        "tagId": "DQE88KHW1NE",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "29/03/2024 19:51:08",
+        "etat": "SUSPENDU"
+      }
+    ],
+    "nombre": 2
+  },
+  {
+    "date": "30/03/2024",
+    "data": [
+      {
+        "date": "30/03/2024",
+        "tagId": "XNR77CUG5MV",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "30/03/2024 08:04:56",
+        "etat": "CREE"
+      },
+      {
+        "date": "30/03/2024",
+        "tagId": "XPP75BUH0QI",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "30/03/2024 08:25:24",
+        "etat": "ACTIF"
+      }
+    ],
+    "nombre": 2
+  },
+  {
+    "date": "31/03/2024",
+    "data": [
+      {
+        "date": "31/03/2024",
+        "tagId": "TOU79AMF3VT",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "31/03/2024 15:32:09",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "31/03/2024",
+        "tagId": "XYE99ICP5PB",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "31/03/2024 01:23:38",
+        "etat": "CREE"
+      },
+      {
+        "date": "31/03/2024",
+        "tagId": "BHN41QFX6XB",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "31/03/2024 08:05:48",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "31/03/2024",
+        "tagId": "BZI31GFF6ZR",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "31/03/2024 14:03:10",
+        "etat": "BLACKLISTE"
+      }
+    ],
+    "nombre": 4
+  },
+  {
+    "date": "01/04/2024",
+    "data": [
+      {
+        "date": "01/04/2024",
+        "tagId": "OBJ80EEI8BB",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "01/04/2024 07:37:07",
+        "etat": "SUSPENDU"
+      }
+    ],
+    "nombre": 1
+  },
+  {
+    "date": "02/04/2024",
+    "data": [
+      {
+        "date": "02/04/2024",
+        "tagId": "JXB65DRO9DN",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "02/04/2024 06:10:49",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "02/04/2024",
+        "tagId": "LIO16OPO2YE",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "02/04/2024 04:37:53",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "02/04/2024",
+        "tagId": "MLD56CWF4UP",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "02/04/2024 17:57:18",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "02/04/2024",
+        "tagId": "TKK76OEI0KO",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "02/04/2024 16:59:45",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "02/04/2024",
+        "tagId": "JRQ81EXB9OW",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "02/04/2024 10:04:40",
+        "etat": "SUSPENDU"
+      }
+    ],
+    "nombre": 5
+  },
+  {
+    "date": "03/04/2024",
+    "data": [
+      {
+        "date": "03/04/2024",
+        "tagId": "OGF35BSU3RL",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "03/04/2024 12:09:57",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "03/04/2024",
+        "tagId": "IDL35QFB8EX",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "03/04/2024 23:01:24",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "03/04/2024",
+        "tagId": "KJB65RNK6PN",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "03/04/2024 02:57:48",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "03/04/2024",
+        "tagId": "YWW09TTJ6WW",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "03/04/2024 20:20:41",
+        "etat": "CREE"
+      },
+      {
+        "date": "03/04/2024",
+        "tagId": "OBC33XQT7QG",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "03/04/2024 08:49:57",
+        "etat": "CREE"
+      }
+    ],
+    "nombre": 5
+  },
+  {
+    "date": "04/04/2024",
+    "data": [
+      {
+        "date": "04/04/2024",
+        "tagId": "FVL88UQS1IV",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "04/04/2024 14:20:16",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "04/04/2024",
+        "tagId": "FFF87KYS6UB",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "04/04/2024 20:19:15",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "04/04/2024",
+        "tagId": "JMD54OKF3DT",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "04/04/2024 04:38:54",
+        "etat": "BLACKLISTE"
+      }
+    ],
+    "nombre": 3
+  },
+  {
+    "date": "05/04/2024",
+    "data": [
+      {
+        "date": "05/04/2024",
+        "tagId": "YUV87ELZ3RG",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "05/04/2024 00:03:15",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "05/04/2024",
+        "tagId": "CDY18WQO8MM",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "05/04/2024 00:11:34",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "05/04/2024",
+        "tagId": "YVB78POK8QC",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "05/04/2024 15:55:02",
+        "etat": "CREE"
+      },
+      {
+        "date": "05/04/2024",
+        "tagId": "PSA62PJL3IG",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "05/04/2024 02:25:29",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "05/04/2024",
+        "tagId": "XLE04NYE8PB",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "05/04/2024 08:47:07",
+        "etat": "CREE"
+      }
+    ],
+    "nombre": 5
+  },
+  {
+    "date": "06/04/2024",
+    "data": [
+      {
+        "date": "06/04/2024",
+        "tagId": "BVR31BQT6HL",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "06/04/2024 17:55:13",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "06/04/2024",
+        "tagId": "ODB77HND2BE",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "06/04/2024 13:55:38",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "06/04/2024",
+        "tagId": "JAJ82KSQ4PV",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "06/04/2024 19:51:30",
+        "etat": "CREE"
+      },
+      {
+        "date": "06/04/2024",
+        "tagId": "OOD14NQT9IK",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "06/04/2024 15:56:45",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "06/04/2024",
+        "tagId": "HCF66QWR5VQ",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "06/04/2024 03:16:38",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "06/04/2024",
+        "tagId": "SQD52SVV1JK",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "06/04/2024 18:56:34",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "06/04/2024",
+        "tagId": "JSX71SUD0VW",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "06/04/2024 06:50:11",
+        "etat": "CREE"
+      },
+      {
+        "date": "06/04/2024",
+        "tagId": "PBQ77WAV6AG",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "06/04/2024 01:40:33",
+        "etat": "CREE"
+      }
+    ],
+    "nombre": 8
+  },
+  {
+    "date": "07/04/2024",
+    "data": [
+      {
+        "date": "07/04/2024",
+        "tagId": "DSS23PDU4OJ",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "07/04/2024 02:49:39",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "07/04/2024",
+        "tagId": "LQE25DUD2XK",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "07/04/2024 16:22:25",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "07/04/2024",
+        "tagId": "NQD36NPV5KK",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "07/04/2024 14:20:34",
+        "etat": "CREE"
+      },
+      {
+        "date": "07/04/2024",
+        "tagId": "MGE91NYB9JG",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "07/04/2024 21:16:30",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "07/04/2024",
+        "tagId": "HNW28GOQ2OC",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "07/04/2024 11:15:01",
+        "etat": "CREE"
+      }
+    ],
+    "nombre": 5
+  },
+  {
+    "date": "08/04/2024",
+    "data": [
+      {
+        "date": "08/04/2024",
+        "tagId": "KJU72EJQ2UQ",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "08/04/2024 01:24:09",
+        "etat": "BLACKLISTE"
+      }
+    ],
+    "nombre": 1
+  },
+  {
+    "date": "09/04/2024",
+    "data": [
+      {
+        "date": "09/04/2024",
+        "tagId": "HNY60TWW6JS",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "09/04/2024 02:58:34",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "09/04/2024",
+        "tagId": "EGO50QUB4MD",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "09/04/2024 09:35:51",
+        "etat": "CREE"
+      }
+    ],
+    "nombre": 2
+  },
+  {
+    "date": "10/04/2024",
+    "data": [
+      {
+        "date": "10/04/2024",
+        "tagId": "KBH55VCE7LD",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "10/04/2024 01:44:30",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "10/04/2024",
+        "tagId": "FUQ52RIL9GJ",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "10/04/2024 20:48:54",
+        "etat": "CREE"
+      },
+      {
+        "date": "10/04/2024",
+        "tagId": "OVS27QVS8VQ",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "10/04/2024 05:48:34",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "10/04/2024",
+        "tagId": "EJT53VEU4WW",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "10/04/2024 14:52:24",
+        "etat": "ACTIF"
+      }
+    ],
+    "nombre": 4
+  },
+  {
+    "date": "11/04/2024",
+    "data": [
+      {
+        "date": "11/04/2024",
+        "tagId": "KPD57FRQ9JM",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "11/04/2024 12:43:55",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "11/04/2024",
+        "tagId": "IHX22QPE6QV",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "11/04/2024 13:47:28",
+        "etat": "CREE"
+      },
+      {
+        "date": "11/04/2024",
+        "tagId": "DFW41WAP2BF",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "11/04/2024 12:47:05",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "11/04/2024",
+        "tagId": "RBQ74CBX2CC",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "11/04/2024 03:46:34",
+        "etat": "CREE"
+      }
+    ],
+    "nombre": 4
+  },
+  {
+    "date": "12/04/2024",
+    "data": [
+      {
+        "date": "12/04/2024",
+        "tagId": "LUN96OHL5EQ",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "12/04/2024 15:08:13",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "12/04/2024",
+        "tagId": "IFG45GEB9SA",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "12/04/2024 06:27:05",
+        "etat": "CREE"
+      },
+      {
+        "date": "12/04/2024",
+        "tagId": "YQY67VOM1LB",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "12/04/2024 14:26:26",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "12/04/2024",
+        "tagId": "SVZ64CHC6ZN",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "12/04/2024 06:42:04",
+        "etat": "CREE"
+      },
+      {
+        "date": "12/04/2024",
+        "tagId": "HTM77QWI9VE",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "12/04/2024 16:52:44",
+        "etat": "CREE"
+      },
+      {
+        "date": "12/04/2024",
+        "tagId": "HHO24UCX7EM",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "12/04/2024 08:23:45",
+        "etat": "ACTIF"
+      }
+    ],
+    "nombre": 6
+  },
+  {
+    "date": "13/04/2024",
+    "data": [
+      {
+        "date": "13/04/2024",
+        "tagId": "ERY56DQV1VN",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "13/04/2024 02:29:30",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "13/04/2024",
+        "tagId": "HKN18KLP6IJ",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "13/04/2024 22:05:47",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "13/04/2024",
+        "tagId": "NCN50MHV1ST",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "13/04/2024 06:45:34",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "13/04/2024",
+        "tagId": "YVT53ECF3IA",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "13/04/2024 19:27:36",
+        "etat": "CREE"
+      },
+      {
+        "date": "13/04/2024",
+        "tagId": "IOJ83CRK8GR",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "13/04/2024 15:14:30",
+        "etat": "CREE"
+      },
+      {
+        "date": "13/04/2024",
+        "tagId": "YFW05GOR2OS",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "13/04/2024 22:29:08",
+        "etat": "SUSPENDU"
+      }
+    ],
+    "nombre": 6
+  },
+  {
+    "date": "14/04/2024",
+    "data": [
+      {
+        "date": "14/04/2024",
+        "tagId": "TGM45UQC6BV",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "14/04/2024 13:15:09",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "14/04/2024",
+        "tagId": "DKK12LPR8YC",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "14/04/2024 07:26:08",
+        "etat": "CREE"
+      },
+      {
+        "date": "14/04/2024",
+        "tagId": "CUR39KTR8QC",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "14/04/2024 10:20:10",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "14/04/2024",
+        "tagId": "JNO37GOI7MX",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "14/04/2024 19:24:33",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "14/04/2024",
+        "tagId": "TKD19VFU6VO",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "14/04/2024 07:44:33",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "14/04/2024",
+        "tagId": "HIC71MCQ2LG",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "14/04/2024 12:51:38",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "14/04/2024",
+        "tagId": "NOV55IMN1RG",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "14/04/2024 20:56:47",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "14/04/2024",
+        "tagId": "UJH84JCO1WW",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "14/04/2024 00:58:35",
+        "etat": "ACTIF"
+      }
+    ],
+    "nombre": 8
+  },
+  {
+    "date": "15/04/2024",
+    "data": [
+      {
+        "date": "15/04/2024",
+        "tagId": "LPI87ZAQ8CY",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "15/04/2024 15:18:48",
+        "etat": "CREE"
+      },
+      {
+        "date": "15/04/2024",
+        "tagId": "IZB00XHO1ZC",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "15/04/2024 12:00:29",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "15/04/2024",
+        "tagId": "JDH17HJI4OK",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "15/04/2024 02:52:29",
+        "etat": "CREE"
+      },
+      {
+        "date": "15/04/2024",
+        "tagId": "GHU35ZBC9OX",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "15/04/2024 05:53:46",
+        "etat": "CREE"
+      },
+      {
+        "date": "15/04/2024",
+        "tagId": "YPO78OTK7TR",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "15/04/2024 00:32:55",
+        "etat": "BLACKLISTE"
+      }
+    ],
+    "nombre": 5
+  },
+  {
+    "date": "16/04/2024",
+    "data": [
+      {
+        "date": "16/04/2024",
+        "tagId": "SXZ24HKC9QI",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "16/04/2024 14:56:15",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "16/04/2024",
+        "tagId": "DCR62TIH5GY",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "16/04/2024 02:49:22",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "16/04/2024",
+        "tagId": "IUL18SVF2RO",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "16/04/2024 09:55:13",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "16/04/2024",
+        "tagId": "CBY24ZMC5UX",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "16/04/2024 06:24:49",
+        "etat": "CREE"
+      },
+      {
+        "date": "16/04/2024",
+        "tagId": "RZT14ZXU1QJ",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "16/04/2024 18:50:34",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "16/04/2024",
+        "tagId": "BYS67SXJ7GG",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "16/04/2024 03:33:07",
+        "etat": "CREE"
+      },
+      {
+        "date": "16/04/2024",
+        "tagId": "IYB22YHT5SX",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "16/04/2024 09:55:33",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "16/04/2024",
+        "tagId": "DJI43XML4WG",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "16/04/2024 15:12:50",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "16/04/2024",
+        "tagId": "FOG39WSI6PB",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "16/04/2024 17:14:52",
+        "etat": "ACTIF"
+      }
+    ],
+    "nombre": 9
+  },
+  {
+    "date": "17/04/2024",
+    "data": [
+      {
+        "date": "17/04/2024",
+        "tagId": "THO29CYD6PY",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "17/04/2024 05:57:09",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "17/04/2024",
+        "tagId": "WFU21XFC2VF",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "17/04/2024 03:48:08",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "17/04/2024",
+        "tagId": "WYW16HUJ8VS",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "17/04/2024 18:18:02",
+        "etat": "CREE"
+      },
+      {
+        "date": "17/04/2024",
+        "tagId": "RBG10UNK2MH",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "17/04/2024 20:42:39",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "17/04/2024",
+        "tagId": "EYI48INP1LB",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "17/04/2024 13:59:45",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "17/04/2024",
+        "tagId": "TJO91JUW3CH",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "17/04/2024 17:46:03",
+        "etat": "ACTIF"
+      }
+    ],
+    "nombre": 6
+  },
+  {
+    "date": "18/04/2024",
+    "data": [
+      {
+        "date": "18/04/2024",
+        "tagId": "RQS28VQD4FF",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "18/04/2024 18:01:46",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "18/04/2024",
+        "tagId": "UNB53GSP5KO",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "18/04/2024 18:48:00",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "18/04/2024",
+        "tagId": "ECT46PXE5HH",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "18/04/2024 23:02:44",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "18/04/2024",
+        "tagId": "VQZ11EMB0MQ",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "18/04/2024 12:23:34",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "18/04/2024",
+        "tagId": "VEQ26NBI3KW",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "18/04/2024 12:13:55",
+        "etat": "CREE"
+      },
+      {
+        "date": "18/04/2024",
+        "tagId": "PVI83AXN3SR",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "18/04/2024 09:02:38",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "18/04/2024",
+        "tagId": "EMN73VXJ7MW",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "18/04/2024 06:06:35",
+        "etat": "CREE"
+      },
+      {
+        "date": "18/04/2024",
+        "tagId": "ERT89UVA2IF",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "18/04/2024 22:21:37",
+        "etat": "SUSPENDU"
+      }
+    ],
+    "nombre": 8
+  },
+  {
+    "date": "19/04/2024",
+    "data": [
+      {
+        "date": "19/04/2024",
+        "tagId": "TFY75KJM5BH",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "19/04/2024 04:05:56",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "19/04/2024",
+        "tagId": "MQI08WXV4TG",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "19/04/2024 21:10:07",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "19/04/2024",
+        "tagId": "SBD19AHW6NE",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "19/04/2024 13:17:23",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "19/04/2024",
+        "tagId": "DIW63JHJ3DS",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "19/04/2024 23:09:18",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "19/04/2024",
+        "tagId": "QKU01WUJ2VA",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "19/04/2024 15:43:35",
+        "etat": "ACTIF"
+      }
+    ],
+    "nombre": 5
+  },
+  {
+    "date": "20/04/2024",
+    "data": [
+      {
+        "date": "20/04/2024",
+        "tagId": "ESL86PDM4GE",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "20/04/2024 09:33:55",
+        "etat": "CREE"
+      },
+      {
+        "date": "20/04/2024",
+        "tagId": "JHP42PDV4LY",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "20/04/2024 06:52:32",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "20/04/2024",
+        "tagId": "THE25QHE8FD",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "20/04/2024 23:09:26",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "20/04/2024",
+        "tagId": "CVP04EOT7EF",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "20/04/2024 05:52:00",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "20/04/2024",
+        "tagId": "YRQ67NQV0PM",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "20/04/2024 19:34:55",
+        "etat": "ACTIF"
+      }
+    ],
+    "nombre": 5
+  },
+  {
+    "date": "21/04/2024",
+    "data": [
+      {
+        "date": "21/04/2024",
+        "tagId": "DNN69QCX0VX",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "21/04/2024 06:11:14",
+        "etat": "CREE"
+      },
+      {
+        "date": "21/04/2024",
+        "tagId": "JXD25CTU2NV",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "21/04/2024 21:41:39",
+        "etat": "CREE"
+      },
+      {
+        "date": "21/04/2024",
+        "tagId": "UQN57KOF8LB",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "21/04/2024 22:01:23",
+        "etat": "ACTIF"
+      },
+      {
+        "date": "21/04/2024",
+        "tagId": "BRL33QQG7BJ",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "21/04/2024 07:04:34",
+        "etat": "CREE"
+      },
+      {
+        "date": "21/04/2024",
+        "tagId": "QZL43OVO4NQ",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "21/04/2024 16:01:12",
+        "etat": "BLACKLISTE"
+      }
+    ],
+    "nombre": 5
+  },
+  {
+    "date": "22/04/2024",
+    "data": [
+      {
+        "date": "22/04/2024",
+        "tagId": "WGQ17VDZ7UU",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "22/04/2024 08:59:22",
+        "etat": "SUSPENDU"
+      },
+      {
+        "date": "22/04/2024",
+        "tagId": "YTF52UPF4NB",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "22/04/2024 10:15:05",
+        "etat": "BLACKLISTE"
+      },
+      {
+        "date": "22/04/2024",
+        "tagId": "VFB42OFI6GP",
+        "voie": null,
+        "dhms": null,
+        "ffAmount": null,
+        "amount": null,
+        "dateCreation": "22/04/2024 13:14:38",
+        "etat": "BLACKLISTE"
+      }
+    ],
+    "nombre": 3
+  }
+]

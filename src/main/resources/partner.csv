@@ -1,0 +1,46 @@
+"id","authorise_token","created_at","created_by","description","emitter","libelle","name","receiver","rsa_pub_file","updated_at","updated_by","rsa_pub","rsa_pub_raw","partner_id","public_key_content","public_key_path","revoke","scopes"
+f07ba396-0542-4e35-bb90-76bea47f4739,"900909",,,,WAVE-UUID,WAVE Libelle,WAVE,WAVE,/Users/diomande/Desktop/socitech/projects/socoprim/rsakeys/WAVE_pub.asc,,,,,,,,false,
+"2c881716-681c-4873-a0ee-581d7e19a2fe","789012",,,,MTN-UUID,MTN Libelle,MTN,MTN,/Users/diomande/Desktop/socitech/projects/socoprim/rsakeys/MTN_pub.asc,,,,,,,,false,
+a4bf4d0e-996e-45b0-b7c9-6ef7552316fe,"123456",,,,ORANGE-UUID,ORANGE Libelle,ORANGE,ORANGE,/Users/diomande/Desktop/socitech/projects/socoprim/rsakeys/ORANGE_pub.asc,,,"MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAxGyrEW263TqQnaOMdiut
+K5Lnhu90fT+NHqQslGdAs4o5Ugz2ZWTqJKUuZFMJ6n2dCNDmlyZ6uh31M/gwsR0F
+lnSVVeyEYj5RUq+LDUR9epci9elcYhHP40Ab68UA29WEpkeOJCVEcLOoQMecM5bz
+/CX8GdLOQ6fjpyUGOKGiHhFsOzBa/rlIMKFUqbkJdeCiUahjuBByNgDvB36QcSRW
+dwhd6yJ2ynlFZGCPTcvJdk1nBLyqDSfredBZGuN3YwXh+Tm+Fs7xh8saYx1t0UJ+
+kdcFPnzOxApDTvURqLIq/oQ7gU+UBJesJtH5v+Fsxl1kafejXPGSTut01NMudl/j
+5xznr7fYmRQkZMOyCtFGEg8akIf3ADWoLLXhZYUw0Y7HPpKgrOcV/rkgq0uO9PKo
+oZ1KP6OkS7NW0w0XO4oqRa89789ZY4J2aFdT1HK5DK9ZYFrcMGqG5KOXXENl58P9
++eE3zX2Ktx4pGWDGf7mVyNQi86pm/1gh1im7D6VJolr2hg+4shfnvzhU5GiMbjSv
+O817JIBucNGFBtyp4FVAoZtES5HLsVgJ++VFuMxpIf19rPq8mq87uPPmN8Vprkrc
+FNm5PhGLeS012Q2O3fZf6eUIzbwj1NyD16+4qAj+gxQoAzbaOJxDdrr1mahhZdoD
+p7h/KpH6lquVP1MWhW9i628CAwEAAQ==
+","-----BEGIN PUBLIC KEY-----
+MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAxGyrEW263TqQnaOMdiut
+K5Lnhu90fT+NHqQslGdAs4o5Ugz2ZWTqJKUuZFMJ6n2dCNDmlyZ6uh31M/gwsR0F
+lnSVVeyEYj5RUq+LDUR9epci9elcYhHP40Ab68UA29WEpkeOJCVEcLOoQMecM5bz
+/CX8GdLOQ6fjpyUGOKGiHhFsOzBa/rlIMKFUqbkJdeCiUahjuBByNgDvB36QcSRW
+dwhd6yJ2ynlFZGCPTcvJdk1nBLyqDSfredBZGuN3YwXh+Tm+Fs7xh8saYx1t0UJ+
+kdcFPnzOxApDTvURqLIq/oQ7gU+UBJesJtH5v+Fsxl1kafejXPGSTut01NMudl/j
+5xznr7fYmRQkZMOyCtFGEg8akIf3ADWoLLXhZYUw0Y7HPpKgrOcV/rkgq0uO9PKo
+oZ1KP6OkS7NW0w0XO4oqRa89789ZY4J2aFdT1HK5DK9ZYFrcMGqG5KOXXENl58P9
++eE3zX2Ktx4pGWDGf7mVyNQi86pm/1gh1im7D6VJolr2hg+4shfnvzhU5GiMbjSv
+O817JIBucNGFBtyp4FVAoZtES5HLsVgJ++VFuMxpIf19rPq8mq87uPPmN8Vprkrc
+FNm5PhGLeS012Q2O3fZf6eUIzbwj1NyD16+4qAj+gxQoAzbaOJxDdrr1mahhZdoD
+p7h/KpH6lquVP1MWhW9i628CAwEAAQ==
+-----END PUBLIC KEY-----
+",,,,false,
+"437695a8-4e5e-47b6-a700-f4101320f4e3","1111983",,,,MOOV-UUID,MOOV Libelle,MOOV,MOOV,/Users/diomande/Desktop/socitech/projects/socoprim/rsakeys/MOOV_pub.asc,,,"MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoyNrTkDdMSX6XT03lxCK
+xcD/5+2eeyQ3HFkFjjh468PHCDCn5TMyB2KeNE9Xd+9LS/IntVESS6z0kQImsobW
+8GPAEEcJCxGfGX55QE7yieenQt1lovL88IE6MmsQ6IGCcLQ8/0KUmqZOWPzn0ZD+
+8mA7VHBhG4uGjet2dAzydB60WvDk9WEdwm2q+flDh6huXX5eS4x4XU/7ZaKSVEWP
+9bVHyHF16RPaVmVEj8Mu43b5fgNZ53Zi1DuuzWr5EClF02O9Y71g/4WxINsSKmTS
+b1Rqs6PCElAUDdBB4tLs0I3nfOzHSpvrClN8f7DinzxNc05VEIFOQhPyx6HcM2gv
+JwIDAQAB","-----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoyNrTkDdMSX6XT03lxCK
+xcD/5+2eeyQ3HFkFjjh468PHCDCn5TMyB2KeNE9Xd+9LS/IntVESS6z0kQImsobW
+8GPAEEcJCxGfGX55QE7yieenQt1lovL88IE6MmsQ6IGCcLQ8/0KUmqZOWPzn0ZD+
+8mA7VHBhG4uGjet2dAzydB60WvDk9WEdwm2q+flDh6huXX5eS4x4XU/7ZaKSVEWP
+9bVHyHF16RPaVmVEj8Mu43b5fgNZ53Zi1DuuzWr5EClF02O9Y71g/4WxINsSKmTS
+b1Rqs6PCElAUDdBB4tLs0I3nfOzHSpvrClN8f7DinzxNc05VEIFOQhPyx6HcM2gv
+JwIDAQAB
+-----END PUBLIC KEY-----",,,,false,
+create table partners (id varchar(36) not null, created_at varchar(255) not null, created_by varchar(255), description varchar(255), first_customer_id default 0, grant_token varchar(255) not null, last_customer_id default 0, name varchar(255) not null, partner_code varchar(255) not null, passage_lane varchar(255) not null, public_key_content TEXT, public_key_file varchar(255) not null, public_key_path varchar(255), reload_lane varchar(255) not null, remote_ip default 0.0.0.0 not null, revoke boolean default false, scopes varchar(255), staff_code varchar(255) not null, updated_at varchar(255), updated_by varchar(255), primary key (id))

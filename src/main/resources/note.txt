@@ -1,0 +1,29 @@
+-- 16/02/2024
+Les differents roles :
+ - ADMINISTRATION
+ - COMMERCIAL
+ - COMPTABILITE
+ - PARTENAIRE
+
+ -- 22/02/2024
+ Login: le nom commercial de chaque partenaire (en majuscule impérativement)
+ Ex: WAVE - ORANGE - MTN - BNI - MOOV
+ Mot de passe : il devrait suivre une certaine complexité avec 8 caractères et une période de validité de 4 mois.(il doit expirer tout les 4 mois)
+ PS: Le partenaire doit pouvoir changer son mot de passe.
+ On doit aussi avoir la possibilité de réinitialiser le mot de passe d'un partenaire.
+
+ > Les admins peuvent creer les autres utilisateurs
+ reinitialiser leurs mots de passe
+ On cree un PARTENAIRE ORANGE, MTN etc, on cree un utilisateur avec le role partenaire qui sera attribue a un PARTENAIRE
+ C'est ce dernier qui sera habilite a charger et changer le certificat, visualiser et exports des rapports, reconciliations
+ du PARTENAIRE.
+ il doit UNIQUEMENT pouvoir lui même charger sa clé, et modifier son mot de passe.
+ En dehors de ça, les autres informations ne doivent pas être modifiable par le partenaire.
+Le compte partenaire étant créant, il pourra lui même a son niveau mener les actions qu'il voudra.
+Modifier mot de passe, charger sa clé.
+voir les rapports pour les réconciliations.
+
+
+ Quant aux utilisateurs internes de SOCOPRIM (commerciaux, comptables)
+ C'est a notre niveau (SOCOPRIM) qu'on a les commerciaux qui peuvent via l'interface vérifier le statut d'un rechargement etc...
+ Le comptable fait des rapprochements avec les informations comme la référence du rechargement. etc...
