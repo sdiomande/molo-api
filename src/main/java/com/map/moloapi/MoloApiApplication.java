@@ -1,6 +1,5 @@
 package com.map.moloapi;
 
-import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -12,12 +11,12 @@ import org.springframework.web.bind.annotation.RestController;
 import java.net.Inet4Address;
 import java.net.UnknownHostException;
 import java.util.Map;
+import java.util.logging.Logger;
 
 @SpringBootApplication
-@Slf4j
 @RestController
 public class MoloApiApplication implements CommandLineRunner {
-
+    Logger log = Logger.getLogger(MoloApiApplication.class.getName());
     public static void main(String[] args) {
         SpringApplication.run(MoloApiApplication.class, args);
     }
