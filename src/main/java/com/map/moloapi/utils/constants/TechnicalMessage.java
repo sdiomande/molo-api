@@ -8,8 +8,8 @@ public class TechnicalMessage {
     public static final String ERROR_MESSAGE = "Une erreur est survenue lors du traitement";
     public static final String SUCCESS_MESSAGE = "Operation effectué avec succes";
     public static final String BEARER = "Bearer";
-    public static final String PASSWORD_PREFIX = "$0C0PRIM";
-    public static final String PASSWORD_SUFFIX = "HKB";
+    public static final String PASSWORD_PREFIX = "M0L0";
+    public static final String PASSWORD_SUFFIX = "@P1";
     public static final String BAD_CREDENTIAL = "Login et/ou mot de passe incorrect";
     public static final String ACCESS_DENIED = "Veuillez vous connecter / Vous n'avez pas les autorisations";
     public static final String ACCOUNT_LOCKED = "Votre compte est bloqué, veuillez contactez un super-administrateur.";

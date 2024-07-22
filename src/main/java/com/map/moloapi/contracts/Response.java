@@ -5,11 +5,13 @@ import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.Setter;
+import org.springframework.stereotype.Component;
 
 @Getter
 @Setter
 @AllArgsConstructor
 @Builder
+@Component
 public class Response {
     private boolean hasError;
     private String message;

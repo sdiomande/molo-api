@@ -9,7 +9,7 @@ import java.io.File;
 
 /**
  * @author DIOMANDE Souleymane 
- * @project socoprim-internal-api
+ * @project molo-api
  * @Date 20/02/2024 12:59
  */
 

@@ -1,4 +1,4 @@
-package com.map.moloapi.contracts.partners;
+package com.map.moloapi.contracts.entreprises;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -7,13 +7,13 @@ import lombok.NoArgsConstructor;
 
 /**
  * @author DIOMANDE Souleymane 
- * @project socoprim-internal-api
+ * @project molo-api
  * @Date 13/02/2024 11:37
  */
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
-public class PartnerResponse {
+public class EntrepriseResponse {
     private String name;
 }

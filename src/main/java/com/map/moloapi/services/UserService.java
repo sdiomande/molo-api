@@ -9,12 +9,12 @@ import com.map.moloapi.contracts.users.requests.UpdatePasswordRequest;
 import com.map.moloapi.contracts.users.requests.UpdateUserRequest;
 import com.map.moloapi.contracts.users.responses.AuthResponse;
 import com.map.moloapi.dtos.UserDto;
-import com.map.moloapi.entities.Partner;
+import com.map.moloapi.entities.Entreprise;
 import com.map.moloapi.entities.PasswordResetToken;
 import com.map.moloapi.entities.Role;
 import com.map.moloapi.entities.User;
 import com.map.moloapi.mappers.BaseMapper;
-import com.map.moloapi.repositories.PartnerRepository;
+import com.map.moloapi.repositories.EntrepriseRepository;
 import com.map.moloapi.repositories.RefreshTokenRepository;
 import com.map.moloapi.repositories.RoleRepository;
 import com.map.moloapi.repositories.UserRepository;
@@ -24,7 +24,6 @@ import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.data.domain.Sort;
 import org.springframework.stereotype.Service;
 import org.springframework.util.StringUtils;
 
@@ -65,7 +64,7 @@ public class UserService {
     RefreshTokenRepository refreshTokenRepository;
 
     @Autowired
-    PartnerRepository partnerRepository;
+    EntrepriseRepository entrepriseRepository;
 
     @Autowired
     Utilities utils;
@@ -109,17 +108,17 @@ public class UserService {
 
         if (role.get().getLibelle().equalsIgnoreCase("ROLE_PARTENAIRE")) {
             if (request.getPartnerId() == null) {
-                log.error("## L'utilisateur n'est pas affecte a un partenaire ##");
-                return response.error("L'utilisateur n'est pas affecte a un partenaire");
+                log.error("## L'utilisateur n'est pas affecte a une entreprise ##");
+                return response.error("L'utilisateur n'est pas affecte a une entreprise");
             }
 
-            Optional<Partner> partnerOptional = partnerRepository.findById(request.getPartnerId());
+            Optional<Entreprise> partnerOptional = entrepriseRepository.findById(request.getPartnerId());
             if (partnerOptional.isEmpty()) {
-                log.error("## Aucun partenaire trouvé ##");
-                return response.error("Aucun partenaire trouvé");
+                log.error("## Aucune entreprise trouvé ##");
+                return response.error("Aucune entreprise trouvé");
             }
 
-            user.setPartner(partnerOptional.get());
+            user.setEntreprise(partnerOptional.get());
         }
 //        String password = Utilities.generateDigitPassword();
 //        request.setPassword(Utilities.encryptPassword(password));

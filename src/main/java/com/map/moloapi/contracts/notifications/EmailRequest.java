@@ -11,7 +11,7 @@ import java.util.List;
 
 /**
  * @author DIOMANDE Souleymane 
- * @project socoprim-internal-api
+ * @project molo-api
  * @Date 20/02/2024 12:02
  */
 @Data

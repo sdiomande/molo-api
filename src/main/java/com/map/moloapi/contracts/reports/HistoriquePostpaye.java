@@ -8,7 +8,7 @@ import lombok.NoArgsConstructor;
 
 /**
  * @author DIOMANDE Souleymane
- * @project socoprim-internal-api
+ * @project molo-api
  * @Date 22/04/2024 13:22
  */
 @Data

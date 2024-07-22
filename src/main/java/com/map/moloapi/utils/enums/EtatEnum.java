@@ -2,7 +2,7 @@ package com.map.moloapi.utils.enums;
 
 /**
  * @author DIOMANDE Souleymane
- * @project socoprim-internal-api
+ * @project molo-api
  * @Date 10/06/2024 17:34
  */
 public enum EtatEnum {

@@ -1,13 +1,14 @@
 package com.map.moloapi;
 
 import com.map.moloapi.contracts.reports.ReportResponse;
+import com.map.moloapi.utils.Utilities;
 
 import java.util.Arrays;
 import java.util.List;
 
 /**
  * @author DIOMANDE Souleymane 
- * @project socoprim-internal-api
+ * @project molo-api
  * @Date 03/11/2023 15:04
  */
 public class Test {
@@ -36,5 +37,7 @@ public class Test {
                 ReportResponse.builder().tagId("9380900010100114").date("11/04/2024 16:11:09").etat("CREE").build(),
                 ReportResponse.builder().tagId("9380900010100115").date("20/04/2024 19:11:09").etat("CREE").build()
         );
+
+        System.out.println(Utilities.encryptPassword("admin"));
     }
 }

@@ -10,7 +10,7 @@ import java.util.HashMap;
 
 /**
  * @author DIOMANDE Souleymane 
- * @project socoprim-internal-api
+ * @project molo-api
  * @Date 21/02/2024 15:59
  */
 @Slf4j

@@ -23,7 +23,7 @@ import java.util.concurrent.CompletableFuture;
 
 /**
  * @author DIOMANDE Souleymane 
- * @project socoprim-internal-api
+ * @project molo-api
  * @Date 20/02/2024 11:56
  */
 @Service

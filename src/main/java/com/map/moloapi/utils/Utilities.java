@@ -63,13 +63,12 @@ public class Utilities {
         return null;
     }
 
-    public List<String> getParams(String parameter) {
-        List<String> params = paramRepository.findValeursByType(parameter);
-        if (params != null && !params.isEmpty()) {
-            return params;
+    public String getParam(String parameter, String defaultValue) {
+        Param param = paramRepository.findByName(parameter);
+        if (param != null && param.getValeur() != null) {
+            return param.getValeur();
         }
-        log.error("-- AUCUNE DONNEE DE PARAMETRE POUR : {} --", parameter);
-        return null;
+        return defaultValue;
     }
 
 

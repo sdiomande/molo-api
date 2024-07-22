@@ -6,7 +6,7 @@ import org.springframework.web.servlet.HandlerInterceptor;
 
 /**
  * @author DIOMANDE Souleymane 
- * @project socoprim-internal-api
+ * @project molo-api
  * @Date 21/03/2024 14:50
  */
 public class AuditLogInterceptor implements HandlerInterceptor {

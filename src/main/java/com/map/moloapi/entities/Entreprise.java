@@ -14,12 +14,12 @@ import org.hibernate.annotations.GenericGenerator;
  * @Date 02/11/2023 10:36
  */
 @Entity
-@Table(name = "partners")
+@Table(name = "entreprises")
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
-public class Partner {
+public class Entreprise {
     @Id
     @GenericGenerator(name = "uuid2", strategy = "uuid2")
     @GeneratedValue(strategy = GenerationType.IDENTITY, generator = "uuid2")
@@ -28,28 +28,14 @@ public class Partner {
     private String description;
     @Column(unique = true, nullable = false)
     private String name;
-    @Column(nullable = false)
-    private String partnerCode;
-    private String reloadLane;
-    private String staffCode;
-    private String publicKeyFile;
-    private String passageLane;
-    //    @Column(nullable = false, columnDefinition = "varchar(20) default '0.0.0.0'")
-    private String remoteIp;
-    //    @Column(nullable = false)
-    private String grantToken;
-    @Column(columnDefinition = "boolean default false")
-    private Boolean revoke;
-
-    private String scopes;
-    @Column(columnDefinition = "varchar(15) default '0'")
-    private String firstCustomerId;
-    @Column(columnDefinition = "varchar(15) default '0'")
-    private String lastCustomerId;
-
-    @Column(columnDefinition = "TEXT")
-    private String publicKeyContent;
-    private String publicKeyPath;
+    private String code;
+    private String address;
+    private String email;
+    private String website;
+    private String phone1;
+    private String phone2;
+    private String rccm;
+    private String logo;
     @Column(columnDefinition = "boolean default true")
     private Boolean active;
 
@@ -64,23 +50,12 @@ public class Partner {
         this.setCreatedBy(Utilities.userConnectedID());
         this.setUpdatedAt(Utilities.now());
         this.setUpdatedBy(Utilities.userConnectedID());
-        this.setRevoke(false);
         this.setActive(true);
     }
 
     public void uAudit() {
         this.setUpdatedAt(Utilities.now());
         this.setUpdatedBy(Utilities.userConnectedID());
-    }
-
-    public String fileContentFiltered() {
-        if (this.publicKeyContent != null) {
-            return publicKeyContent
-                    .replace("-----BEGIN PUBLIC KEY-----", "")
-                    .replaceAll("\\n", "")
-                    .replace("-----END PUBLIC KEY-----", "");
-        }
-        return null;
     }
 
     public void activate() {

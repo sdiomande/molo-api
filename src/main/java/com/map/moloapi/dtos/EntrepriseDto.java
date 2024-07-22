@@ -1,7 +1,6 @@
 package com.map.moloapi.dtos;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
-import jakarta.persistence.Column;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
@@ -9,31 +8,26 @@ import lombok.NoArgsConstructor;
 
 /**
  * @author DIOMANDE Souleymane 
- * @project socoprim-internal-api
+ * @project molo-api
  * @Date 15/02/2024 11:08
  */
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
 @Builder
-public class PartnerDto {
+public class EntrepriseDto {
     private String id;
-    private String description;
     private String name;
-    private String partnerCode;
-    private String reloadLane;
-    private String staffCode;
-    private String publicKeyFile;
-    private String passageLane;
-    private String remoteIp;
-    private String grantToken;
-    private boolean revoke;
-    private String scopes;
-    private String firstCustomerId;
-    private String lastCustomerId;
+    private String description;
+    private String code;
+    private String address;
+    private String email;
+    private String website;
+    private String phone1;
+    private String phone2;
+    private String rccm;
+    private String logo;
     private Boolean active;
-//    private String publicKeyContent;
-//    private String publicKeyPath;
 //    @JsonIgnore
     private String createdAt;
     @JsonIgnore

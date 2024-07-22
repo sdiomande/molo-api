@@ -12,7 +12,7 @@ import java.util.Objects;
 
 /**
  * @author DIOMANDE Souleymane 
- * @project socoprim-internal-api
+ * @project molo-api
  * @Date 03/11/2023 10:37
  */
 @Entity
@@ -94,8 +94,8 @@ public class User {
     private Role role;
 
     @ManyToOne
-    @JoinColumn(name = "partner_id")
-    private Partner partner;
+    @JoinColumn(name = "entreprise_id")
+    private Entreprise entreprise;
 
     @Override
     public boolean equals(Object o) {

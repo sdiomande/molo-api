@@ -6,6 +6,7 @@ import com.map.moloapi.contracts.users.requests.RefreshTokenRequest;
 import com.map.moloapi.contracts.users.requests.ResetPasswordRequest;
 import com.map.moloapi.contracts.users.responses.AuthResponse;
 import com.map.moloapi.entities.*;
+import com.map.moloapi.exceptions.rest.BadRequestException;
 import com.map.moloapi.repositories.MenuRepository;
 import com.map.moloapi.repositories.ProfilRepository;
 import com.map.moloapi.repositories.UserRepository;
@@ -112,6 +113,10 @@ public class AuthService {
                     .build();
         }
 
+        if (userToVerify.getRole() == null) {
+            throw new BadRequestException("Veuillez contactez l'administrateur pour vous attribuer un role");
+        }
+
         try {
             Authentication authentication = authenticationManager.authenticate(
                     new UsernamePasswordAuthenticationToken(loginRequest.getLogin(), Utilities.arroundPassword(loginRequest.getPassword())));
@@ -152,10 +157,10 @@ public class AuthService {
 
         } catch (BadCredentialsException e) {
             if (userToVerify == null) {
-                log.info("-- Acces incorrect --");
+                log.info("-- Acces incorrect, aucun utilisateur trouve --");
                 responseDtoBuilder.message(BAD_CREDENTIAL);
             }
-            Integer loginAttemptMax = Integer.valueOf(utilities.getParam("LOGIN_ATTEMPT_MAX"));
+            Integer loginAttemptMax = Integer.valueOf(utilities.getParam("LOGIN_ATTEMPT_MAX", "3"));
             if ((userToVerify.getAttempt() + 1) >= loginAttemptMax) {
                 log.info("-- Compte verouille --");
                 //Verrouiler le compte
@@ -165,7 +170,7 @@ public class AuthService {
 //                throw new RuntimeException(ACCOUNT_LOCKED);
                 responseDtoBuilder.message(ACCOUNT_LOCKED);
             } else {
-                log.info("-- Acces incorrect --");
+                log.info("-- Acces incorrect, tentative de connexion : {} --", userToVerify.getAttempt() + 1);
                 userToVerify.setAttempt(userToVerify.getAttempt() + 1);
                 userRepository.saveAndFlush(userToVerify);
 //                throw new RuntimeException(BAD_CREDENTIAL);

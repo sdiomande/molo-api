@@ -1,18 +1,16 @@
 package com.map.moloapi.mappers;
 
 
-import com.map.moloapi.contracts.partners.PartnerRequest;
+import com.map.moloapi.contracts.entreprises.EntrepriseRequest;
 import com.map.moloapi.contracts.users.requests.CreateUserRequest;
-import com.map.moloapi.dtos.PartnerDto;
+import com.map.moloapi.dtos.EntrepriseDto;
 import com.map.moloapi.dtos.RoleDto;
 import com.map.moloapi.dtos.UserDto;
-import com.map.moloapi.entities.Partner;
+import com.map.moloapi.entities.Entreprise;
 import com.map.moloapi.entities.Role;
 import com.map.moloapi.entities.User;
 import com.map.moloapi.securities.UserDetailsImpl;
 import org.mapstruct.Mapper;
-import org.mapstruct.Mapping;
-import org.mapstruct.Mappings;
 
 import java.util.List;
 
@@ -26,10 +24,6 @@ public interface BaseMapper {
     // USER MAPPERS
     UserDto toDto(UserDetailsImpl user);
 
-    @Mappings({
-            @Mapping(target = "partner.publicKeyFile", ignore = true),
-            @Mapping(target = "partner.grantToken", ignore = true)
-    })
     UserDto toDto(User user);
 
     List<UserDto> toUserDtos(List<User> users);
@@ -45,9 +39,9 @@ public interface BaseMapper {
 
     Role toEntity(RoleDto otpDto);
 
-    Partner toEntity(PartnerRequest request);
+    Entreprise toEntity(EntrepriseRequest request);
 
-    PartnerDto toDto(Partner otp);
+    EntrepriseDto toDto(Entreprise otp);
 
-    List<PartnerDto> toPartnerDtos(List<Partner> otps);
+    List<EntrepriseDto> toEntrepriseDtos(List<Entreprise> otps);
 }

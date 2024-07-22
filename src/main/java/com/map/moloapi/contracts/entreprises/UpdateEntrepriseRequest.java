@@ -1,4 +1,4 @@
-package com.map.moloapi.contracts.partners;
+package com.map.moloapi.contracts.entreprises;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -8,14 +8,14 @@ import org.springframework.web.multipart.MultipartFile;
 
 /**
  * @author DIOMANDE Souleymane 
- * @project socoprim-internal-api
+ * @project molo-api
  * @Date 16/02/2024 11:14
  */
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
-public class UpdatePartnerRequest {
+public class UpdateEntrepriseRequest {
     private String id;
     private MultipartFile file;
 }

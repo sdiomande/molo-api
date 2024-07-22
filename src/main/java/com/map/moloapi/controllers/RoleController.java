@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.*;
 
 /**
  * @author DIOMANDE Souleymane 
- * @project socoprim-internal-api
+ * @project molo-api
  * @Date 16/02/2024 16:51
  */
 @RestController

@@ -17,7 +17,7 @@
 //
 ///**
 // * @author DIOMANDE Souleymane 
-// * @project socoprim-internal-api
+// * @project molo-api
 // * @Date 19/03/2024 13:48
 // */
 //@Configuration

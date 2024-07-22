@@ -34,7 +34,7 @@ import static org.springframework.security.config.http.SessionCreationPolicy.STA
 
 /**
  * @author DIOMANDE Souleymane 
- * @project socoprim-internal-api
+ * @project molo-api
  * @Date 03/11/2023 10:28
  */
 @Configuration
@@ -126,11 +126,11 @@ public class SecurityConfig {
                 .components(new Components()
                         .addSecuritySchemes("Bearer Authentication", createAPIKeyScheme()))
                 .info(new Info()
-                        .title("SOCOPRIM INTERNAL API")
-                        .description("SOCOPRIM INTERNAL API - RECHARGEMENT DES BADGES PONT HKB VIA PORTEFEUILLE ELECTRONIQUE")
+                        .title("MOLO API")
+                        .description("MOLO API - SYSTEME DE GESTION DE PAIEMENT ECHELONNE")
                         .version("1.0")
                         .contact(new Contact()
-                                .name("SOCITECH BUSINESS SOLUTIONS")
+                                .name("MAP")
                                 .email("support.sbs@socitech.com")
                                 .url("https://www.socitechbusiness.com"))
                         .license(new License()

@@ -8,7 +8,6 @@ import lombok.NoArgsConstructor;
 
 import java.io.Serializable;
 import java.util.List;
-import java.util.Set;
 
 @Data
 @AllArgsConstructor
@@ -41,7 +40,7 @@ public class UserDto implements Serializable {
     private boolean active;
     private boolean firstConnexion;
     private RoleDto role;
-    private PartnerDto partner;
+    private EntrepriseDto partner;
     private Integer attempt;
     private boolean locked;
     private List<MenuDto> menus;

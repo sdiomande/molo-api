@@ -8,7 +8,7 @@ import org.springframework.web.client.RestClient;
 
 /**
  * @author DIOMANDE Souleymane 
- * @project socoprim-internal-api
+ * @project molo-api
  * @Date 06/03/2024 13:16
  */
 @Slf4j

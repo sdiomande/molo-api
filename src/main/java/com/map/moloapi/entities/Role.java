@@ -12,7 +12,7 @@ import java.util.Set;
 
 /**
  * @author DIOMANDE Souleymane 
- * @project socoprim-internal-api
+ * @project molo-api
  * @Date 03/11/2023 10:40
  */
 @Entity
@@ -38,7 +38,7 @@ public class Role {
     private String description;
 
     @Column(columnDefinition = "boolean default false")
-    private Boolean isPartner;
+    private Boolean isEntreprise;
 //    @Column(nullable = false)
     private String createdAt;
     private String createdBy;

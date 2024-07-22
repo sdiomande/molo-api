@@ -25,7 +25,7 @@ public class AuthEntryPointJwt implements AuthenticationEntryPoint {
     @Override
     public void commence(HttpServletRequest request, HttpServletResponse response,
                          AuthenticationException authException) throws IOException {
-        logger.error("## Authentification requis, Status code : {}, HTTP [{}] : {}", HttpServletResponse.SC_UNAUTHORIZED, request.getMethod(), request.getRequestURI());
+        logger.error("Status code : {}, HTTP [{}] : {}", HttpServletResponse.SC_UNAUTHORIZED, request.getMethod(), request.getRequestURI());
         response.sendError(HttpServletResponse.SC_UNAUTHORIZED, "Echec d'authentification");
     }
 

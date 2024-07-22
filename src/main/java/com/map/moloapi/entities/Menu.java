@@ -8,7 +8,7 @@ import java.io.Serializable;
 
 /**
  * @author DIOMANDE Souleymane 
- * @project socoprim-internal-api
+ * @project molo-api
  * @Date 03/11/2023 12:13
  */
 @Entity

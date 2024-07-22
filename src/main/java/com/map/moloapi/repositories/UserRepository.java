@@ -42,7 +42,7 @@ public interface UserRepository extends JpaRepository<User, String> {
     @Query("select (count(u) > 0) from User u where u.id <> ?1 and u.email = ?2")
     boolean emailNotUpdatable(String id, String email);
 
-    @Query("select u from User u where u.partner.id = ?1 and" + filter)
+    @Query("select u from User u where u.entreprise.id = ?1 and" + filter)
     List<User> findByPartnerId(String id);
 
     @Transactional

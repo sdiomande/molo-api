@@ -18,7 +18,7 @@ import java.util.stream.Collectors;
 
 /**
  * @author DIOMANDE Souleymane 
- * @project socoprim-internal-api
+ * @project molo-api
  * @Date 21/02/2024 12:59
  */
 @Slf4j
