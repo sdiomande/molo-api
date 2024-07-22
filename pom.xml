@@ -11,7 +11,7 @@
     <groupId>com.map</groupId>
     <artifactId>molo-api</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
     <name>molo-api</name>
     <description>molo-api</description>
     <properties>
