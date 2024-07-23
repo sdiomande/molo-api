@@ -23,7 +23,7 @@ import static com.map.moloapi.utils.constants.TechnicalMessage.*;
 
 @RestController
 @RequestMapping("/users")
-@CrossOrigin(origins = "*", maxAge = 3600)
+//@CrossOrigin(origins = "*", maxAge = 3600)
 @Tag(name = "Gestion des utilisateurs")
 public class UserController {
 

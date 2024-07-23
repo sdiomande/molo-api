@@ -17,7 +17,7 @@ import org.springframework.web.bind.annotation.*;
  */
 @RestController
 @RequestMapping("/roles")
-@CrossOrigin(origins = "*", maxAge = 3600)
+//@CrossOrigin(origins = "*", maxAge = 3600)
 @Slf4j
 //@PreAuthorize("hasRole('ADMIN') or hasRole('SUPER_ADMIN')")
 @Tag(name = "Gestion des roles")
